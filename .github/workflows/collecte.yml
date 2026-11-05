@@ -1,0 +1,40 @@
+# À placer dans ton dépôt GitHub sous : .github/workflows/collecte.yml
+# Collecte automatique toutes les 10 minutes, même PC éteint.
+# Les CSV sont commités dans le dossier data/ du dépôt.
+name: Collecte transports IDF
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"     # GitHub peut décaler les passages de quelques minutes aux heures chargées
+  workflow_dispatch:            # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Europe/Paris
+      PRIM_API_KEY: ${{ secrets.PRIM_API_KEY }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Collecte
+        run: python idf_transports_live.py --once --velib-stations-toutes 60
+      - name: Enregistrement des CSV
+        run: |
+          git config user.name "collecte-bot"
+          git config user.email "collecte-bot@users.noreply.github.com"
+          git add data/
+          git add cache_affluence.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Relevé $(date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash || true
+          git push
