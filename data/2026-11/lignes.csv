@@ -58,3 +58,28 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-05 17:28:49,semaine,17,C01774,T7,tram,RATP,13,17,0,,,,6.29,,normal,0,719,73,55,,0
 2026-11-05 17:28:49,semaine,17,C01795,T8,tram,RATP,19,29,0,,,,7.93,,normal,0,18471,100,972,,0
 2026-11-05 17:28:49,semaine,17,C02317,T9,tram,Keolis Grand Paris Seine Orly,19,50,4,11.36,10.0,100.0,4.0,,perturbé,1,49,34,3,,0
+2026-11-06 02:45:12,semaine,2,C01374,4,metro,RATP,,,,,,,,,interrompu,1,9,0,,,
+2026-11-06 02:45:12,semaine,2,C01377,7,metro,RATP,0,1,0,,,,,,normal,0,8,0,,,0
+2026-11-06 02:45:12,semaine,2,C01387,7B,metro,RATP,,,,,,,,,interrompu,1,2,0,,,
+2026-11-06 02:45:12,semaine,2,C01378,8,metro,RATP,,,,,,,,,interrompu,1,8,0,,,
+2026-11-06 02:45:12,semaine,2,C01379,9,metro,RATP,0,1,0,,,,,,normal,0,6,0,,,0
+2026-11-06 02:45:12,semaine,2,C01742,A,rer,SNCF,0,0,0,,,,,,perturbé,1,3,0,,,0
+2026-11-06 02:45:12,semaine,2,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,3,3,0,,,0
+2026-11-06 02:45:12,semaine,2,C01727,C,rer,SNCF,0,0,0,,,,,,perturbé,8,3,0,,,0
+2026-11-06 02:45:12,semaine,2,C01728,D,rer,SNCF,0,0,0,,,,,,perturbé,2,1,0,,,0
+2026-11-06 02:45:12,semaine,2,C01729,E,rer,SNCF,0,0,0,,,,,,perturbé,1,2,0,,,0
+2026-11-06 02:45:12,semaine,2,C01737,H,train,SNCF,0,0,0,,,,,,perturbé,2,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01739,J,train,SNCF,0,0,0,,,,,,perturbé,8,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01738,K,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01740,L,train,SNCF,0,0,0,,,,,,perturbé,1,1,0,,,0
+2026-11-06 02:45:12,semaine,2,C01736,N,train,SNCF,0,0,0,,,,,,perturbé,3,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01730,P,train,SNCF,0,0,0,,,,,,normal,0,2,0,,,0
+2026-11-06 02:45:12,semaine,2,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,2,1,0,,,0
+2026-11-06 02:45:12,semaine,2,C01747,TER,train,SNCF,0,0,0,,,,,,normal,0,2,0,,,0
+2026-11-06 02:45:12,semaine,2,C01745,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01857,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01744,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C02372,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-06 02:45:12,semaine,2,C01741,U,train,SNCF,,,,,,,,,perturbé,1,0,0,,,
+2026-11-06 02:45:12,semaine,2,C02344,T13,tram,RATP Cap Arc Sud et Ouest,,,,,,,,,perturbé,1,0,0,,,
+2026-11-06 02:45:12,semaine,2,C01843,T4,tram,STRETTO,,,,,,,,,interrompu,3,0,0,,,
