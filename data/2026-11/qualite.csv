@@ -165,3 +165,23 @@ ts,source,controle,valeur,statut,detail
 2026-11-07 02:13:55,Affluence,Stations rattachées à une ligne (%),61.16,attention,les stations non rattachées ne comptent dans aucune ligne
 2026-11-07 02:13:55,Affluence,Jours de validations dans le modèle,91.0,ok,
 2026-11-07 02:13:55,Affluence,Ancienneté des validations (jours),130.0,ok,IDFM publie avec environ un semestre de décalage
+2026-11-07 08:18:50,Horaires,Collecte réussie,100.0,ok,
+2026-11-07 08:18:50,Horaires,Courses en double,0.0,ok,0 doublons écartés sur 10385 courses reçues
+2026-11-07 08:18:50,Horaires,Courses non mises à jour depuis 30 min,34.35,alerte,horodatage d'enregistrement ancien : le temps réel de ces courses est peut-être figé
+2026-11-07 08:18:50,Horaires,Retards aberrants écartés,0.0,ok,"écarts prévu/estimé de plus de 3 h, exclus des moyennes"
+2026-11-07 08:18:50,Horaires,Lignes absentes du référentiel,985.0,attention,"C00001, C00003, C00004, C00006, C00016, C00018, C00027, C00028, C00030, C00031, C00032, C00033, C00038, C00046, C00048"
+2026-11-07 08:18:50,Horaires,Lignes de métro sans rame en journée,0.0,ok,
+2026-11-07 08:18:50,Perturbations,Collecte réussie,100.0,ok,
+2026-11-07 08:18:50,Perturbations,Perturbations sans ligne rattachée,2.0,ok,elles apparaissent dans la liste mais ne colorent aucune ligne
+2026-11-07 08:18:50,Perturbations,Perturbations sans titre,0.0,ok,
+2026-11-07 08:18:50,Vélib',Collecte réussie,100.0,ok,
+2026-11-07 08:18:50,Vélib',Âge du flux (min),0.3,ok,
+2026-11-07 08:18:50,Vélib',Stations figées depuis plus de 2 h,0.13,ok,2 stations en service n'ont rien remonté depuis 2 h (borne déconnectée ?)
+2026-11-07 08:18:50,Vélib',Vélos + places > capacité,12.0,ok,l'indicateur « indisponibles » vaut alors 0 pour ces stations
+2026-11-07 08:18:50,Vélib',Stations sans position,0.0,ok,
+2026-11-07 08:18:50,Vélib',Stations sans état (info seule),0.0,ok,
+2026-11-07 08:18:50,Vélib',Total par type ≠ total vélos,0.0,ok,
+2026-11-07 08:18:50,Affluence,Stations localisées (%),63.64,alerte,
+2026-11-07 08:18:50,Affluence,Stations rattachées à une ligne (%),61.16,attention,les stations non rattachées ne comptent dans aucune ligne
+2026-11-07 08:18:50,Affluence,Jours de validations dans le modèle,91.0,ok,
+2026-11-07 08:18:50,Affluence,Ancienneté des validations (jours),130.0,ok,IDFM publie avec environ un semestre de décalage
