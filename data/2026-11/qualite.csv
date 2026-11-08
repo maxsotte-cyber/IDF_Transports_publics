@@ -286,3 +286,32 @@ ts,source,controle,valeur,statut,detail
 2026-11-08 02:49:13,Affluence,Stations rattachées à une ligne (%),61.16,attention,les stations non rattachées ne comptent dans aucune ligne
 2026-11-08 02:49:13,Affluence,Jours de validations dans le modèle,91.0,ok,
 2026-11-08 02:49:13,Affluence,Ancienneté des validations (jours),131.0,ok,IDFM publie avec environ un semestre de décalage
+2026-11-08 09:10:45,Horaires,Collecte réussie,100.0,ok,
+2026-11-08 09:10:45,Horaires,Couverture métro,93.75,attention,lignes sans donnée : 6
+2026-11-08 09:10:45,Horaires,Couverture RER,100.0,ok,toutes les lignes ont des données
+2026-11-08 09:10:45,Horaires,Couverture tram,100.0,ok,toutes les lignes ont des données
+2026-11-08 09:10:45,Horaires,Couverture Transilien/train,86.36,ok,"lignes sans donnée : CDG VAL, K, ORLYVAL"
+2026-11-08 09:10:45,Horaires,Retard calculable (RER),100.0,ok,"part des courses publiant l'heure prévue ET l'heure estimée ; en dessous, le retard moyen repose sur peu de courses"
+2026-11-08 09:10:45,Horaires,Retard calculable (Transilien/train),100.0,ok,"part des courses publiant l'heure prévue ET l'heure estimée ; en dessous, le retard moyen repose sur peu de courses"
+2026-11-08 09:10:45,Horaires,Retard calculable (tram),46.47,attention,"part des courses publiant l'heure prévue ET l'heure estimée ; en dessous, le retard moyen repose sur peu de courses"
+2026-11-08 09:10:45,Horaires,Retard calculable (bus),54.45,attention,"part des courses publiant l'heure prévue ET l'heure estimée ; en dessous, le retard moyen repose sur peu de courses"
+2026-11-08 09:10:45,Horaires,Retard calculable (métro),0.0,info,"part des courses publiant l'heure prévue ET l'heure estimée ; en dessous, le retard moyen repose sur peu de courses"
+2026-11-08 09:10:45,Horaires,Courses en double,0.0,ok,0 doublons écartés sur 6297 courses reçues
+2026-11-08 09:10:45,Horaires,Courses non mises à jour depuis 30 min,24.34,alerte,horodatage d'enregistrement ancien : le temps réel de ces courses est peut-être figé
+2026-11-08 09:10:45,Horaires,Retards aberrants écartés,0.0,ok,"écarts prévu/estimé de plus de 3 h, exclus des moyennes"
+2026-11-08 09:10:45,Horaires,Lignes absentes du référentiel,0.0,ok,
+2026-11-08 09:10:45,Horaires,Lignes de métro sans rame en journée,0.0,ok,
+2026-11-08 09:10:45,Perturbations,Collecte réussie,100.0,ok,
+2026-11-08 09:10:45,Perturbations,Perturbations sans ligne rattachée,2.0,ok,elles apparaissent dans la liste mais ne colorent aucune ligne
+2026-11-08 09:10:45,Perturbations,Perturbations sans titre,0.0,ok,
+2026-11-08 09:10:45,Vélib',Collecte réussie,100.0,ok,
+2026-11-08 09:10:45,Vélib',Âge du flux (min),0.4,ok,
+2026-11-08 09:10:45,Vélib',Stations figées depuis plus de 2 h,0.26,ok,4 stations en service n'ont rien remonté depuis 2 h (borne déconnectée ?)
+2026-11-08 09:10:45,Vélib',Vélos + places > capacité,10.0,ok,l'indicateur « indisponibles » vaut alors 0 pour ces stations
+2026-11-08 09:10:45,Vélib',Stations sans position,0.0,ok,
+2026-11-08 09:10:45,Vélib',Stations sans état (info seule),0.0,ok,
+2026-11-08 09:10:45,Vélib',Total par type ≠ total vélos,0.0,ok,
+2026-11-08 09:10:45,Affluence,Stations localisées (%),63.64,alerte,
+2026-11-08 09:10:45,Affluence,Stations rattachées à une ligne (%),61.16,attention,les stations non rattachées ne comptent dans aucune ligne
+2026-11-08 09:10:45,Affluence,Jours de validations dans le modèle,91.0,ok,
+2026-11-08 09:10:45,Affluence,Ancienneté des validations (jours),131.0,ok,IDFM publie avec environ un semestre de décalage
