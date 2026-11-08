@@ -2845,3 +2845,25 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-07 23:33:05,samedi,23,C01774,T7,tram,RATP,5,10,0,,,,15.0,,normal,0,83,20,17,,0
 2026-11-07 23:33:05,samedi,23,C01795,T8,tram,RATP,9,20,0,,,,18.0,,normal,0,3663,42,407,,0
 2026-11-07 23:33:05,samedi,23,C02317,T9,tram,Keolis Grand Paris Seine Orly,5,14,1,1.04,0.0,7.7,14.5,,normal,0,4,10,1,,0
+2026-11-08 02:49:13,dimanche,2,C01371,1,metro,RATP,,,,,,,,,interrompu,2,233,2,,,
+2026-11-08 02:49:13,dimanche,2,C01381,11,metro,RATP,,,,,,,,,interrompu,1,207,2,,,
+2026-11-08 02:49:13,dimanche,2,C01382,12,metro,RATP,,,,,,,,,interrompu,1,51,1,,,
+2026-11-08 02:49:13,dimanche,2,C01383,13,metro,RATP,,,,,,,,,interrompu,2,100,1,,,
+2026-11-08 02:49:13,dimanche,2,C01384,14,metro,RATP,,,,,,,,,interrompu,1,217,2,,,
+2026-11-08 02:49:13,dimanche,2,C01372,2,metro,RATP,,,,,,,,,interrompu,1,129,1,,,
+2026-11-08 02:49:13,dimanche,2,C01374,4,metro,RATP,,,,,,,,,interrompu,2,459,3,,,
+2026-11-08 02:49:13,dimanche,2,C01376,6,metro,RATP,,,,,,,,,interrompu,1,113,1,,,
+2026-11-08 02:49:13,dimanche,2,C01377,7,metro,RATP,,,,,,,,,interrompu,1,211,2,,,
+2026-11-08 02:49:13,dimanche,2,C01378,8,metro,RATP,,,,,,,,,interrompu,2,85,1,,,
+2026-11-08 02:49:13,dimanche,2,C01379,9,metro,RATP,,,,,,,,,interrompu,1,91,1,,,
+2026-11-08 02:49:13,dimanche,2,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,2,77,1,,,0
+2026-11-08 02:49:13,dimanche,2,C01727,C,rer,SNCF,0,0,0,,,,,,perturbé,5,35,0,,,0
+2026-11-08 02:49:13,dimanche,2,C01728,D,rer,SNCF,0,0,0,,,,,,perturbé,2,44,1,,,0
+2026-11-08 02:49:13,dimanche,2,C01729,E,rer,SNCF,0,0,0,,,,,,perturbé,1,93,1,,,0
+2026-11-08 02:49:13,dimanche,2,C01737,H,train,SNCF,0,0,0,,,,,,perturbé,2,3,0,,,0
+2026-11-08 02:49:13,dimanche,2,C01739,J,train,SNCF,,,,,,,,,perturbé,1,18,0,,,
+2026-11-08 02:49:13,dimanche,2,C01738,K,train,SNCF,,,,,,,,,perturbé,1,2,1,,,
+2026-11-08 02:49:13,dimanche,2,C01736,N,train,SNCF,0,0,0,,,,,,perturbé,2,0,0,,,0
+2026-11-08 02:49:13,dimanche,2,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,2,1,0,,,0
+2026-11-08 02:49:13,dimanche,2,C01389,T1,tram,RATP,0,0,0,,,,,,normal,0,1,0,,,0
+2026-11-08 02:49:13,dimanche,2,C01843,T4,tram,STRETTO,,,,,,,,,info,1,0,0,,,
