@@ -3775,3 +3775,49 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-13 00:48:19,semaine,0,C01774,T7,tram,RATP,3,6,0,,,,,,normal,0,21,2,7,,0
 2026-11-13 00:48:19,semaine,0,C01795,T8,tram,RATP,2,2,0,,,,,,normal,0,1221,7,610,,0
 2026-11-13 00:48:19,semaine,0,C02317,T9,tram,Keolis Grand Paris Seine Orly,4,6,0,1.17,0.0,16.7,15.0,,normal,0,0,0,0,,0
+2026-11-13 04:40:01,semaine,4,C02666,C1,cable,Transdev Côteaux de la Marne,,,,,,,,,interrompu,1,,,,,
+2026-11-13 04:40:01,semaine,4,C01380,10,metro,RATP,1,1,0,,,,,,normal,0,1,0,1,,0
+2026-11-13 04:40:01,semaine,4,C01374,4,metro,RATP,0,1,0,,,,,,interrompu,1,81,0,,,0
+2026-11-13 04:40:01,semaine,4,C01376,6,metro,RATP,0,1,0,,,,,,normal,0,18,0,,,0
+2026-11-13 04:40:01,semaine,4,C01387,7B,metro,RATP,,,,,,,,,interrompu,1,1,0,,,
+2026-11-13 04:40:01,semaine,4,C01378,8,metro,RATP,0,1,0,,,,,,interrompu,1,19,0,,,0
+2026-11-13 04:40:01,semaine,4,C01742,A,rer,SNCF,1,17,0,0.5,0.5,0.0,14.44,,normal,0,348,1,348,,0
+2026-11-13 04:40:01,semaine,4,C01743,B,rer,SNCF,1,22,1,0.33,0.42,0.0,11.0,,normal,0,508,2,508,,0
+2026-11-13 04:40:01,semaine,4,C01727,C,rer,SNCF,3,23,0,0.02,0.0,0.0,25.25,,normal,0,447,2,149,,0
+2026-11-13 04:40:01,semaine,4,C01728,D,rer,SNCF,6,25,1,0.06,0.0,0.0,15.0,,perturbé,1,666,5,111,,0
+2026-11-13 04:40:01,semaine,4,C01729,E,rer,SNCF,0,11,0,0.0,0.0,0.0,15.0,,perturbé,1,160,1,,,0
+2026-11-13 04:40:01,semaine,4,C01737,H,train,SNCF,3,14,0,0.1,0.0,0.0,28.65,,normal,0,242,3,81,,0
+2026-11-13 04:40:01,semaine,4,C01739,J,train,SNCF,3,17,0,0.03,0.0,0.0,26.28,,normal,0,459,3,153,,0
+2026-11-13 04:40:01,semaine,4,C01738,K,train,SNCF,0,2,0,0.0,0.0,0.0,30.0,,normal,0,8,1,,,0
+2026-11-13 04:40:01,semaine,4,C01740,L,train,SNCF,1,9,0,0.0,0.0,0.0,15.0,,normal,0,118,1,118,,0
+2026-11-13 04:40:01,semaine,4,C01736,N,train,SNCF,1,7,0,0.0,0.0,0.0,30.0,,normal,0,136,1,136,,0
+2026-11-13 04:40:01,semaine,4,C01730,P,train,SNCF,0,8,0,0.0,0.0,0.0,30.0,,normal,0,291,2,,,0
+2026-11-13 04:40:01,semaine,4,C01731,R,train,SNCF,1,4,0,0.0,0.0,0.0,29.25,,perturbé,1,76,2,76,,0
+2026-11-13 04:40:01,semaine,4,C02372,TER,train,SNCF,0,1,0,0.0,0.0,0.0,,,normal,0,,,,,0
+2026-11-13 04:40:01,semaine,4,C02370,TER,train,SNCF,0,0,0,,,,,,normal,0,14,0,,,0
+2026-11-13 04:40:01,semaine,4,C01863,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-13 04:40:01,semaine,4,C01747,TER,train,SNCF,0,0,0,,,,,,normal,0,27,0,,,0
+2026-11-13 04:40:01,semaine,4,C01857,TER,train,SNCF,0,0,0,,,,,,normal,0,62,10,,,0
+2026-11-13 04:40:01,semaine,4,C01748,TER,train,SNCF,0,0,0,,,,,,normal,0,14,0,,,0
+2026-11-13 04:40:01,semaine,4,C01745,TER,train,SNCF,0,2,0,0.0,0.0,0.0,,,normal,0,12,2,,,0
+2026-11-13 04:40:01,semaine,4,C02368,TER,train,SNCF,0,0,0,,,,,,normal,0,8,1,,,0
+2026-11-13 04:40:01,semaine,4,C01746,TER,train,SNCF,0,1,0,0.0,0.0,0.0,,,normal,0,46,7,,,0
+2026-11-13 04:40:01,semaine,4,C02375,TER,train,SNCF,0,0,0,,,,,,normal,0,14,0,,,0
+2026-11-13 04:40:01,semaine,4,C01744,TER,train,SNCF,2,4,0,0.0,0.0,0.0,38.0,,normal,0,28,0,14,,0
+2026-11-13 04:40:01,semaine,4,C01741,U,train,SNCF,0,1,0,0.0,0.0,0.0,,,normal,0,58,1,,,0
+2026-11-13 04:40:01,semaine,4,C02711,V,train,SNCF,0,1,0,0.0,0.0,0.0,,,normal,0,0,0,,,0
+2026-11-13 04:40:01,semaine,4,C01389,T1,tram,RATP,0,3,0,,,,,,normal,0,24,1,,,0
+2026-11-13 04:40:01,semaine,4,C02528,T10,tram,RD Bièvre,0,8,0,0.0,0.0,0.0,12.0,,normal,0,,,,,0
+2026-11-13 04:40:01,semaine,4,C01999,T11,tram,STRETTO,1,10,0,0.0,0.0,0.0,10.0,,normal,0,7,2,7,,0
+2026-11-13 04:40:01,semaine,4,C02529,T12,tram,RATP Cap Arc Sud et Ouest,1,7,0,0.3,0.0,0.0,29.0,,normal,0,14,2,14,,0
+2026-11-13 04:40:01,semaine,4,C02344,T13,tram,RATP Cap Arc Sud et Ouest,0,2,0,0.0,0.0,0.0,,,normal,0,2,1,,,0
+2026-11-13 04:40:01,semaine,4,C02732,T14,tram,STRETTO,1,3,0,0.0,0.0,0.0,49.0,,normal,0,9,4,9,,0
+2026-11-13 04:40:01,semaine,4,C01390,T2,tram,RATP,0,3,0,,,,,,normal,0,11,0,,,0
+2026-11-13 04:40:01,semaine,4,C01391,T3a,tram,RATP,0,2,0,,,,,,normal,0,3,0,,,0
+2026-11-13 04:40:01,semaine,4,C01679,T3b,tram,RATP,1,2,0,,,,,,normal,0,4,0,4,,0
+2026-11-13 04:40:01,semaine,4,C01843,T4,tram,STRETTO,2,29,5,0.1,0.0,0.0,9.0,,interrompu,2,7,1,4,,0
+2026-11-13 04:40:01,semaine,4,C01684,T5,tram,RATP,0,4,0,,,,,,normal,0,,,,,0
+2026-11-13 04:40:01,semaine,4,C01794,T6,tram,RATP,0,1,0,,,,,,normal,0,0,0,,,0
+2026-11-13 04:40:01,semaine,4,C01774,T7,tram,RATP,0,2,0,,,,,,normal,0,1,0,,,0
+2026-11-13 04:40:01,semaine,4,C01795,T8,tram,RATP,0,2,0,,,,,,normal,0,178,1,,,0
+2026-11-13 04:40:01,semaine,4,C02317,T9,tram,Keolis Grand Paris Seine Orly,0,5,0,0.0,0.0,0.0,11.5,,normal,0,7,5,,,0

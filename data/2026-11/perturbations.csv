@@ -33591,3 +33591,1084 @@ ts,id_perturbation,id_ligne,ligne,famille,gravite,cause,titre,debut,fin
 2026-11-13 00:48:19,edbbf8b5-fbcc-4170-9d41-b14701b05ceb,C00413,5117,bus,info,INFORMATION,ℹ️⏱️ Adaptation de votre ligne 5117 à partir du 16 novembre 2026 suite à la fermeture de l'A13.,2026-11-10 14:26,2026-11-29 23:59
 2026-11-13 00:48:19,08e9d9e1-3096-4129-9cca-3234e57b014c,C02179,A01 PPM,bus,info,INFORMATION,Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation,2026-02-04 11:02,2027-02-27 13:02
 2026-11-13 00:48:19,dbedc9f8-8ea8-41f1-9188-2df40459dcff,C02723,A04 VIL,bus,info,INFORMATION,Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation,2026-02-04 10:29,2027-02-25 12:29
+2026-11-13 04:40:01,c5c6b893-2a3f-4737-84b2-eb9a10f970fd,C01255,274,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:21,2026-12-12 03:21
+2026-11-13 04:40:01,c5c6b893-2a3f-4737-84b2-eb9a10f970fd,C01354,Jaune,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:21,2026-12-12 03:21
+2026-11-13 04:40:01,c5c6b893-2a3f-4737-84b2-eb9a10f970fd,C02892,Verte,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:21,2026-12-12 03:21
+2026-11-13 04:40:01,f7cfc0fd-838d-4c82-a22e-87db77bf0a98,C01094,57,bus,interrompu,TRAVAUX,Bus 57 : Travaux - Arrêt(s) non desservi(s),2026-06-09 05:00,2027-02-01 03:30
+2026-11-13 04:40:01,f7cfc0fd-838d-4c82-a22e-87db77bf0a98,C01229,215,bus,interrompu,TRAVAUX,Bus 57 : Travaux - Arrêt(s) non desservi(s),2026-06-09 05:00,2027-02-01 03:30
+2026-11-13 04:40:01,f7b3e1b2-be29-4dfe-97b6-cd9d175f3118,C01161,133,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,f7b3e1b2-be29-4dfe-97b6-cd9d175f3118,C01406,N43,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,e10ce2f7-bca7-4db1-9a09-8967645ea703,C01234,234,bus,interrompu,TRAVAUX,Bus 248 : Travaux - Arrêt(s) non desservi(s),2026-10-19 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,e10ce2f7-bca7-4db1-9a09-8967645ea703,C01696,248,bus,interrompu,TRAVAUX,Bus 248 : Travaux - Arrêt(s) non desservi(s),2026-10-19 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,ff04127e-fe6b-4f12-9b94-6898d2033bd9,C02437,209,bus,interrompu,TRAVAUX,Bus 209 : Travaux - Arrêt(s) non desservi(s),2026-05-18 07:00,2026-12-18 19:00
+2026-11-13 04:40:01,a97492b4-0143-47eb-9613-07af78af495f,C01072,20,bus,interrompu,TRAVAUX,Bus 20 : Travaux - Arrêt(s) non desservi(s),2026-11-03 08:34,2026-12-04 03:30
+2026-11-13 04:40:01,e015dbb4-b0ec-4493-8ecd-4db39dc64093,C01072,20,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,e015dbb4-b0ec-4493-8ecd-4db39dc64093,C01127,96,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,e015dbb4-b0ec-4493-8ecd-4db39dc64093,C01397,N23,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,e015dbb4-b0ec-4493-8ecd-4db39dc64093,C01420,N12,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,e015dbb4-b0ec-4493-8ecd-4db39dc64093,C02246,71,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,1b62b8ba-54ce-4f5a-ab16-a2bfa280eb76,C01131,102,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:05,2027-01-01 03:59
+2026-11-13 04:40:01,1b62b8ba-54ce-4f5a-ab16-a2bfa280eb76,C01150,121,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:05,2027-01-01 03:59
+2026-11-13 04:40:01,1b62b8ba-54ce-4f5a-ab16-a2bfa280eb76,C01272,301,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:05,2027-01-01 03:59
+2026-11-13 04:40:01,1b62b8ba-54ce-4f5a-ab16-a2bfa280eb76,C01398,N34,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:05,2027-01-01 03:59
+2026-11-13 04:40:01,1b62b8ba-54ce-4f5a-ab16-a2bfa280eb76,C02714,202,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:05,2027-01-01 03:59
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01073,21,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01083,38,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01095,58,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01106,70,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01127,96,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01401,N21,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01418,N14,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01419,N13,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,1298b905-d101-4206-b7c8-dba62adde80e,C01420,N12,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-22 03:30
+2026-11-13 04:40:01,d981846a-dc64-42e4-a818-039f927154ea,C01116,84,bus,interrompu,TRAVAUX,Bus 84 : Travaux - Arrêt(s) non desservi(s),2026-10-23 10:03,2026-11-15 03:30
+2026-11-13 04:40:01,65536a20-05b7-4921-ac59-2715f946806a,C01131,102,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,65536a20-05b7-4921-ac59-2715f946806a,C01150,121,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,65536a20-05b7-4921-ac59-2715f946806a,C01398,N34,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,65536a20-05b7-4921-ac59-2715f946806a,C02714,202,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,af7948db-7637-4264-a6cb-7414e72601aa,C01419,N13,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-09-25 22:45,2030-12-31 07:00
+2026-11-13 04:40:01,94e8f31f-081f-471e-8105-b0274399a4a7,C01111,76,bus,interrompu,TRAVAUX,Bus 76 : Travaux - Arrêt(s) non desservi(s),2026-11-04 18:00,2027-06-01 03:30
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01093,56,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01118,86,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01281,318,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01288,325,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01399,N33,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,ff9d0e9b-ed6e-4047-affb-70bb8be9fe0d,C01415,N11,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-03 13:33,2027-02-06 03:00
+2026-11-13 04:40:01,8709082a-3150-4208-b864-52a00d73f9bb,C01161,133,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,8709082a-3150-4208-b864-52a00d73f9bb,C01251,268,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,8709082a-3150-4208-b864-52a00d73f9bb,C01308,368,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,8709082a-3150-4208-b864-52a00d73f9bb,C01309,370,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,8709082a-3150-4208-b864-52a00d73f9bb,C01406,N43,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,b888cba6-6dc9-4408-956c-3ab4f8f45d55,C01102,66,bus,interrompu,TRAVAUX,Bus 66 : Travaux - Arrêt(s) non desservi(s),2026-10-19 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,b888cba6-6dc9-4408-956c-3ab4f8f45d55,C01194,173,bus,interrompu,TRAVAUX,Bus 66 : Travaux - Arrêt(s) non desservi(s),2026-10-19 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,b888cba6-6dc9-4408-956c-3ab4f8f45d55,C01255,274,bus,interrompu,TRAVAUX,Bus 66 : Travaux - Arrêt(s) non desservi(s),2026-10-19 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,b888cba6-6dc9-4408-956c-3ab4f8f45d55,C01294,341,bus,interrompu,TRAVAUX,Bus 66 : Travaux - Arrêt(s) non desservi(s),2026-10-19 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,eed79afc-b7f7-46f9-9312-956a5a54bf2b,C01234,234,bus,interrompu,TRAVAUX,Bus 234 : Travaux - Arrêt(s) non desservi(s),2026-10-19 19:16,2026-12-19 03:16
+2026-11-13 04:40:01,eed79afc-b7f7-46f9-9312-956a5a54bf2b,C01696,248,bus,interrompu,TRAVAUX,Bus 234 : Travaux - Arrêt(s) non desservi(s),2026-10-19 19:16,2026-12-19 03:16
+2026-11-13 04:40:01,98470321-196b-480d-ad94-fcadf2b1dc83,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 05:00,2026-12-24 03:30
+2026-11-13 04:40:01,10fb7bb4-ee7a-4c3c-b5c5-70c406f22b98,C01144,115,bus,interrompu,TRAVAUX,Bus 115 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:21,2027-02-06 00:59
+2026-11-13 04:40:01,10fb7bb4-ee7a-4c3c-b5c5-70c406f22b98,C01147,118,bus,interrompu,TRAVAUX,Bus 115 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:21,2027-02-06 00:59
+2026-11-13 04:40:01,10fb7bb4-ee7a-4c3c-b5c5-70c406f22b98,C01153,124,bus,interrompu,TRAVAUX,Bus 115 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:21,2027-02-06 00:59
+2026-11-13 04:40:01,327057a3-f2f1-4cd3-ac1e-1bde6531c62f,C01756,337,bus,interrompu,TRAVAUX,Bus 337 : Travaux - Arrêt(s) non desservi(s),2026-11-04 05:00,2026-12-18 03:30
+2026-11-13 04:40:01,c0e80443-eba5-4b29-b952-2cf4d50edf13,C01405,N45,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,c0e80443-eba5-4b29-b952-2cf4d50edf13,C01411,N41,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,c0e80443-eba5-4b29-b952-2cf4d50edf13,C01419,N13,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,c0e80443-eba5-4b29-b952-2cf4d50edf13,C02246,71,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,54b1a9e0-2a51-4b49-9f2b-6b7701242aba,C01095,58,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-10-23 10:03,2026-12-22 03:30
+2026-11-13 04:40:01,1046d5e4-ffdb-42f6-bea1-308edc71de49,C01387,7B,metro,interrompu,TRAVAUX,Métro 7B : Travaux de modernisation - Trafic interrompu,2026-11-09 04:45,2026-11-14 04:30
+2026-11-13 04:40:01,b547ba8f-bc9c-420c-a82a-03ed8cfb0f71,C01110,75,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,b547ba8f-bc9c-420c-a82a-03ed8cfb0f71,C01405,N45,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,b547ba8f-bc9c-420c-a82a-03ed8cfb0f71,C01411,N41,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,b547ba8f-bc9c-420c-a82a-03ed8cfb0f71,C01419,N13,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,b547ba8f-bc9c-420c-a82a-03ed8cfb0f71,C02246,71,bus,interrompu,TRAVAUX,Bus 71 : Travaux - Arrêt(s) non desservi(s),2026-10-26 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,8564fec9-94d1-497b-8446-a4b59bd7cbaf,C01163,137,bus,interrompu,TRAVAUX,Bus N51 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:27,2027-01-01 07:00
+2026-11-13 04:40:01,8564fec9-94d1-497b-8446-a4b59bd7cbaf,C01394,N51,bus,interrompu,TRAVAUX,Bus N51 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:27,2027-01-01 07:00
+2026-11-13 04:40:01,4b0c12f6-a089-47c2-a126-63033d5e48f2,C01303,356,bus,interrompu,TRAVAUX,Bus 356 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:30,2026-12-19 03:30
+2026-11-13 04:40:01,2f728cb3-95c6-443e-aea4-6ddb6d125339,C01286,322,bus,interrompu,TRAVAUX,Bus 322 : Travaux - Arrêt(s) non desservi(s),2026-09-07 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,2f728cb3-95c6-443e-aea4-6ddb6d125339,C02713,245,bus,interrompu,TRAVAUX,Bus 322 : Travaux - Arrêt(s) non desservi(s),2026-09-07 05:00,2026-11-14 04:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C00670,4518,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C01262,285,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C01407,N22,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C01636,N131,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C01645,N139,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C01821,486,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,661c73d3-08fe-4315-a819-a881862f8931,C02725,9112,bus,interrompu,TRAVAUX,Bus 285 : Travaux - Arrêt(s) non desservi(s),2026-11-03 04:00,2031-12-31 03:30
+2026-11-13 04:40:01,b4ba8051-931c-42e2-a1e2-4cd9a5d3a72c,C01286,322,bus,interrompu,TRAVAUX,Bus 322 : Travaux - Arrêt(s) non desservi(s),2026-11-02 04:30,2027-02-06 03:30
+2026-11-13 04:40:01,78b41495-d1df-423f-a43a-be1a8dfe77ca,C01378,8,metro,interrompu,TRAVAUX,Métro 8 : Travaux de rénovation - Arrêt non desservi,2026-07-22 04:45,2027-04-23 04:30
+2026-11-13 04:40:01,2dd4d8fc-6727-4399-897d-ab2b060ded0a,C00343,6,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-10-19 22:45,2027-07-01 07:00
+2026-11-13 04:40:01,2dd4d8fc-6727-4399-897d-ab2b060ded0a,C00344,7,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-10-19 22:45,2027-07-01 07:00
+2026-11-13 04:40:01,2dd4d8fc-6727-4399-897d-ab2b060ded0a,C01217,197,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-10-19 22:45,2027-07-01 07:00
+2026-11-13 04:40:01,2dd4d8fc-6727-4399-897d-ab2b060ded0a,C01401,N21,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-10-19 22:45,2027-07-01 07:00
+2026-11-13 04:40:01,2dd4d8fc-6727-4399-897d-ab2b060ded0a,C01418,N14,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-10-19 22:45,2027-07-01 07:00
+2026-11-13 04:40:01,ead5932b-8920-4b66-9f89-5a2f48426d88,C01093,56,bus,interrompu,TRAVAUX,Bus N11 : Travaux - Arrêt(s) non desservi(s),2026-11-09 02:51,2026-12-05 08:00
+2026-11-13 04:40:01,ead5932b-8920-4b66-9f89-5a2f48426d88,C01281,318,bus,interrompu,TRAVAUX,Bus N11 : Travaux - Arrêt(s) non desservi(s),2026-11-09 02:51,2026-12-05 08:00
+2026-11-13 04:40:01,ead5932b-8920-4b66-9f89-5a2f48426d88,C01288,325,bus,interrompu,TRAVAUX,Bus N11 : Travaux - Arrêt(s) non desservi(s),2026-11-09 02:51,2026-12-05 08:00
+2026-11-13 04:40:01,ead5932b-8920-4b66-9f89-5a2f48426d88,C01399,N33,bus,interrompu,TRAVAUX,Bus N11 : Travaux - Arrêt(s) non desservi(s),2026-11-09 02:51,2026-12-05 08:00
+2026-11-13 04:40:01,ead5932b-8920-4b66-9f89-5a2f48426d88,C01415,N11,bus,interrompu,TRAVAUX,Bus N11 : Travaux - Arrêt(s) non desservi(s),2026-11-09 02:51,2026-12-05 08:00
+2026-11-13 04:40:01,15f5a8ea-c1f2-41c8-9079-6f1c7a719130,C02254,40,bus,interrompu,TRAVAUX,Bus 40 : Travaux - Arrêt(s) non desservi(s),2026-11-02 04:30,2026-12-02 04:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01073,21,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01083,38,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01095,58,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01106,70,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01127,96,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01392,N24,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01401,N21,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01418,N14,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01419,N13,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,8712ddc1-323e-4d4c-9460-88094a3dfb78,C01420,N12,bus,interrompu,TRAVAUX,Bus N12 : Travaux - Arrêt(s) non desservi(s),2026-10-02 22:00,2031-12-31 08:00
+2026-11-13 04:40:01,392b6c85-e727-4afc-9b24-73b16080a795,C02437,209,bus,interrompu,TRAVAUX,Bus 209 : Travaux - Arrêt(s) non desservi(s),2026-09-20 14:34,2027-02-19 04:09
+2026-11-13 04:40:01,532cfcf6-c729-40f5-b4be-7bff00d421dd,C01110,75,bus,interrompu,TRAVAUX,Bus 75 : Travaux - Arrêt(s) non desservi(s),2026-04-25 07:35,2027-01-01 03:30
+2026-11-13 04:40:01,7bc656a8-1ee5-4bc3-93e1-db804417f7c9,C01093,56,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-06 04:30
+2026-11-13 04:40:01,7bc656a8-1ee5-4bc3-93e1-db804417f7c9,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-06 04:30
+2026-11-13 04:40:01,7bc656a8-1ee5-4bc3-93e1-db804417f7c9,C01288,325,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-06 04:30
+2026-11-13 04:40:01,7bc656a8-1ee5-4bc3-93e1-db804417f7c9,C01399,N33,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-06 04:30
+2026-11-13 04:40:01,7bc656a8-1ee5-4bc3-93e1-db804417f7c9,C01415,N11,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-06 04:30
+2026-11-13 04:40:01,b101c137-ac75-459e-a177-82df807e2083,C01166,140,bus,interrompu,TRAVAUX,Bus 340 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:00,2027-02-28 03:30
+2026-11-13 04:40:01,b101c137-ac75-459e-a177-82df807e2083,C01254,272,bus,interrompu,TRAVAUX,Bus 340 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:00,2027-02-28 03:30
+2026-11-13 04:40:01,b101c137-ac75-459e-a177-82df807e2083,C01292,340,bus,interrompu,TRAVAUX,Bus 340 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:00,2027-02-28 03:30
+2026-11-13 04:40:01,b101c137-ac75-459e-a177-82df807e2083,C01393,N52,bus,interrompu,TRAVAUX,Bus 340 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:00,2027-02-28 03:30
+2026-11-13 04:40:01,c31122ed-50cd-4c07-a6c9-c7a9b6590722,C01229,215,bus,interrompu,TRAVAUX,Bus 215 : Travaux - Arrêt(s) non desservi(s),2026-10-17 05:00,2026-11-21 03:00
+2026-11-13 04:40:01,9cd4370c-ad29-43da-b511-f3e3bf03d55a,C00001,482,bus,interrompu,TRAVAUX,Bus 382 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:37,2026-11-21 03:30
+2026-11-13 04:40:01,9cd4370c-ad29-43da-b511-f3e3bf03d55a,C01282,319,bus,interrompu,TRAVAUX,Bus 382 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:37,2026-11-21 03:30
+2026-11-13 04:40:01,9cd4370c-ad29-43da-b511-f3e3bf03d55a,C02459,382,bus,interrompu,TRAVAUX,Bus 382 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:37,2026-11-21 03:30
+2026-11-13 04:40:01,a4a9d8fa-7b1a-41a0-b550-5d9acbcc65cb,C01234,234,bus,interrompu,TRAVAUX,Bus 234 : Travaux - Arrêt(s) non desservi(s),2026-02-02 19:26,2027-01-01 03:14
+2026-11-13 04:40:01,92331f53-67f9-412f-a9cb-c979314850e5,C00346,409,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 02:00
+2026-11-13 04:40:01,92331f53-67f9-412f-a9cb-c979314850e5,C01148,119,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 02:00
+2026-11-13 04:40:01,92331f53-67f9-412f-a9cb-c979314850e5,C01282,319,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 02:00
+2026-11-13 04:40:01,92331f53-67f9-412f-a9cb-c979314850e5,C01837,J,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 02:00
+2026-11-13 04:40:01,92331f53-67f9-412f-a9cb-c979314850e5,C02502,V,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 02:00
+2026-11-13 04:40:01,0fb04795-3141-4373-96fd-ebde58ab702e,C01110,75,bus,interrompu,TRAVAUX,Bus 75 : Travaux - Arrêt(s) non desservi(s),2026-08-13 08:27,2027-01-01 03:00
+2026-11-13 04:40:01,4867e0b7-e193-4607-a8e6-43d9f51365e2,C01245,253,bus,interrompu,TRAVAUX,Bus 253 : Travaux - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 08:00
+2026-11-13 04:40:01,5a73c2e0-2470-4ee1-a12a-db286e301eed,C01095,58,bus,interrompu,TRAVAUX,Bus 84 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:00,2026-11-16 03:00
+2026-11-13 04:40:01,5a73c2e0-2470-4ee1-a12a-db286e301eed,C01116,84,bus,interrompu,TRAVAUX,Bus 84 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:00,2026-11-16 03:00
+2026-11-13 04:40:01,5a73c2e0-2470-4ee1-a12a-db286e301eed,C01121,89,bus,interrompu,TRAVAUX,Bus 84 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:00,2026-11-16 03:00
+2026-11-13 04:40:01,f0ddc5dc-e5d1-40c6-9ede-dcf31095127c,C01281,318,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-11-09 05:00,2027-02-27 03:30
+2026-11-13 04:40:01,f0ddc5dc-e5d1-40c6-9ede-dcf31095127c,C02713,245,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-11-09 05:00,2027-02-27 03:30
+2026-11-13 04:40:01,47498767-2d31-4c12-921d-dc0842a3dc1e,C01217,197,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,47498767-2d31-4c12-921d-dc0842a3dc1e,C01317,391,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,47498767-2d31-4c12-921d-dc0842a3dc1e,C01418,N14,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,47498767-2d31-4c12-921d-dc0842a3dc1e,C02659,N123,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,e784da53-cf59-4594-a4f0-bcfa03d7a4cf,C01131,102,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-11-06 17:30,2027-01-01 03:30
+2026-11-13 04:40:01,e784da53-cf59-4594-a4f0-bcfa03d7a4cf,C01150,121,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-11-06 17:30,2027-01-01 03:30
+2026-11-13 04:40:01,e784da53-cf59-4594-a4f0-bcfa03d7a4cf,C01398,N34,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-11-06 17:30,2027-01-01 03:30
+2026-11-13 04:40:01,e784da53-cf59-4594-a4f0-bcfa03d7a4cf,C02714,202,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-11-06 17:30,2027-01-01 03:30
+2026-11-13 04:40:01,9795fac1-5c49-4b22-b39c-b027baf1ec69,C01073,21,bus,interrompu,TRAVAUX,Bus 21 : Travaux - Arrêt(s) non desservi(s),2026-10-27 14:00,2026-12-22 03:00
+2026-11-13 04:40:01,7d41afec-d598-426a-b835-7e67b40eac9b,C01303,356,bus,interrompu,TRAVAUX,Bus 356 : Travaux - Arrêt(s) non desservi(s),2026-11-01 03:30,2026-12-19 03:30
+2026-11-13 04:40:01,9ef1c016-82e9-477d-ba2d-240a7b84d1dc,C01134,105,bus,interrompu,TRAVAUX,Bus 105 : Travaux - Arrêt(s) non desservi(s),2026-04-07 10:59,2028-04-07 00:59
+2026-11-13 04:40:01,eef92a8d-d63e-426c-a9c7-0a8e7617acf4,C01094,57,bus,interrompu,TRAVAUX,Bus 57 : Travaux - Arrêt(s) non desservi(s),2026-08-12 17:36,2027-02-01 03:30
+2026-11-13 04:40:01,398a28e1-dc8f-42ec-baec-232749c463d6,C01161,133,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:21,2027-01-01 07:00
+2026-11-13 04:40:01,398a28e1-dc8f-42ec-baec-232749c463d6,C01251,268,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:21,2027-01-01 07:00
+2026-11-13 04:40:01,398a28e1-dc8f-42ec-baec-232749c463d6,C01308,368,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:21,2027-01-01 07:00
+2026-11-13 04:40:01,398a28e1-dc8f-42ec-baec-232749c463d6,C01309,370,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:21,2027-01-01 07:00
+2026-11-13 04:40:01,398a28e1-dc8f-42ec-baec-232749c463d6,C01406,N43,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:21,2027-01-01 07:00
+2026-11-13 04:40:01,05da77ed-cd24-4d76-abc2-6b7686fccb09,C01131,102,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:06,2027-01-01 03:59
+2026-11-13 04:40:01,05da77ed-cd24-4d76-abc2-6b7686fccb09,C01150,121,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:06,2027-01-01 03:59
+2026-11-13 04:40:01,05da77ed-cd24-4d76-abc2-6b7686fccb09,C01272,301,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:06,2027-01-01 03:59
+2026-11-13 04:40:01,05da77ed-cd24-4d76-abc2-6b7686fccb09,C01398,N34,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:06,2027-01-01 03:59
+2026-11-13 04:40:01,05da77ed-cd24-4d76-abc2-6b7686fccb09,C02714,202,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-11-07 18:06,2027-01-01 03:59
+2026-11-13 04:40:01,a948ba60-6657-49a8-b780-c70efa81134f,C01161,133,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,a948ba60-6657-49a8-b780-c70efa81134f,C01406,N43,bus,interrompu,TRAVAUX,Bus 133 : Travaux - Arrêt(s) non desservi(s),2026-10-31 04:00,2027-02-27 03:00
+2026-11-13 04:40:01,4a734ac8-b07d-4bc0-8e1d-d0f1b82ed69a,C01111,76,bus,interrompu,TRAVAUX,Bus 76 : Travaux - Arrêt(s) non desservi(s),2026-10-12 21:51,2027-01-02 04:00
+2026-11-13 04:40:01,306af586-67a8-4f84-b629-5f4482de5c3d,C00798,7706,bus,interrompu,TRAVAUX,PORTE DE PARIS,2026-10-27 11:00,2026-11-30 23:59
+2026-11-13 04:40:01,f5b9f22f-9321-4ddd-b4aa-a8b58b482d80,C01150,121,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 04:30,2027-01-01 03:30
+2026-11-13 04:40:01,e9363590-80f4-491f-9aee-d191819026d2,C01374,4,metro,interrompu,TRAVAUX,Métro 4 : Travaux de rénovation - Arrêt non desservi,2026-10-11 18:00,2026-12-20 04:30
+2026-11-13 04:40:01,ce9ba659-79f3-4a54-b3ab-718af97ef24a,C01106,70,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-10-17 12:39,2026-12-22 03:00
+2026-11-13 04:40:01,42766004-ea67-467e-b0c9-037391deabe5,C01295,346,bus,interrompu,TRAVAUX,Bus 346 : Travaux - Arrêt(s) non desservi(s),2026-11-10 08:25,2026-12-12 03:00
+2026-11-13 04:40:01,10a578c4-92ff-4043-9f65-1efe8515d8f9,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-10-23 05:00,2026-12-24 03:00
+2026-11-13 04:40:01,bb234c5c-3c54-4987-aa40-2089365b2360,C01635,N151,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Mantes-la-Jolie,2026-10-06 08:00,2027-11-30 23:59
+2026-11-13 04:40:01,bb234c5c-3c54-4987-aa40-2089365b2360,C02479,5441,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Mantes-la-Jolie,2026-10-06 08:00,2027-11-30 23:59
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01073,21,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01083,38,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01095,58,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01106,70,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01127,96,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01401,N21,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01418,N14,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01419,N13,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,c4c05e36-a24b-4ba9-bdf0-2b856efd7d90,C01420,N12,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-09-26 22:45,2031-08-31 23:30
+2026-11-13 04:40:01,008d5dbe-a6b7-4843-acff-d39ec44916ce,C01111,76,bus,interrompu,TRAVAUX,Bus 76 : Travaux - Arrêt(s) non desservi(s),2026-11-06 06:03,2027-02-06 04:30
+2026-11-13 04:40:01,65bf22d2-39a3-4207-b340-5676d0ea9667,C01071,TVM,bus,interrompu,TRAVAUX,Bus N62 : Travaux - Arrêt(s) non desservi(s),2026-07-19 01:49,2027-01-01 12:59
+2026-11-13 04:40:01,65bf22d2-39a3-4207-b340-5676d0ea9667,C01403,N62,bus,interrompu,TRAVAUX,Bus N62 : Travaux - Arrêt(s) non desservi(s),2026-07-19 01:49,2027-01-01 12:59
+2026-11-13 04:40:01,1cb8a9d0-ddf9-4935-91cb-9602701b3681,C01095,58,bus,interrompu,TRAVAUX,Bus 89 : Travaux - Arrêt(s) non desservi(s),2026-11-12 15:03,2026-11-16 01:03
+2026-11-13 04:40:01,1cb8a9d0-ddf9-4935-91cb-9602701b3681,C01116,84,bus,interrompu,TRAVAUX,Bus 89 : Travaux - Arrêt(s) non desservi(s),2026-11-12 15:03,2026-11-16 01:03
+2026-11-13 04:40:01,1cb8a9d0-ddf9-4935-91cb-9602701b3681,C01121,89,bus,interrompu,TRAVAUX,Bus 89 : Travaux - Arrêt(s) non desservi(s),2026-11-12 15:03,2026-11-16 01:03
+2026-11-13 04:40:01,fde6d4d2-bbc9-48f0-bd12-590e5562386c,C01158,129,bus,interrompu,TRAVAUX,Bus 129 : Travaux - Arrêt(s) non desservi(s),2026-11-09 21:14,2026-12-19 03:30
+2026-11-13 04:40:01,fde6d4d2-bbc9-48f0-bd12-590e5562386c,C01826,Titus 1,bus,interrompu,TRAVAUX,Bus 129 : Travaux - Arrêt(s) non desservi(s),2026-11-09 21:14,2026-12-19 03:30
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01093,56,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01118,86,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01281,318,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01288,325,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01399,N33,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,9685bca6-f1ba-4d64-9bfc-170aca13a2fa,C01415,N11,bus,interrompu,TRAVAUX,Bus 325 : Travaux - Arrêt(s) non desservi(s),2026-11-11 19:02,2026-11-14 03:00
+2026-11-13 04:40:01,e73b49aa-fc34-453a-b6e8-b1806a570bf2,C01213,192,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-13 03:00,2026-11-13 07:00
+2026-11-13 04:40:01,e73b49aa-fc34-453a-b6e8-b1806a570bf2,C01230,216,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-13 03:00,2026-11-13 07:00
+2026-11-13 04:40:01,e73b49aa-fc34-453a-b6e8-b1806a570bf2,C01407,N22,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-13 03:00,2026-11-13 07:00
+2026-11-13 04:40:01,39ad3455-4fd5-44c1-a4b6-7682f3eda041,C01093,56,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-03 04:30
+2026-11-13 04:40:01,39ad3455-4fd5-44c1-a4b6-7682f3eda041,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-03 04:30
+2026-11-13 04:40:01,39ad3455-4fd5-44c1-a4b6-7682f3eda041,C01288,325,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-03 04:30
+2026-11-13 04:40:01,39ad3455-4fd5-44c1-a4b6-7682f3eda041,C01399,N33,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-03 04:30
+2026-11-13 04:40:01,39ad3455-4fd5-44c1-a4b6-7682f3eda041,C01415,N11,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:39,2027-02-03 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01073,21,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01083,38,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01095,58,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01106,70,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01127,96,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01392,N24,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01401,N21,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01418,N14,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01419,N13,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,eaf60532-d268-447c-b4b0-a0f3e9674c9d,C01420,N12,bus,interrompu,PERTURBATION,Bus 38 : Mesures de sécurité - Arrêt(s) non desservi(s),2026-11-12 10:00,2027-01-01 04:30
+2026-11-13 04:40:01,67c1bdb5-350b-4a51-991a-702c2fe11ec8,C01163,137,bus,interrompu,TRAVAUX,Bus N51 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:27,2027-01-01 07:00
+2026-11-13 04:40:01,67c1bdb5-350b-4a51-991a-702c2fe11ec8,C01394,N51,bus,interrompu,TRAVAUX,Bus N51 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:27,2027-01-01 07:00
+2026-11-13 04:40:01,17271d15-e6b7-4abe-b636-92b1fa09ce25,C01231,217,bus,interrompu,TRAVAUX,Bus 217 : Travaux - Arrêt(s) non desservi(s),2026-11-08 06:00,2026-12-01 03:30
+2026-11-13 04:40:01,cccfc796-e1ea-457c-a54e-f274fe947d80,C01166,140,bus,interrompu,TRAVAUX,Bus 140 : Travaux - Arrêt(s) non desservi(s),2026-11-06 15:48,2027-02-28 04:30
+2026-11-13 04:40:01,cccfc796-e1ea-457c-a54e-f274fe947d80,C01254,272,bus,interrompu,TRAVAUX,Bus 140 : Travaux - Arrêt(s) non desservi(s),2026-11-06 15:48,2027-02-28 04:30
+2026-11-13 04:40:01,cccfc796-e1ea-457c-a54e-f274fe947d80,C01292,340,bus,interrompu,TRAVAUX,Bus 140 : Travaux - Arrêt(s) non desservi(s),2026-11-06 15:48,2027-02-28 04:30
+2026-11-13 04:40:01,cccfc796-e1ea-457c-a54e-f274fe947d80,C01393,N52,bus,interrompu,TRAVAUX,Bus 140 : Travaux - Arrêt(s) non desservi(s),2026-11-06 15:48,2027-02-28 04:30
+2026-11-13 04:40:01,59ff2761-0f30-4fb3-9790-64c23d6a29e8,C01234,234,bus,interrompu,TRAVAUX,Bus 248 : Travaux - Arrêt(s) non desservi(s),2026-10-19 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,59ff2761-0f30-4fb3-9790-64c23d6a29e8,C01289,330,bus,interrompu,TRAVAUX,Bus 248 : Travaux - Arrêt(s) non desservi(s),2026-10-19 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,59ff2761-0f30-4fb3-9790-64c23d6a29e8,C01696,248,bus,interrompu,TRAVAUX,Bus 248 : Travaux - Arrêt(s) non desservi(s),2026-10-19 04:00,2026-12-19 03:00
+2026-11-13 04:40:01,85dafc0d-f8db-46b6-a6fb-02803587a15b,C02714,202,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-10-14 04:30,2027-01-01 03:30
+2026-11-13 04:40:01,691d570b-0d0c-480f-9eef-e46e956c36a9,C01080,30,bus,interrompu,TRAVAUX,Bus 30 : Travaux - Arrêt(s) non desservi(s),2026-11-04 04:56,2026-12-04 07:56
+2026-11-13 04:40:01,df410e51-8f77-416b-a3a0-024fdd82b694,C02666,C1,cable,interrompu,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,b6ca6a36-6986-4975-9575-520087fb50a7,C01072,20,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,b6ca6a36-6986-4975-9575-520087fb50a7,C01397,N23,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,b6ca6a36-6986-4975-9575-520087fb50a7,C01420,N12,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,b6ca6a36-6986-4975-9575-520087fb50a7,C02246,71,bus,interrompu,PERTURBATION,Bus 71 : Stationnement gênant - Arrêt(s) non desservi(s),2026-11-13 04:00,2026-11-13 15:00
+2026-11-13 04:40:01,40739b82-bc32-4d37-8dd0-fecd7bb8b278,C01094,57,bus,interrompu,TRAVAUX,Bus 215 : Travaux - Arrêt(s) non desservi(s),2026-11-10 12:23,2026-11-21 03:00
+2026-11-13 04:40:01,40739b82-bc32-4d37-8dd0-fecd7bb8b278,C01229,215,bus,interrompu,TRAVAUX,Bus 215 : Travaux - Arrêt(s) non desservi(s),2026-11-10 12:23,2026-11-21 03:00
+2026-11-13 04:40:01,40739b82-bc32-4d37-8dd0-fecd7bb8b278,C01281,318,bus,interrompu,TRAVAUX,Bus 215 : Travaux - Arrêt(s) non desservi(s),2026-11-10 12:23,2026-11-21 03:00
+2026-11-13 04:40:01,40739b82-bc32-4d37-8dd0-fecd7bb8b278,C01299,351,bus,interrompu,TRAVAUX,Bus 215 : Travaux - Arrêt(s) non desservi(s),2026-11-10 12:23,2026-11-21 03:00
+2026-11-13 04:40:01,9888cfc1-0155-4a1b-a8f4-74040eefdde9,C01255,274,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-12 15:34,2026-11-27 07:59
+2026-11-13 04:40:01,9888cfc1-0155-4a1b-a8f4-74040eefdde9,C01354,Jaune,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-12 15:34,2026-11-27 07:59
+2026-11-13 04:40:01,9b34868a-eaf8-4278-9758-1b2b8c1d1ec5,C01272,301,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-09-01 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,9b34868a-eaf8-4278-9758-1b2b8c1d1ec5,C01286,322,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-09-01 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,9b34868a-eaf8-4278-9758-1b2b8c1d1ec5,C02713,245,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-09-01 05:00,2027-01-01 03:30
+2026-11-13 04:40:01,5bb819ab-6f9a-419b-999e-d0a2ed719d29,C01071,TVM,bus,interrompu,TRAVAUX,Bus N62 : Travaux - Arrêt(s) non desservi(s),2026-07-19 01:49,2027-01-01 12:58
+2026-11-13 04:40:01,5bb819ab-6f9a-419b-999e-d0a2ed719d29,C01403,N62,bus,interrompu,TRAVAUX,Bus N62 : Travaux - Arrêt(s) non desservi(s),2026-07-19 01:49,2027-01-01 12:58
+2026-11-13 04:40:01,66539cba-f490-4cce-afc8-a7591012594d,C00740,5422,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Boulevard Calmette et Carnot Mantes-la-Jolie,2026-10-05 03:01,2027-09-30 23:59
+2026-11-13 04:40:01,66539cba-f490-4cce-afc8-a7591012594d,C00755,5438,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Boulevard Calmette et Carnot Mantes-la-Jolie,2026-10-05 03:01,2027-09-30 23:59
+2026-11-13 04:40:01,66539cba-f490-4cce-afc8-a7591012594d,C00761,5458,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Boulevard Calmette et Carnot Mantes-la-Jolie,2026-10-05 03:01,2027-09-30 23:59
+2026-11-13 04:40:01,66539cba-f490-4cce-afc8-a7591012594d,C01607,5425,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Boulevard Calmette et Carnot Mantes-la-Jolie,2026-10-05 03:01,2027-09-30 23:59
+2026-11-13 04:40:01,66539cba-f490-4cce-afc8-a7591012594d,C02249,7820,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Boulevard Calmette et Carnot Mantes-la-Jolie,2026-10-05 03:01,2027-09-30 23:59
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01073,21,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01077,27,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01083,38,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01095,58,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01106,70,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01119,87,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01127,96,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01401,N21,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01418,N14,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01419,N13,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,dbbbcecd-8e23-4cae-bf93-7bc9a74f2498,C01420,N12,bus,interrompu,TRAVAUX,Bus 70 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:30,2026-12-22 03:30
+2026-11-13 04:40:01,cd6ed753-0d14-4d2e-a5e7-95a8f9e29a39,C01112,80,bus,interrompu,TRAVAUX,Bus 80 : Travaux - Arrêt(s) non desservi(s),2026-10-27 11:31,2027-01-01 03:30
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01073,21,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01083,38,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01095,58,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01106,70,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01127,96,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01401,N21,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01418,N14,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01419,N13,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,ed3ef531-d4d9-43e5-8492-c229a458f536,C01420,N12,bus,interrompu,TRAVAUX,Bus 96 : Travaux - Arrêt(s) non desservi(s),2026-11-12 10:14,2027-01-01 04:00
+2026-11-13 04:40:01,8597e913-3e3e-44b1-9803-6dfc770874d6,C01131,102,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:07,2027-01-01 03:07
+2026-11-13 04:40:01,8597e913-3e3e-44b1-9803-6dfc770874d6,C01150,121,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:07,2027-01-01 03:07
+2026-11-13 04:40:01,8597e913-3e3e-44b1-9803-6dfc770874d6,C01398,N34,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:07,2027-01-01 03:07
+2026-11-13 04:40:01,8597e913-3e3e-44b1-9803-6dfc770874d6,C02714,202,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:07,2027-01-01 03:07
+2026-11-13 04:40:01,3cd11bad-638f-4db4-94ae-0365e0d0c901,C01111,76,bus,interrompu,TRAVAUX,Bus 76 : Travaux - Arrêt(s) non desservi(s),2026-10-18 14:49,2027-01-01 15:49
+2026-11-13 04:40:01,a7dffa5b-afcf-4ff1-b27d-5a9cc738a65c,C00669,4280,bus,interrompu,TRAVAUX,Bus 292 : Travaux - Arrêt(s) non desservi(s),2026-11-11 13:01,2026-12-13 04:30
+2026-11-13 04:40:01,a7dffa5b-afcf-4ff1-b27d-5a9cc738a65c,C01267,292,bus,interrompu,TRAVAUX,Bus 292 : Travaux - Arrêt(s) non desservi(s),2026-11-11 13:01,2026-12-13 04:30
+2026-11-13 04:40:01,a422099a-6c76-4980-aa2c-53e2c48246dc,C00304,1511,bus,interrompu,TRAVAUX,Bus 337 : Travaux - Arrêt(s) non desservi(s),2026-11-04 05:00,2026-12-18 03:30
+2026-11-13 04:40:01,a422099a-6c76-4980-aa2c-53e2c48246dc,C01756,337,bus,interrompu,TRAVAUX,Bus 337 : Travaux - Arrêt(s) non desservi(s),2026-11-04 05:00,2026-12-18 03:30
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01073,21,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01083,38,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01095,58,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01106,70,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01127,96,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01392,N24,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01401,N21,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01418,N14,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01419,N13,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,1a80d252-cc11-408c-9262-90d57e6fa93e,C01420,N12,bus,interrompu,TRAVAUX,Bus N13 : Travaux - Arrêt(s) non desservi(s),2026-11-02 03:46,2027-01-01 07:00
+2026-11-13 04:40:01,034ef9c4-bc0a-4ada-99fe-39f1631d62ca,C01093,56,bus,interrompu,TRAVAUX,Bus 56 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:00,2027-02-06 04:30
+2026-11-13 04:40:01,034ef9c4-bc0a-4ada-99fe-39f1631d62ca,C01281,318,bus,interrompu,TRAVAUX,Bus 56 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:00,2027-02-06 04:30
+2026-11-13 04:40:01,034ef9c4-bc0a-4ada-99fe-39f1631d62ca,C01288,325,bus,interrompu,TRAVAUX,Bus 56 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:00,2027-02-06 04:30
+2026-11-13 04:40:01,034ef9c4-bc0a-4ada-99fe-39f1631d62ca,C01399,N33,bus,interrompu,TRAVAUX,Bus 56 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:00,2027-02-06 04:30
+2026-11-13 04:40:01,034ef9c4-bc0a-4ada-99fe-39f1631d62ca,C01415,N11,bus,interrompu,TRAVAUX,Bus 56 : Travaux - Arrêt(s) non desservi(s),2026-11-12 06:00,2027-02-06 04:30
+2026-11-13 04:40:01,334c1381-2a09-4dd9-a54b-3bd88dfebcb4,C01313,385,bus,interrompu,TRAVAUX,Bus 385 : Travaux - Arrêt(s) non desservi(s),2026-10-01 13:00,2026-12-04 03:00
+2026-11-13 04:40:01,0cc53344-8cc9-4354-81cf-65e9a13d1219,C01499,7704,bus,interrompu,TRAVAUX,Neutralisation Arrêt Porte de Paris MELUN   PROLONGATION,2026-09-08 09:50,2026-12-04 23:08
+2026-11-13 04:40:01,57dba7bf-9900-46e9-99dd-db3e7e15a1e2,C01083,38,bus,interrompu,PERTURBATION,Bus 38 : Incident sur la voie publique - Arrêt(s) non desservi(s),2026-10-27 13:30,2027-01-01 03:30
+2026-11-13 04:40:01,90e4c6ce-6931-4f27-b7ed-dc06c09d84fe,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:50,2027-02-27 02:16
+2026-11-13 04:40:01,97196038-aa7a-48a1-92ea-5c119b15e598,C01112,80,bus,interrompu,TRAVAUX,Bus 80 : Travaux - Arrêt(s) non desservi(s),2026-11-04 07:10,2027-01-01 04:10
+2026-11-13 04:40:01,41be06b2-8690-49f1-9f0c-00a8dde4df84,C02713,245,bus,interrompu,TRAVAUX,Bus 245 : Travaux - Arrêt(s) non desservi(s),2026-09-02 05:27,2026-12-31 05:27
+2026-11-13 04:40:01,793922c7-8686-4ebe-863e-be0f2484a01d,C01174,150,bus,interrompu,TRAVAUX,Bus 250 : Travaux - Arrêt(s) non desservi(s),2026-11-09 07:24,2027-01-30 02:24
+2026-11-13 04:40:01,793922c7-8686-4ebe-863e-be0f2484a01d,C01242,250,bus,interrompu,TRAVAUX,Bus 250 : Travaux - Arrêt(s) non desservi(s),2026-11-09 07:24,2027-01-30 02:24
+2026-11-13 04:40:01,793922c7-8686-4ebe-863e-be0f2484a01d,C01406,N43,bus,interrompu,TRAVAUX,Bus 250 : Travaux - Arrêt(s) non desservi(s),2026-11-09 07:24,2027-01-30 02:24
+2026-11-13 04:40:01,56ed9d5f-7f42-4701-9699-524e8800aec3,C01161,133,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:22,2027-01-01 07:00
+2026-11-13 04:40:01,56ed9d5f-7f42-4701-9699-524e8800aec3,C01251,268,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:22,2027-01-01 07:00
+2026-11-13 04:40:01,56ed9d5f-7f42-4701-9699-524e8800aec3,C01308,368,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:22,2027-01-01 07:00
+2026-11-13 04:40:01,56ed9d5f-7f42-4701-9699-524e8800aec3,C01309,370,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:22,2027-01-01 07:00
+2026-11-13 04:40:01,56ed9d5f-7f42-4701-9699-524e8800aec3,C01406,N43,bus,interrompu,TRAVAUX,Bus N43 : Travaux - Arrêt(s) non desservi(s),2026-11-02 23:22,2027-01-01 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01073,21,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01083,38,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01095,58,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01106,70,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01127,96,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01401,N21,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01418,N14,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01419,N13,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,664e7dae-9d07-49b1-81fa-b8ac31a1dee8,C01420,N12,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-11-09 23:14,2030-12-31 07:00
+2026-11-13 04:40:01,3b37e302-fbdb-4f02-8166-286b1bfcd244,C01286,322,bus,interrompu,TRAVAUX,Bus 322 : Travaux - Arrêt(s) non desservi(s),2026-11-06 06:42,2027-02-06 04:30
+2026-11-13 04:40:01,016d44dc-be60-403a-b9aa-844ee24a8ec3,C00001,482,bus,interrompu,TRAVAUX,Bus 319 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:34,2026-11-21 03:30
+2026-11-13 04:40:01,016d44dc-be60-403a-b9aa-844ee24a8ec3,C01282,319,bus,interrompu,TRAVAUX,Bus 319 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:34,2026-11-21 03:30
+2026-11-13 04:40:01,016d44dc-be60-403a-b9aa-844ee24a8ec3,C02459,382,bus,interrompu,TRAVAUX,Bus 319 : Travaux - Arrêt(s) non desservi(s),2026-11-10 06:34,2026-11-21 03:30
+2026-11-13 04:40:01,385bc7a8-1f77-47e8-bf52-3e093e791ad6,C01150,121,bus,interrompu,TRAVAUX,Bus 121 : Travaux - Arrêt(s) non desservi(s),2026-10-14 04:30,2027-01-01 03:30
+2026-11-13 04:40:01,09dcbf02-fea0-46e1-a7a0-96c63549d9a3,C01286,322,bus,interrompu,TRAVAUX,Bus 322 : Travaux - Arrêt(s) non desservi(s),2026-10-04 14:00,2027-01-01 03:30
+2026-11-13 04:40:01,6fd8548b-0795-4ba5-8903-1b3c756f98e5,C01165,139,bus,interrompu,TRAVAUX,Bus 173 : Travaux - Arrêt(s) non desservi(s),2026-06-08 20:15,2027-01-01 04:30
+2026-11-13 04:40:01,6fd8548b-0795-4ba5-8903-1b3c756f98e5,C01194,173,bus,interrompu,TRAVAUX,Bus 173 : Travaux - Arrêt(s) non desservi(s),2026-06-08 20:15,2027-01-01 04:30
+2026-11-13 04:40:01,6fd8548b-0795-4ba5-8903-1b3c756f98e5,C01238,239,bus,interrompu,TRAVAUX,Bus 173 : Travaux - Arrêt(s) non desservi(s),2026-06-08 20:15,2027-01-01 04:30
+2026-11-13 04:40:01,39f0ce8b-8e19-4a8e-85fc-cf56b0d34d57,C02437,209,bus,interrompu,TRAVAUX,Bus 209 : Travaux - Arrêt(s) non desservi(s),2026-09-26 12:45,2027-02-20 03:00
+2026-11-13 04:40:01,9c0d80e5-0001-486e-b3c6-6a1d57708ed1,C00265,1602,bus,interrompu,TRAVAUX,Bus 368 : Travaux - Arrêt(s) non desservi(s),2026-10-13 22:00,2026-12-01 03:30
+2026-11-13 04:40:01,9c0d80e5-0001-486e-b3c6-6a1d57708ed1,C01253,270,bus,interrompu,TRAVAUX,Bus 368 : Travaux - Arrêt(s) non desservi(s),2026-10-13 22:00,2026-12-01 03:30
+2026-11-13 04:40:01,9c0d80e5-0001-486e-b3c6-6a1d57708ed1,C01308,368,bus,interrompu,TRAVAUX,Bus 368 : Travaux - Arrêt(s) non desservi(s),2026-10-13 22:00,2026-12-01 03:30
+2026-11-13 04:40:01,9c0d80e5-0001-486e-b3c6-6a1d57708ed1,C01431,TàD,bus,interrompu,TRAVAUX,Bus 368 : Travaux - Arrêt(s) non desservi(s),2026-10-13 22:00,2026-12-01 03:30
+2026-11-13 04:40:01,fc99119d-e47a-4eab-958d-172b4a05119b,C02714,202,bus,interrompu,TRAVAUX,Bus 202 : Travaux - Arrêt(s) non desservi(s),2026-10-14 04:30,2027-01-01 03:30
+2026-11-13 04:40:01,ea6f786a-c13a-42c3-a228-b1720a34c732,C01131,102,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:03,2027-01-01 03:03
+2026-11-13 04:40:01,ea6f786a-c13a-42c3-a228-b1720a34c732,C01150,121,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:03,2027-01-01 03:03
+2026-11-13 04:40:01,ea6f786a-c13a-42c3-a228-b1720a34c732,C01272,301,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:03,2027-01-01 03:03
+2026-11-13 04:40:01,ea6f786a-c13a-42c3-a228-b1720a34c732,C01398,N34,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:03,2027-01-01 03:03
+2026-11-13 04:40:01,ea6f786a-c13a-42c3-a228-b1720a34c732,C02714,202,bus,interrompu,TRAVAUX,Bus 102 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:03,2027-01-01 03:03
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C00346,409,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C01148,119,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C01217,197,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C01282,319,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C01401,N21,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,19975083-425d-4299-9b69-f120c81fd323,C02502,V,bus,interrompu,TRAVAUX,Bus 119 : Travaux - Arrêt(s) non desservi(s),2026-11-08 21:30,2026-12-19 04:30
+2026-11-13 04:40:01,14f0f377-2711-4561-baa7-0892b61035aa,C01170,145,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-11 07:25,2027-02-27 01:00
+2026-11-13 04:40:01,14f0f377-2711-4561-baa7-0892b61035aa,C01281,318,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-11 07:25,2027-02-27 01:00
+2026-11-13 04:40:01,14f0f377-2711-4561-baa7-0892b61035aa,C02713,245,bus,interrompu,TRAVAUX,Bus 318 : Travaux - Arrêt(s) non desservi(s),2026-11-11 07:25,2027-02-27 01:00
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01073,21,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01077,27,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01083,38,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01095,58,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01106,70,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01119,87,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01127,96,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01401,N21,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01418,N14,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01419,N13,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,76581aff-d8b4-4f34-bf7b-a0608ca3aacd,C01420,N12,bus,interrompu,TRAVAUX,Bus 58 : Travaux - Arrêt(s) non desservi(s),2026-11-10 20:30,2026-11-16 15:33
+2026-11-13 04:40:01,c51299c8-dd34-4485-8e60-390171846717,C01194,173,bus,interrompu,TRAVAUX,Bus 173 : Travaux - Arrêt(s) non desservi(s),2026-10-30 03:00,2026-11-14 04:30
+2026-11-13 04:40:01,54f8de75-e83b-4aa4-a5b4-a90956559e64,C01121,89,bus,interrompu,TRAVAUX,Bus 89 : Travaux - Arrêt(s) non desservi(s),2026-10-26 10:19,2026-12-19 04:00
+2026-11-13 04:40:01,1bd59fd1-23d7-4316-9ae8-fe56294f9d4f,C00403,5110,bus,interrompu,TRAVAUX,🚧 5110 5114 SOIR - Travaux : Brigitte non desservi,2026-09-07 00:00,2027-01-03 23:59
+2026-11-13 04:40:01,1bd59fd1-23d7-4316-9ae8-fe56294f9d4f,C02169,5114,bus,interrompu,TRAVAUX,🚧 5110 5114 SOIR - Travaux : Brigitte non desservi,2026-09-07 00:00,2027-01-03 23:59
+2026-11-13 04:40:01,1bd59fd1-23d7-4316-9ae8-fe56294f9d4f,C02644,Soir,bus,interrompu,TRAVAUX,🚧 5110 5114 SOIR - Travaux : Brigitte non desservi,2026-09-07 00:00,2027-01-03 23:59
+2026-11-13 04:40:01,286c4fc8-7d7e-43c8-b03f-e48f65f92efb,C01871,5111,bus,interrompu,INFORMATION,🚧 5111 - Travaux : Jean Jaurès et Gros Caillou non desservis,2026-09-07 00:00,2027-07-31 23:59
+2026-11-13 04:40:01,d9af3ccc-a664-4ac8-9d5c-d67b8c8f1938,C01214,194,bus,interrompu,TRAVAUX,Bus 394 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:00,2026-11-21 03:00
+2026-11-13 04:40:01,d9af3ccc-a664-4ac8-9d5c-d67b8c8f1938,C01319,394,bus,interrompu,TRAVAUX,Bus 394 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:00,2026-11-21 03:00
+2026-11-13 04:40:01,d9af3ccc-a664-4ac8-9d5c-d67b8c8f1938,C01368,FONT,bus,interrompu,TRAVAUX,Bus 394 : Travaux - Arrêt(s) non desservi(s),2026-11-09 04:00,2026-11-21 03:00
+2026-11-13 04:40:01,cf3a5857-c72b-4110-8005-83d03f872b05,C01212,191,bus,interrompu,TRAVAUX,Bus 323 : Travaux - Arrêt(s) non desservi(s),2026-10-23 13:39,2026-12-19 04:00
+2026-11-13 04:40:01,cf3a5857-c72b-4110-8005-83d03f872b05,C01287,323,bus,interrompu,TRAVAUX,Bus 323 : Travaux - Arrêt(s) non desservi(s),2026-10-23 13:39,2026-12-19 04:00
+2026-11-13 04:40:01,cf3a5857-c72b-4110-8005-83d03f872b05,C01366,AMIBUS,bus,interrompu,TRAVAUX,Bus 323 : Travaux - Arrêt(s) non desservi(s),2026-10-23 13:39,2026-12-19 04:00
+2026-11-13 04:40:01,bdc203d2-91ca-452e-9f68-383f2a61909e,C01088,47,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,bdc203d2-91ca-452e-9f68-383f2a61909e,C01407,N22,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,bdc203d2-91ca-452e-9f68-383f2a61909e,C01417,N15,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,134d4cd0-1d80-49e9-8b2b-1bb6748969df,C01209,188,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,134d4cd0-1d80-49e9-8b2b-1bb6748969df,C01314,388,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,134d4cd0-1d80-49e9-8b2b-1bb6748969df,C01317,391,bus,interrompu,TRAVAUX,Bus 391 : Travaux - Arrêt(s) non desservi(s),2026-11-05 18:34,2027-01-01 03:00
+2026-11-13 04:40:01,dab1168c-e168-4f1e-a833-13943ad018b4,C01407,N22,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-08 22:30,2026-12-02 07:00
+2026-11-13 04:40:01,732d653d-1208-43cb-bc6b-7d6bca15f5dd,C01190,169,bus,interrompu,TRAVAUX,Bus 169 : Travaux - Arrêt(s) non desservi(s),2026-11-01 07:24,2026-11-27 18:00
+2026-11-13 04:40:01,732d653d-1208-43cb-bc6b-7d6bca15f5dd,C01319,394,bus,interrompu,TRAVAUX,Bus 169 : Travaux - Arrêt(s) non desservi(s),2026-11-01 07:24,2026-11-27 18:00
+2026-11-13 04:40:01,a37a2bcf-419b-4c1f-b93e-010582016335,C01190,169,bus,interrompu,TRAVAUX,Bus 394 : Travaux - Arrêt(s) non desservi(s),2026-10-11 14:01,2026-11-28 03:00
+2026-11-13 04:40:01,a37a2bcf-419b-4c1f-b93e-010582016335,C01319,394,bus,interrompu,TRAVAUX,Bus 394 : Travaux - Arrêt(s) non desservi(s),2026-10-11 14:01,2026-11-28 03:00
+2026-11-13 04:40:01,12ee35ba-11d2-4998-a1fa-21cbf9335ce4,C01407,N22,bus,interrompu,TRAVAUX,Bus N22 : Travaux - Arrêt(s) non desservi(s),2026-11-13 03:00,2026-11-13 07:00
+2026-11-13 04:40:01,e3501976-7f2c-427c-a4b9-47d108da8f7e,C01212,191,bus,interrompu,TRAVAUX,Bus 323 : Travaux - Arrêt(s) non desservi(s),2026-10-23 13:46,2026-12-19 04:00
+2026-11-13 04:40:01,e3501976-7f2c-427c-a4b9-47d108da8f7e,C01287,323,bus,interrompu,TRAVAUX,Bus 323 : Travaux - Arrêt(s) non desservi(s),2026-10-23 13:46,2026-12-19 04:00
+2026-11-13 04:40:01,b352190e-bda2-4db0-af38-eae6f28a30a8,C01418,N14,bus,interrompu,TRAVAUX,Bus N14 : Travaux - Arrêt(s) non desservi(s),2026-08-01 22:45,2030-12-31 07:00
+2026-11-13 04:40:01,22efa694-e8d5-4b3a-8b2d-883b8c133628,C01203,182,bus,interrompu,TRAVAUX,Bus 182 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:51,2028-01-03 01:00
+2026-11-13 04:40:01,a98ccfac-9368-488e-be21-0299eba5c474,C01077,27,bus,interrompu,TRAVAUX,Bus 27 : Travaux - Arrêt(s) non desservi(s),2026-10-01 04:00,2026-12-22 03:00
+2026-11-13 04:40:01,fa018cbe-212a-4c74-8712-dc2bf0291f01,C01122,91,bus,interrompu,TRAVAUX,Bus 91 : Travaux - Arrêt(s) non desservi(s),2026-11-04 04:00,2027-01-01 03:00
+2026-11-13 04:40:01,4ed80de6-eca5-4f1b-848a-d026fa4ae367,C01121,89,bus,interrompu,TRAVAUX,Bus 89 : Travaux - Arrêt(s) non desservi(s),2026-10-26 10:20,2026-12-19 04:00
+2026-11-13 04:40:01,2b822f77-00d0-495a-8b9d-43cd8d5175dd,C00484,1440,bus,interrompu,TRAVAUX,Perturbation sur vos lignes 1440 - 1441 - Soir Ermont,2026-10-12 04:00,2026-12-14 23:59
+2026-11-13 04:40:01,2b822f77-00d0-495a-8b9d-43cd8d5175dd,C00487,1441,bus,interrompu,TRAVAUX,Perturbation sur vos lignes 1440 - 1441 - Soir Ermont,2026-10-12 04:00,2026-12-14 23:59
+2026-11-13 04:40:01,2b822f77-00d0-495a-8b9d-43cd8d5175dd,C02837,Soir,bus,interrompu,TRAVAUX,Perturbation sur vos lignes 1440 - 1441 - Soir Ermont,2026-10-12 04:00,2026-12-14 23:59
+2026-11-13 04:40:01,e3e91d5a-58ed-4b3e-8351-63c869a62cf4,C01088,47,bus,interrompu,TRAVAUX,Bus N15 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,e3e91d5a-58ed-4b3e-8351-63c869a62cf4,C01407,N22,bus,interrompu,TRAVAUX,Bus N15 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,e3e91d5a-58ed-4b3e-8351-63c869a62cf4,C01417,N15,bus,interrompu,TRAVAUX,Bus N15 : Travaux - Arrêt(s) non desservi(s),2026-11-02 22:30,2026-12-18 07:15
+2026-11-13 04:40:01,e325cc8c-7840-455e-b454-35eb03a5e17c,C01401,N21,bus,interrompu,TRAVAUX,Bus N21 : Travaux - Arrêt(s) non desservi(s),2026-08-01 22:45,2030-12-31 07:00
+2026-11-13 04:40:01,f211a5be-366a-448a-8736-05d40a41789a,C01088,47,bus,interrompu,TRAVAUX,Bus 47 : Travaux - Arrêt(s) non desservi(s),2026-11-09 11:25,2026-12-19 00:59
+2026-11-13 04:40:01,3e3719e7-80e0-4598-a819-f59c168f1891,C01843,T4,tram,interrompu,TRAVAUX,Tramway T4 - Travaux : Trafic interrompu sur toute la ligne du 01/11 au 13/11 à partir de 21h15.,2026-11-12 21:15,2026-11-13 04:55
+2026-11-13 04:40:01,e8d0f901-17f3-4a24-9fa1-65625b5e9f72,C01203,182,bus,interrompu,TRAVAUX,Bus 182 : Travaux - Arrêt(s) non desservi(s),2026-11-12 11:51,2028-01-03 01:00
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01521,5134,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01527,5104,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01528,5105,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01532,5143,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01533,5144,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,88febd39-42f1-4850-bf9c-7e2b1945bd3e,C01538,5145,bus,interrompu,PERTURBATION,"⚠️ DÉVIATION INOPINÉE : Complexe souterrain de St-Quentin fermé, arrêts non desservis",2026-11-12 09:13,2026-11-13 23:59
+2026-11-13 04:40:01,1ea01a60-f000-4d93-baf2-5af1c6cd6bf1,C01190,169,bus,interrompu,TRAVAUX,Bus 169 : Travaux - Arrêt(s) non desservi(s),2026-09-16 12:22,2026-11-27 17:00
+2026-11-13 04:40:01,0fa39471-ecde-410e-a239-48ebcef75c3c,C01215,195,bus,interrompu,TRAVAUX,Bus 195 : Travaux - Arrêt(s) non desservi(s),2026-10-01 16:50,2027-01-01 03:00
+2026-11-13 04:40:01,0fa39471-ecde-410e-a239-48ebcef75c3c,C01319,394,bus,interrompu,TRAVAUX,Bus 195 : Travaux - Arrêt(s) non desservi(s),2026-10-01 16:50,2027-01-01 03:00
+2026-11-13 04:40:01,df3a5576-2ce9-4b38-aa8c-020c412fbc12,C01124,93,bus,interrompu,TRAVAUX,Bus 93 : Travaux - Arrêt(s) non desservi(s),2026-11-12 07:34,2026-11-13 08:59
+2026-11-13 04:40:01,df3a5576-2ce9-4b38-aa8c-020c412fbc12,C01169,144,bus,interrompu,TRAVAUX,Bus 93 : Travaux - Arrêt(s) non desservi(s),2026-11-12 07:34,2026-11-13 08:59
+2026-11-13 04:40:01,df3a5576-2ce9-4b38-aa8c-020c412fbc12,C01180,157,bus,interrompu,TRAVAUX,Bus 93 : Travaux - Arrêt(s) non desservi(s),2026-11-12 07:34,2026-11-13 08:59
+2026-11-13 04:40:01,df3a5576-2ce9-4b38-aa8c-020c412fbc12,C01338,EOLIEN,bus,interrompu,TRAVAUX,Bus 93 : Travaux - Arrêt(s) non desservi(s),2026-11-12 07:34,2026-11-13 08:59
+2026-11-13 04:40:01,b4b90e92-4075-4655-9144-e5bfbd24fa17,C01140,111,bus,interrompu,TRAVAUX,Bus 111 : Travaux - Arrêt(s) non desservi(s),2026-11-09 17:01,2026-11-27 18:00
+2026-11-13 04:40:01,761412d7-311f-4605-9b86-8a84df5bb5a5,C00766,1238,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Déviation ligne 1238 dans les 2 directions à compter du lundi 26 octobre 2026 et jusqu'à nouvel ordre suite travaux rue Nationale/rue de Pontoise à Cergy,2026-10-26 05:00,2026-12-31 23:59
+2026-11-13 04:40:01,b748cb1b-dc61-4721-ab27-3034c093beb6,C01306,366,bus,interrompu,TRAVAUX,Bus 366 : Travaux - Arrêt(s) non desservi(s),2026-11-01 09:59,2026-11-30 03:00
+2026-11-13 04:40:01,8b3176e8-1b99-11f1-a4ee-0a58a9feac02,C00773,1237,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Perturbation et modification d'itinéraire ligne 1237 jusqu'à nouvel ordre à compter du 9 mars 2026 en raison de l'effondrement d'un mur à Vauréal.,2026-03-09 05:01,2027-09-01 23:00
+2026-11-13 04:40:01,59198f74-e14f-4d62-a952-7b9b6e4d13e5,C01108,73,bus,interrompu,TRAVAUX,Bus 73 : Travaux - Arrêt(s) non desservi(s),2026-11-13 03:00,2026-11-17 04:00
+2026-11-13 04:40:01,a27ef4f4-6bff-47e6-8f5e-3bc5fc3440f0,C01329,CHARONNE,bus,interrompu,TRAVAUX,Bus CHARONN : Travaux - Arrêt(s) non desservi(s),2026-06-13 17:49,2027-02-01 01:00
+2026-11-13 04:40:01,ff276f04-551b-40f5-ad5e-b0e18423cf54,C00781,1226,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Déviation ligne 1226 vers Cergy Préfecture à compter du 3 novembre 2026 suite travaux Av du Gal de Gaulle à St Ouen l'Aumône,2026-11-03 05:00,2026-12-09 23:59
+2026-11-13 04:40:01,ac7d5552-c831-46e3-883e-93d1b39334be,C01210,189,bus,interrompu,TRAVAUX,Bus 189 : Travaux - Arrêt(s) non desservi(s),2026-11-09 12:00,2026-11-21 03:00
+2026-11-13 04:40:01,c72e599e-ccf8-41fd-afff-47f44b9b704f,C01188,166,bus,interrompu,TRAVAUX,Bus 166 : Travaux - Arrêt(s) non desservi(s),2026-10-23 09:36,2026-12-02 03:30
+2026-11-13 04:40:01,7219d639-374f-4be7-ac0a-2ab73ed6b2b8,C02085,1233,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Déviation ligne 1233 vers Neuville Université à compter du 3 novembre 2026 et jusqu'à nouvel ordre - Réfection de trottoirs à St Ouen l'Aumône,2026-11-03 05:00,2026-12-09 23:59
+2026-11-13 04:40:01,61bff927-3490-40bb-b184-443f2a4abda2,C01613,5427,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Mantes-la-Jolie,2026-08-31 05:15,2027-10-31 23:59
+2026-11-13 04:40:01,5b035c46-9e70-4b80-877c-cb176a8047eb,C01187,165,bus,interrompu,TRAVAUX,Bus 165 : Travaux - Arrêt(s) non desservi(s),2026-10-04 13:05,2026-12-31 03:30
+2026-11-13 04:40:01,8e46531d-7cad-48d0-891d-db60782aad5f,C01180,157,bus,interrompu,TRAVAUX,Bus 157 : Travaux - Arrêt(s) non desservi(s),2026-10-10 17:47,2026-11-17 03:30
+2026-11-13 04:40:01,8e46531d-7cad-48d0-891d-db60782aad5f,C01181,158,bus,interrompu,TRAVAUX,Bus 157 : Travaux - Arrêt(s) non desservi(s),2026-10-10 17:47,2026-11-17 03:30
+2026-11-13 04:40:01,8e46531d-7cad-48d0-891d-db60782aad5f,C01196,175,bus,interrompu,TRAVAUX,Bus 157 : Travaux - Arrêt(s) non desservi(s),2026-10-10 17:47,2026-11-17 03:30
+2026-11-13 04:40:01,8e46531d-7cad-48d0-891d-db60782aad5f,C01197,176,bus,interrompu,TRAVAUX,Bus 157 : Travaux - Arrêt(s) non desservi(s),2026-10-10 17:47,2026-11-17 03:30
+2026-11-13 04:40:01,3041497b-9126-49e1-8995-6ab6aaad4ad1,C01140,111,bus,interrompu,TRAVAUX,Bus 111 : Travaux - Arrêt(s) non desservi(s),2026-10-31 07:00,2026-12-07 04:00
+2026-11-13 04:40:01,459f6898-c868-4bc1-9089-4ad64ee41ef4,C01167,141,bus,interrompu,TRAVAUX,Bus 263 : Travaux - Arrêt(s) non desservi(s),2026-10-04 03:00,2026-11-18 04:30
+2026-11-13 04:40:01,459f6898-c868-4bc1-9089-4ad64ee41ef4,C02314,263,bus,interrompu,TRAVAUX,Bus 263 : Travaux - Arrêt(s) non desservi(s),2026-10-04 03:00,2026-11-18 04:30
+2026-11-13 04:40:01,96f90231-49f7-4e1c-a0dc-17ac47a98fe6,C00288,5437,bus,interrompu,TRAVAUX,Territoire Matois - Travaux Jean Jaurès Gargenville,2026-11-10 01:52,2027-12-31 23:59
+2026-11-13 04:40:01,96f90231-49f7-4e1c-a0dc-17ac47a98fe6,C00737,5479,bus,interrompu,TRAVAUX,Territoire Matois - Travaux Jean Jaurès Gargenville,2026-11-10 01:52,2027-12-31 23:59
+2026-11-13 04:40:01,96f90231-49f7-4e1c-a0dc-17ac47a98fe6,C00738,5480,bus,interrompu,TRAVAUX,Territoire Matois - Travaux Jean Jaurès Gargenville,2026-11-10 01:52,2027-12-31 23:59
+2026-11-13 04:40:01,96f90231-49f7-4e1c-a0dc-17ac47a98fe6,C00748,5451,bus,interrompu,TRAVAUX,Territoire Matois - Travaux Jean Jaurès Gargenville,2026-11-10 01:52,2027-12-31 23:59
+2026-11-13 04:40:01,04f6d8c7-8525-48c1-ab4d-6e59b2bd820f,C00765,1236,bus,interrompu,PERTURBATION,Réseau Cergy Pontoise Confluence : Déviation ligne 1236 du 30 octobre au 25 novembre 2026 en raison de la foire St Martin,2026-10-30 05:00,2026-11-25 23:59
+2026-11-13 04:40:01,a1626a29-9a44-4889-9052-5e4c8172f376,C01949,5401,bus,interrompu,TRAVAUX,Territoire Mantois - Travaux Mantes-la-Jolie,2026-11-12 15:35,2027-06-30 23:59
+2026-11-13 04:40:01,126b88cc-6541-4fb8-bc34-4a9eee41e8c5,C01601,5403,bus,interrompu,PERTURBATION,Territoire Mantois - travaux Boulevard Calmette Mantes-la-Jolie,2026-07-15 04:14,2027-07-31 19:14
+2026-11-13 04:40:01,a2093951-4823-4b71-af05-bd6bda4e88eb,C01214,194,bus,interrompu,TRAVAUX,Bus 194 : Travaux - Arrêt(s) non desservi(s),2026-11-06 06:19,2026-11-21 03:00
+2026-11-13 04:40:01,d2d8b170-d5a2-43dd-bf0d-472875786647,C00346,409,bus,interrompu,TRAVAUX,Arrêt Reporté - Ligne 409 : travaux le lundi 2 novembre 2026 à partir de 5h.,2026-11-02 05:00,2027-01-30 03:00
+2026-11-13 04:40:01,2a4f6bb5-bffb-44dd-b49e-ee13b723f940,C01169,144,bus,interrompu,PERTURBATION,Bus 144 : Autre - Arrêt(s) non desservi(s),2026-11-11 12:01,2026-11-16 09:00
+2026-11-13 04:40:01,2a4f6bb5-bffb-44dd-b49e-ee13b723f940,C01324,467,bus,interrompu,PERTURBATION,Bus 144 : Autre - Arrêt(s) non desservi(s),2026-11-11 12:01,2026-11-16 09:00
+2026-11-13 04:40:01,2a4f6bb5-bffb-44dd-b49e-ee13b723f940,C01482,6227,bus,interrompu,PERTURBATION,Bus 144 : Autre - Arrêt(s) non desservi(s),2026-11-11 12:01,2026-11-16 09:00
+2026-11-13 04:40:01,63df7e93-58f6-47cf-bef5-60e9c32aa3fa,C01185,163,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-08-24 04:00,2027-01-01 03:30
+2026-11-13 04:40:01,63df7e93-58f6-47cf-bef5-60e9c32aa3fa,C01257,276,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-08-24 04:00,2027-01-01 03:30
+2026-11-13 04:40:01,63df7e93-58f6-47cf-bef5-60e9c32aa3fa,C01307,367,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-08-24 04:00,2027-01-01 03:30
+2026-11-13 04:40:01,63df7e93-58f6-47cf-bef5-60e9c32aa3fa,C02744,277,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-08-24 04:00,2027-01-01 03:30
+2026-11-13 04:40:01,63df7e93-58f6-47cf-bef5-60e9c32aa3fa,C02745,363,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-08-24 04:00,2027-01-01 03:30
+2026-11-13 04:40:01,f6f30aa8-b500-4049-b749-11e1f7302693,C01408,N63,bus,interrompu,TRAVAUX,Bus N63 : Travaux - Arrêt(s) non desservi(s),2026-06-07 22:00,2026-12-01 07:00
+2026-11-13 04:40:01,419e32af-56fb-4a62-870a-f3fb3eda4958,C01257,276,bus,interrompu,TRAVAUX,Bus 276 : Travaux - Arrêt(s) non desservi(s),2026-11-12 12:03,2026-11-16 21:30
+2026-11-13 04:40:01,419e32af-56fb-4a62-870a-f3fb3eda4958,C01307,367,bus,interrompu,TRAVAUX,Bus 276 : Travaux - Arrêt(s) non desservi(s),2026-11-12 12:03,2026-11-16 21:30
+2026-11-13 04:40:01,804e41ce-2bbd-447d-bb5c-7196150fa66d,C00734,5476,bus,interrompu,TRAVAUX,Territoire Mantois - travaux Limay,2026-11-09 08:37,2027-10-31 23:59
+2026-11-13 04:40:01,613cc0a8-682a-4cc6-aaea-46b3096f1a42,C01369,595,bus,interrompu,TRAVAUX,Bus 595 : Travaux - Arrêt(s) non desservi(s),2026-08-20 06:00,2026-12-31 23:59
+2026-11-13 04:40:01,06a0c57f-6d1c-4af6-b3d4-97adec47832e,C01167,141,bus,interrompu,TRAVAUX,Bus 141 : Travaux - Arrêt(s) non desservi(s),2026-11-12 14:14,2026-11-18 03:30
+2026-11-13 04:40:01,84571727-ba93-4905-a96c-540f503132c6,C01185,163,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-10-16 03:00,2027-01-01 03:30
+2026-11-13 04:40:01,84571727-ba93-4905-a96c-540f503132c6,C01257,276,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-10-16 03:00,2027-01-01 03:30
+2026-11-13 04:40:01,84571727-ba93-4905-a96c-540f503132c6,C01307,367,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-10-16 03:00,2027-01-01 03:30
+2026-11-13 04:40:01,84571727-ba93-4905-a96c-540f503132c6,C02744,277,bus,interrompu,TRAVAUX,Bus 277 : Travaux - Arrêt(s) non desservi(s),2026-10-16 03:00,2027-01-01 03:30
+2026-11-13 04:40:01,34d58e2e-e102-11ef-b937-0a58a9feac02,C01416,N16,bus,interrompu,TRAVAUX,Bus N16 : Travaux - Arrêt(s) non desservi(s),2025-01-04 03:16,2027-12-31 03:16
+2026-11-13 04:40:01,3223c9f4-8946-495b-a17f-dcd97c9e9e21,C00762,1230,bus,interrompu,PERTURBATION,Réseau Cergy Pontoise Confluence : Déviation ligne 1230 à compter du 30 octobre et jusqu'au 25 novembre 2026 en raison de la foire St Martin,2026-10-30 05:00,2026-11-25 23:59
+2026-11-13 04:40:01,e1e2749a-af17-4042-9476-73748ad51adc,C01224,210,bus,interrompu,TRAVAUX,Bus 210 : Travaux - Arrêt(s) non desservi(s),2026-10-14 04:00,2027-10-14 04:43
+2026-11-13 04:40:01,f9370099-206b-4f17-9820-a6c461699b9a,C01188,166,bus,interrompu,TRAVAUX,Bus 166 : Travaux - Arrêt(s) non desservi(s),2026-10-23 09:36,2026-12-01 02:30
+2026-11-13 04:40:01,0d8d19d3-60c7-491a-902a-0825341ae244,C01408,N63,bus,interrompu,TRAVAUX,Bus N63 : Travaux - Arrêt(s) non desservi(s),2026-06-07 22:00,2026-12-01 07:00
+2026-11-13 04:40:01,33548f2b-864e-4057-a504-28b66f7bc9e9,C01257,276,bus,interrompu,TRAVAUX,Bus 367 : Travaux - Arrêt(s) non desservi(s),2026-09-01 17:22,2026-12-19 03:00
+2026-11-13 04:40:01,33548f2b-864e-4057-a504-28b66f7bc9e9,C01307,367,bus,interrompu,TRAVAUX,Bus 367 : Travaux - Arrêt(s) non desservi(s),2026-09-01 17:22,2026-12-19 03:00
+2026-11-13 04:40:01,3e08be41-e8ec-4324-80cb-1716032c5b97,C00778,1208,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Déviation ligne 1208 à compter du mardi 22 septembre 2026 en raison des travaux Avenue Roger Guichard à Eragny,2026-09-22 05:00,2026-11-16 23:59
+2026-11-13 04:40:01,9b0675b4-90bc-42a8-93ca-eedbc55cd99c,C01197,176,bus,interrompu,TRAVAUX,Bus 176 : Travaux - Arrêt(s) non desservi(s),2026-10-10 20:01,2026-11-17 04:30
+2026-11-13 04:40:01,1ea6b80b-f4b6-4aaa-ad0d-3f4ae63b4407,C01306,366,bus,interrompu,TRAVAUX,Bus 366 : Travaux - Arrêt(s) non desservi(s),2026-10-19 18:59,2026-11-30 03:00
+2026-11-13 04:40:01,34953b41-87bf-4b58-9eaa-f94a4137bc70,C01198,177,bus,interrompu,TRAVAUX,Bus 177 : Travaux - Arrêt(s) non desservi(s),2026-10-17 06:51,2026-12-19 04:51
+2026-11-13 04:40:01,d57bf9d8-15b4-4512-8b28-c18fcbcd2cb1,C00725,5421,bus,interrompu,TRAVAUX,Territoire Mantois - travaux Méricourt,2026-11-10 03:24,2027-10-31 23:59
+2026-11-13 04:40:01,1f1d73e1-c2ca-48be-b39a-e1f95f538169,C01210,189,bus,interrompu,TRAVAUX,Bus 189 : Travaux - Arrêt(s) non desservi(s),2026-11-09 12:00,2026-11-21 03:00
+2026-11-13 04:40:01,08883f70-13f7-4ed8-a2f3-970393ba3a64,C00782,1232,bus,interrompu,TRAVAUX,Réseau Cergy Pontoise Confluence : Déviation ligne 1232 à compter du 3 novembre 2026 et jusqu'à nouvel ordre - Travaux réfections trottoirs à St Ouen l'Aumône,2026-11-03 05:00,2026-12-09 23:59
+2026-11-13 04:40:01,ff040180-7f2f-4eb1-89f5-aa38c4f43df8,C00766,1238,bus,interrompu,TRAVAUX,"Réseau Cergy Pontoise Confluence : Report arrêt ""Les Plants"" lignes 1207 vers Vauréal et 1238 vers Menucourt à compter du mercredi 7 octobre 2026 et jusqu'à nouvel ordre en raison des travaux en cours",2026-10-07 05:00,2026-12-31 23:59
+2026-11-13 04:40:01,ff040180-7f2f-4eb1-89f5-aa38c4f43df8,C00774,1207,bus,interrompu,TRAVAUX,"Réseau Cergy Pontoise Confluence : Report arrêt ""Les Plants"" lignes 1207 vers Vauréal et 1238 vers Menucourt à compter du mercredi 7 octobre 2026 et jusqu'à nouvel ordre en raison des travaux en cours",2026-10-07 05:00,2026-12-31 23:59
+2026-11-13 04:40:01,84b39551-b055-4407-8b9c-b365a8488f2a,C01167,141,bus,interrompu,TRAVAUX,Bus 263 : Travaux - Arrêt(s) non desservi(s),2026-10-01 18:00,2026-11-18 04:30
+2026-11-13 04:40:01,84b39551-b055-4407-8b9c-b365a8488f2a,C02314,263,bus,interrompu,TRAVAUX,Bus 263 : Travaux - Arrêt(s) non desservi(s),2026-10-01 18:00,2026-11-18 04:30
+2026-11-13 04:40:01,220c975c-1d3d-4bed-91a5-7c1ad6fc73d7,C01167,141,bus,interrompu,TRAVAUX,Bus 141 : Travaux - Arrêt(s) non desservi(s),2026-11-09 14:37,2026-11-18 03:30
+2026-11-13 04:40:01,220c975c-1d3d-4bed-91a5-7c1ad6fc73d7,C02314,263,bus,interrompu,TRAVAUX,Bus 141 : Travaux - Arrêt(s) non desservi(s),2026-11-09 14:37,2026-11-18 03:30
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C00731,5409,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C00733,5455,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C00741,5486,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C01605,5406,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C01796,5413,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,afe3c224-c7f4-4be3-b833-4664fdcd278a,C01949,5401,bus,interrompu,TRAVAUX,"Territoire Mantois - Travaux rue Gambetta, Mantes-la-Jolie",2026-10-16 15:23,2027-09-30 23:59
+2026-11-13 04:40:01,76de5323-7910-4f00-9a90-b261f21a1a5f,C01257,276,bus,interrompu,TRAVAUX,Bus 367 : Travaux - Arrêt(s) non desservi(s),2026-09-02 05:29,2026-12-18 05:29
+2026-11-13 04:40:01,76de5323-7910-4f00-9a90-b261f21a1a5f,C01307,367,bus,interrompu,TRAVAUX,Bus 367 : Travaux - Arrêt(s) non desservi(s),2026-09-02 05:29,2026-12-18 05:29
+2026-11-13 04:40:01,e89e917c-0aaa-47ea-8acd-f44f2a613b50,C01255,274,bus,interrompu,TRAVAUX,Bus 274 : Travaux - Arrêt(s) non desservi(s),2026-11-01 08:25,2026-11-14 03:30
+2026-11-13 04:40:01,293ca017-c07a-4964-991c-44ddccc03b60,C01369,595,bus,interrompu,TRAVAUX,Bus 595 : Travaux - Arrêt(s) non desservi(s),2026-08-20 05:00,2026-12-31 23:59
+2026-11-13 04:40:01,72a901d2-ca08-4fdc-92c4-0c8283e28630,C01257,276,bus,interrompu,TRAVAUX,Bus 276 : Travaux - Arrêt(s) non desservi(s),2026-08-31 03:50,2026-12-19 03:30
+2026-11-13 04:40:01,72a901d2-ca08-4fdc-92c4-0c8283e28630,C01307,367,bus,interrompu,TRAVAUX,Bus 276 : Travaux - Arrêt(s) non desservi(s),2026-08-31 03:50,2026-12-19 03:30
+2026-11-13 04:40:01,10b3f93a-6c17-4851-acae-314d421a9fac,C01214,194,bus,interrompu,TRAVAUX,Bus 194 : Travaux - Arrêt(s) non desservi(s),2026-11-09 09:51,2026-11-21 03:00
+2026-11-13 04:40:01,955e0cc1-4d3f-406a-a98f-5f3b40d5d292,C00766,1238,bus,interrompu,TRAVAUX,"Réseau Cergy Pontoise Confluence : Ligne 1238 - Arrêt ""Grande Pièce"" vers Menucourt non desservi à compter du mardi 10 novembre 2026 jusqu'à nouvel ordre",2026-11-10 07:00,2026-12-04 23:59
+2026-11-13 04:40:01,9d6c142c-f71e-4497-a374-59efb8507917,C01696,248,bus,perturbé,PERTURBATION,Bus 248 - travaux sur la chaussée : service perturbé du 19/10 au 19/12,2026-10-19 04:00,2026-12-19 02:00
+2026-11-13 04:40:01,be916c91-b4c7-4691-bb7b-ac5428dbd48a,C00271,6591,bus,perturbé,PERTURBATION,"⚠🚍#Infotrafic - Lignes 6559, 6591 - À partir du 7 septembre 2026",2026-09-07 06:00,2026-11-16 23:59
+2026-11-13 04:40:01,be916c91-b4c7-4691-bb7b-ac5428dbd48a,C02555,6559,bus,perturbé,PERTURBATION,"⚠🚍#Infotrafic - Lignes 6559, 6591 - À partir du 7 septembre 2026",2026-09-07 06:00,2026-11-16 23:59
+2026-11-13 04:40:01,0dfb13ea-b955-4116-a7e7-b3440091ca3b,C02246,71,bus,perturbé,PERTURBATION,Bus 71 - travaux aux abords des points d'arrêts : service perturbé du 03/11 au 20/11,2026-11-03 04:00,2026-11-20 02:00
+2026-11-13 04:40:01,fa0d2022-083e-429e-8214-97295b5344ed,C01576,604,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 604 - Du jeudi 10 septembre au jeudi 31 décembre 2026.,2026-09-09 09:00,2027-01-01 23:59
+2026-11-13 04:40:01,1bcc0f41-b7b7-4614-85a7-f88742e9c926,C01134,105,bus,perturbé,PERTURBATION,Arrêts non desservis direction Pavillons-sous-Bois,2026-04-30 22:00,2028-04-06 23:00
+2026-11-13 04:40:01,dd426b4d-d0b7-4d65-ad36-f9e46541af57,C00573,428,bus,perturbé,PERTURBATION,Valenton  - Travaux rue du colonel Fabien,2025-08-18 07:00,2026-12-31 23:00
+2026-11-13 04:40:01,dd426b4d-d0b7-4d65-ad36-f9e46541af57,C00574,427,bus,perturbé,PERTURBATION,Valenton  - Travaux rue du colonel Fabien,2025-08-18 07:00,2026-12-31 23:00
+2026-11-13 04:40:01,dd426b4d-d0b7-4d65-ad36-f9e46541af57,C00594,429,bus,perturbé,PERTURBATION,Valenton  - Travaux rue du colonel Fabien,2025-08-18 07:00,2026-12-31 23:00
+2026-11-13 04:40:01,dd426b4d-d0b7-4d65-ad36-f9e46541af57,C01751,430,bus,perturbé,PERTURBATION,Valenton  - Travaux rue du colonel Fabien,2025-08-18 07:00,2026-12-31 23:00
+2026-11-13 04:40:01,68089a34-e2a5-4797-97ff-16108ba4b3f6,C00803,3106,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 3106, 3124, 3130, 3137 - Du 02 juillet 2026 jusqu’à la fin des travaux",2026-06-30 14:20,2026-12-31 20:00
+2026-11-13 04:40:01,68089a34-e2a5-4797-97ff-16108ba4b3f6,C01045,3124,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 3106, 3124, 3130, 3137 - Du 02 juillet 2026 jusqu’à la fin des travaux",2026-06-30 14:20,2026-12-31 20:00
+2026-11-13 04:40:01,68089a34-e2a5-4797-97ff-16108ba4b3f6,C02107,3137,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 3106, 3124, 3130, 3137 - Du 02 juillet 2026 jusqu’à la fin des travaux",2026-06-30 14:20,2026-12-31 20:00
+2026-11-13 04:40:01,68089a34-e2a5-4797-97ff-16108ba4b3f6,C02121,3130,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 3106, 3124, 3130, 3137 - Du 02 juillet 2026 jusqu’à la fin des travaux",2026-06-30 14:20,2026-12-31 20:00
+2026-11-13 04:40:01,99530bd0-e1f0-434a-b03e-541c3c111f83,C00275,6570,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 6570 - Du 28 septembre au 04 décembre 2026,2026-09-28 10:22,2026-12-04 23:59
+2026-11-13 04:40:01,f99b6c92-ad44-476b-80e4-8c63466c6d9f,C00901,2374,bus,perturbé,PERTURBATION,Suppression d'arrêts 2374,2026-09-01 00:01,2026-12-31 23:59
+2026-11-13 04:40:01,0c07c61b-f030-4271-beeb-4deadb4ebb78,C00916,2321,bus,perturbé,PERTURBATION,Travaux Boutigny,2026-10-05 07:30,2026-11-13 23:00
+2026-11-13 04:40:01,0c07c61b-f030-4271-beeb-4deadb4ebb78,C01994,2351,bus,perturbé,PERTURBATION,Travaux Boutigny,2026-10-05 07:30,2026-11-13 23:00
+2026-11-13 04:40:01,0c07c61b-f030-4271-beeb-4deadb4ebb78,C02230,2326,bus,perturbé,PERTURBATION,Travaux Boutigny,2026-10-05 07:30,2026-11-13 23:00
+2026-11-13 04:40:01,0f11aa16-a464-454d-8f94-f9ef4a4947b7,C00281,6503,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 6501, 6502, 6503, 6505, 6536 - A partir du 22 septembre 2026",2026-09-22 07:53,2027-03-31 23:59
+2026-11-13 04:40:01,0f11aa16-a464-454d-8f94-f9ef4a4947b7,C00285,6536,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 6501, 6502, 6503, 6505, 6536 - A partir du 22 septembre 2026",2026-09-22 07:53,2027-03-31 23:59
+2026-11-13 04:40:01,0f11aa16-a464-454d-8f94-f9ef4a4947b7,C02565,6501,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 6501, 6502, 6503, 6505, 6536 - A partir du 22 septembre 2026",2026-09-22 07:53,2027-03-31 23:59
+2026-11-13 04:40:01,0f11aa16-a464-454d-8f94-f9ef4a4947b7,C02566,6502,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 6501, 6502, 6503, 6505, 6536 - A partir du 22 septembre 2026",2026-09-22 07:53,2027-03-31 23:59
+2026-11-13 04:40:01,0f11aa16-a464-454d-8f94-f9ef4a4947b7,C02567,6505,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 6501, 6502, 6503, 6505, 6536 - A partir du 22 septembre 2026",2026-09-22 07:53,2027-03-31 23:59
+2026-11-13 04:40:01,441fc702-5db8-4ccc-9d8c-dc0b862a2df8,C02246,71,bus,perturbé,PERTURBATION,Bus 71 - travaux aux abords des points d'arrêts : service perturbé du 03/11 au 20/11,2026-11-03 04:00,2026-11-20 02:00
+2026-11-13 04:40:01,7d516f28-8221-4ceb-a025-5d1fe8141dd8,C01134,105,bus,perturbé,PERTURBATION,Bus 105 - travaux sur la chaussée : service perturbé du 06/04 au 07/04,2026-04-06 04:00,2028-04-07 02:00
+2026-11-13 04:40:01,53fc6b08-082d-11f1-8203-0a58a9feac02,C01576,604,bus,perturbé,TRAVAUX,⚠️🚍#Infotrafic - Ligne 604 - Du lundi 2 mars au jeudi 31 décembre 2026.,2026-02-28 09:00,2027-01-02 20:00
+2026-11-13 04:40:01,9f222c00-f46d-11ef-b375-0a58a9feac02,C02489,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-02-26 19:25,2026-12-31 23:59
+2026-11-13 04:40:01,9f222c00-f46d-11ef-b375-0a58a9feac02,C02490,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-02-26 19:25,2026-12-31 23:59
+2026-11-13 04:40:01,9b797e45-dfa2-4eb1-b1c2-c4af03f35b8b,C00556,435,bus,perturbé,PERTURBATION,BUS 435 : TRAVAUX AVENUE CHARLES DE GAULLES A SUCY,2026-10-27 09:30,2027-02-26 23:30
+2026-11-13 04:40:01,2ff24373-961c-4aa3-8cb9-1d3f524f3019,C01110,75,bus,perturbé,PERTURBATION,Bus 75 - travaux aux abords des points d'arrêts : service perturbé du 14/09 au 01/07,2026-09-14 04:00,2027-07-01 02:00
+2026-11-13 04:40:01,efb37956-f459-4a06-abef-05df23f29ded,C00928,2341,bus,perturbé,PERTURBATION,Modification sens circulation,2026-11-02 00:01,2026-12-31 23:59
+2026-11-13 04:40:01,84f5ff9e-3ca6-4c5c-9911-8e9bdd13962b,C01161,133,bus,perturbé,PERTURBATION,Bus 133 - travaux sur la chaussée : service perturbé du 31/10 au 27/02,2026-10-31 04:00,2027-02-27 02:00
+2026-11-13 04:40:01,37a7e8d1-7510-4925-b364-460eafba5deb,C01517,3208,bus,perturbé,PERTURBATION,Fête foraine PROVINS,2026-10-29 08:23,2026-11-18 20:59
+2026-11-13 04:40:01,37a7e8d1-7510-4925-b364-460eafba5deb,C02584,Soir,bus,perturbé,PERTURBATION,Fête foraine PROVINS,2026-10-29 08:23,2026-11-18 20:59
+2026-11-13 04:40:01,65bfa83b-6523-47c6-afdd-c3d2a32ae701,C00009,3103,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 3103 - Du mardi 10 novembre 2026 jusqu'à nouvel ordre,2026-11-10 10:17,2026-12-31 23:59
+2026-11-13 04:40:01,e1357498-93cb-4506-be44-e88943c749c6,C02567,6505,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6505 - du lundi 19 octobre au mercredi 30 juin 2027,2026-10-19 00:00,2027-06-30 23:00
+2026-11-13 04:40:01,82613b16-bf8e-4c93-b68b-35f55aecd38f,C01728,D,rer,perturbé,PERTURBATION,Ligne D : modification des horaires des trains du 19/10 au 13/11,2026-10-14 03:00,2026-11-14 03:00
+2026-11-13 04:40:01,9fe24ae9-8681-41c2-88a8-400d7161e5dd,C00644,6543,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6543 - À partir 15 septembre 2026 jusqu'à la fin des travaux,2026-09-15 03:00,2026-12-31 23:59
+2026-11-13 04:40:01,d8fecad0-328f-41fb-ae4a-d3ac546d57fc,C01323,421,bus,perturbé,PERTURBATION,⚠🚍 Ligne 421 - Du lundi 16 novembre à 7h00 jusqu’au vendredi 16 juillet 2027.,2026-11-06 07:00,2027-07-17 02:00
+2026-11-13 04:40:01,544326dc-3f92-459d-bbea-283ad710c1f5,,,,perturbé,TRAVAUX,"4613 - Affaissement rue de Villebon - ""Pré Haut"" et ""Fontaine de Fer"" non desservis en direction de la gare de Massy-Palaiseau",2026-10-27 14:00,2026-11-30 23:59
+2026-11-13 04:40:01,706fec88-6e08-468b-957b-0d8e249f5724,C02437,209,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 209 - Du lundi 21 septembre 2026 au vendredi 19 février 2027,2026-09-21 14:17,2027-02-19 23:59
+2026-11-13 04:40:01,8ed90bb5-629c-41b2-9d1d-b19e6d48bb8b,C01097,61,bus,perturbé,PERTURBATION,Bus 61 - travaux sur la chaussée : service perturbé du 20/10 au 20/11,2026-10-20 14:30,2026-11-20 18:00
+2026-11-13 04:40:01,b0c048e0-c98f-4f04-af50-25218720e557,C00948,2317,bus,perturbé,PERTURBATION,Intempéries route de Congis,2026-10-23 09:00,2026-11-23 23:59
+2026-11-13 04:40:01,0452f055-25c5-4a06-ab0d-6f1ced475ad2,C00556,435,bus,perturbé,PERTURBATION,BUS 435 : Travaux Rue de Marolles,2026-07-16 09:00,2026-12-18 10:00
+2026-11-13 04:40:01,589fdd6f-466c-4a14-99ef-e6dc0542e3ad,C00017,3118,bus,perturbé,PERTURBATION,"⚠🚍 Lignes N142, 3115, 3118 - du lundi 2 novembre 2026 jusqu'à la fin des travaux",2026-11-02 11:32,2027-01-31 23:59
+2026-11-13 04:40:01,589fdd6f-466c-4a14-99ef-e6dc0542e3ad,C00020,3115,bus,perturbé,PERTURBATION,"⚠🚍 Lignes N142, 3115, 3118 - du lundi 2 novembre 2026 jusqu'à la fin des travaux",2026-11-02 11:32,2027-01-31 23:59
+2026-11-13 04:40:01,589fdd6f-466c-4a14-99ef-e6dc0542e3ad,C01640,N142,bus,perturbé,PERTURBATION,"⚠🚍 Lignes N142, 3115, 3118 - du lundi 2 novembre 2026 jusqu'à la fin des travaux",2026-11-02 11:32,2027-01-31 23:59
+2026-11-13 04:40:01,a183a756-0a26-4483-855b-17479ea45080,C02246,71,bus,perturbé,PERTURBATION,Bus 71 - travaux sur la chaussée : service perturbé jusqu'à 2h vendredi 18 décembre 2026.,2026-10-26 04:00,2026-12-19 02:00
+2026-11-13 04:40:01,7c8da357-b915-4f4f-b962-eeac7af00571,C01172,147,bus,perturbé,PERTURBATION,Travaux Pont de Bondy,2026-04-30 22:00,2028-04-06 23:00
+2026-11-13 04:40:01,b2369580-5619-4b5c-a1c9-846541696b38,C02565,6501,bus,perturbé,TRAVAUX,"⚠🚍 Lignes 6501, 6502 - Du 04 août 2026 au 31 janvier 2027",2026-08-03 17:05,2027-01-31 23:59
+2026-11-13 04:40:01,b2369580-5619-4b5c-a1c9-846541696b38,C02566,6502,bus,perturbé,TRAVAUX,"⚠🚍 Lignes 6501, 6502 - Du 04 août 2026 au 31 janvier 2027",2026-08-03 17:05,2027-01-31 23:59
+2026-11-13 04:40:01,2b8d90db-f7f8-41e3-b788-124cb5c1e119,C02155,4615,bus,perturbé,TRAVAUX,4615 - Travaux av. du Pr. Salvador Allende à Massy (du 26/10/26 au 30/06/27),2026-10-23 15:52,2027-06-30 23:59
+2026-11-13 04:40:01,5efdaebc-3f86-4e39-bae3-8feb909d8cc0,C01234,234,bus,perturbé,PERTURBATION,Bus 234 - travaux sur la chaussée : service perturbé du 18/10 au 19/12,2026-10-18 04:00,2026-12-19 02:00
+2026-11-13 04:40:01,9a213be3-0451-4f73-bb43-5a569f51f832,C00625,2221,bus,perturbé,PERTURBATION,MLV-L2229-2254-2221 report de l'arrêt Mairie n°942,2026-06-03 14:00,2027-06-30 18:00
+2026-11-13 04:40:01,9a213be3-0451-4f73-bb43-5a569f51f832,C00630,2229,bus,perturbé,PERTURBATION,MLV-L2229-2254-2221 report de l'arrêt Mairie n°942,2026-06-03 14:00,2027-06-30 18:00
+2026-11-13 04:40:01,9a213be3-0451-4f73-bb43-5a569f51f832,C02673,2254,bus,perturbé,PERTURBATION,MLV-L2229-2254-2221 report de l'arrêt Mairie n°942,2026-06-03 14:00,2027-06-30 18:00
+2026-11-13 04:40:01,3afb1d62-b240-4a37-a19e-50900b6029f1,C00555,434,bus,perturbé,PERTURBATION,BUS 434 : TRAVAUX RUE DU GRAND VAL,2026-10-21 15:00,2026-11-20 17:00
+2026-11-13 04:40:01,a66429dd-d1e2-45cb-b4cc-c3737d7f9e27,C00661,7720,bus,perturbé,PERTURBATION,Travaux - Quai RoissyPôle déplacé,2026-11-09 16:55,2026-11-16 23:59
+2026-11-13 04:40:01,265ab4d4-9557-4e0c-b646-9d89c72e284d,C00275,6570,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 6570 - Du jeudi 12 novembre au vendredi 4 décembre 2026,2026-11-11 23:59,2026-12-04 23:59
+2026-11-13 04:40:01,bc454b02-9f7d-49f0-a72a-fe21aa5fc42d,C01581,613,bus,perturbé,TRAVAUX,"⚠🚍#InfoTrafic - Lignes 613, 700 - Du lundi 9 novembre au vendredi 27 novembre 2026",2026-11-09 11:57,2026-11-27 23:59
+2026-11-13 04:40:01,bc454b02-9f7d-49f0-a72a-fe21aa5fc42d,C02062,700,bus,perturbé,TRAVAUX,"⚠🚍#InfoTrafic - Lignes 613, 700 - Du lundi 9 novembre au vendredi 27 novembre 2026",2026-11-09 11:57,2026-11-27 23:59
+2026-11-13 04:40:01,d17fb443-0f3d-4776-bbcf-4931f67a2c90,C01589,623,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 623 - Du lundi 27 juillet au samedi 9 janvier 2026,2026-07-25 09:00,2027-01-09 23:59
+2026-11-13 04:40:01,807d1de1-c27f-4ad7-9afd-d0802d312444,C01234,234,bus,perturbé,PERTURBATION,Arrêts non desservis direction Aubervilliers,2026-04-30 22:00,2027-01-01 03:00
+2026-11-13 04:40:01,a8373669-0784-4193-a906-553a0cb0e5a4,C00573,428,bus,perturbé,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,a8373669-0784-4193-a906-553a0cb0e5a4,C00574,427,bus,perturbé,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,a8373669-0784-4193-a906-553a0cb0e5a4,C00594,429,bus,perturbé,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,a8373669-0784-4193-a906-553a0cb0e5a4,C01751,430,bus,perturbé,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,a8373669-0784-4193-a906-553a0cb0e5a4,C02668,N72,bus,perturbé,PERTURBATION,CÂBLE C1 : INTERRUPTION TRAFIC LIMEIL VILLA NOVA,2026-11-05 22:00,2026-11-27 17:00
+2026-11-13 04:40:01,192eb583-59a8-46e5-8db9-e85187678ff6,C00927,2340,bus,perturbé,PERTURBATION,Travaux - Arrêts Vernelle reportés,2026-11-02 00:01,2026-12-18 23:59
+2026-11-13 04:40:01,192eb583-59a8-46e5-8db9-e85187678ff6,C00939,2354,bus,perturbé,PERTURBATION,Travaux - Arrêts Vernelle reportés,2026-11-02 00:01,2026-12-18 23:59
+2026-11-13 04:40:01,e3c28a0c-a11b-4f7f-8ee9-5383f792e61c,C00274,6512,bus,perturbé,TRAVAUX,⚠️🚍#Infotrafic - Ligne 6512 - Le vendredi 13 novembre 2026 de 08h45 à 16h30,2026-11-11 09:00,2026-11-13 23:59
+2026-11-13 04:40:01,aca6ec63-0542-4694-adfc-ab4be14979ba,C00961,7709,bus,perturbé,PERTURBATION,Evolution à compter du 2 novembre - Express 7709,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,a8192bb2-1deb-11f1-940a-0a58a9feac02,C02130,713,bus,perturbé,TRAVAUX,"⚠🚍 Lignes 713, 723 - Du mercredi 5 novembre 2025 au 1er septembre 2027",2026-03-12 09:06,2027-09-01 23:59
+2026-11-13 04:40:01,a8192bb2-1deb-11f1-940a-0a58a9feac02,C02866,723,bus,perturbé,TRAVAUX,"⚠🚍 Lignes 713, 723 - Du mercredi 5 novembre 2025 au 1er septembre 2027",2026-03-12 09:06,2027-09-01 23:59
+2026-11-13 04:40:01,b9acd874-c6ed-47c5-8359-eadbd92abb84,C00017,3118,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 3118 - Du mardi 10 novembre 2026 jusqu'à nouvel ordre,2026-11-10 10:19,2026-12-31 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C00262,2377,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C00637,7718,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C00661,7720,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C00901,2374,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C00954,2301,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C01820,7702,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,3d56c091-ce69-4b9b-98cb-bf6be760ed21,C02877,2384,bus,perturbé,PERTURBATION,Evolution des horaires à compter du 2 novembre,2026-11-02 00:01,2026-11-30 23:59
+2026-11-13 04:40:01,9477563d-a6a7-4845-8619-d38601663152,C01225,211,bus,perturbé,PERTURBATION,⚠🚍 Ligne 211 - du mardi 10 novembre au vendredi 16 juillet 2027,2026-11-10 13:29,2027-07-17 02:00
+2026-11-13 04:40:01,efebe50f-b19c-476e-82f0-f8d6898ea3f1,C02246,71,bus,perturbé,PERTURBATION,Arrêts non desservis - Ligne 71,2026-07-24 04:00,2026-12-01 15:00
+2026-11-13 04:40:01,497e39fc-90dd-485c-ad63-7b00ecb32bad,C00552,431,bus,perturbé,PERTURBATION,BUS 431 434 435 : TRAVAUX RUE M BERTEAUX SUCY,2026-10-13 14:00,2027-07-23 17:00
+2026-11-13 04:40:01,497e39fc-90dd-485c-ad63-7b00ecb32bad,C00555,434,bus,perturbé,PERTURBATION,BUS 431 434 435 : TRAVAUX RUE M BERTEAUX SUCY,2026-10-13 14:00,2027-07-23 17:00
+2026-11-13 04:40:01,497e39fc-90dd-485c-ad63-7b00ecb32bad,C00556,435,bus,perturbé,PERTURBATION,BUS 431 434 435 : TRAVAUX RUE M BERTEAUX SUCY,2026-10-13 14:00,2027-07-23 17:00
+2026-11-13 04:40:01,d4b0c5f2-4e4c-418b-8629-babf5bde9770,C02111,443,bus,perturbé,PERTURBATION,BUS 443 444 : TRAVAUX RUE DU GRAND VAL,2026-10-21 15:00,2026-11-20 17:00
+2026-11-13 04:40:01,d4b0c5f2-4e4c-418b-8629-babf5bde9770,C02112,444,bus,perturbé,PERTURBATION,BUS 443 444 : TRAVAUX RUE DU GRAND VAL,2026-10-21 15:00,2026-11-20 17:00
+2026-11-13 04:40:01,496eadb0-d362-435b-b78e-116368368039,C00106,6521,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 6521 - Du 05 novembre au 18 décembre 2026,2026-11-04 10:13,2026-12-18 23:59
+2026-11-13 04:40:01,4e02b729-8e99-4bc3-85ac-f8bf46554e37,C01729,E,rer,perturbé,PERTURBATION,RER E : Val de Fontenay – Travaux en gare – du 20/10 au 17/12,2026-10-13 03:00,2026-12-18 03:00
+2026-11-13 04:40:01,240384c7-5bce-4beb-8911-1d752dc86f1e,C02567,6505,bus,perturbé,TRAVAUX,⚠🚍 Ligne 6505 - A partir du lundi 19 octobre 2026,2026-10-17 00:00,2027-06-01 23:59
+2026-11-13 04:40:01,2d6fcae0-b89e-11f0-9ae7-0a58a9feac02,C01278,310,bus,perturbé,PERTURBATION,⚠️🚍#Infotrafic - Ligne 310 - Du 22 septembre 2025 au 8 janvier 2027,2025-11-03 11:08,2027-01-08 23:59
+2026-11-13 04:40:01,24ef2823-9527-4534-bcba-b4d579e84193,C01121,89,bus,perturbé,PERTURBATION,⚠🚍 Ligne 89 - du mardi 29 septembre au jeudi 31 décembre 2026,2026-09-29 03:00,2027-01-01 02:00
+2026-11-13 04:40:01,a2a31e33-abd1-4a5e-b4bf-636a628bcce0,C00161,6306,bus,perturbé,PERTURBATION,Travaux - ligne 6306 - du 30/10/26 au 27/11/26,2026-10-30 04:00,2026-11-27 23:00
+2026-11-13 04:40:01,a6f2c92e-65c9-4c85-be67-5ada44497137,C00592,4110,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 4110, 4154, 4155 - Du vendredi 30 avril jusqu'à la fin des travaux",2026-07-10 10:03,2027-02-28 23:59
+2026-11-13 04:40:01,4b468d90-4ee2-4f0d-89d2-fd2669b9c4d5,C00602,4120,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4120 - Du 1er septembre 2026 au 31 décembre 2027,2026-08-30 14:33,2028-01-01 20:00
+2026-11-13 04:40:01,1c64d7b2-5c3f-430d-84a2-8734b8b7cc74,C00261,1621,bus,perturbé,TRAVAUX,⚠️🚍 Ligne 1621 -  Du lundi 5 octobre 2026 jusqu'à la fin des travaux,2026-09-17 07:30,2027-01-08 23:59
+2026-11-13 04:40:01,1af611bb-baff-420e-9f23-fe6005b2d40b,C00446,1518,bus,perturbé,PERTURBATION,Vallée de Montmorency - 1518,2026-08-24 07:00,2026-11-16 16:00
+2026-11-13 04:40:01,4ac97f83-d623-46bd-8838-59f23467b914,C01584,616,bus,perturbé,PERTURBATION,Terres d'Envol - Ligne 616 - Travaux,2026-11-09 09:00,2026-11-13 16:00
+2026-11-13 04:40:01,bf2aacf7-e696-46f7-9ee0-dffc108629ef,C00591,4132,bus,perturbé,PERTURBATION,⚠🚍#InfoTrafic - Ligne 4132 - Du 19 octobre au 18 novembre 2026,2026-10-17 09:00,2026-11-18 23:59
+2026-11-13 04:40:01,d070f816-757a-4db5-871f-4858f320db5a,C02032,3547,bus,perturbé,PERTURBATION,"Modification arrêt ""Général de Gaulle"" - novembre",2026-11-03 13:44,2027-01-29 23:00
+2026-11-13 04:40:01,9f15bce8-6530-4e92-9926-5a591df44284,C00139,1114,bus,perturbé,PERTURBATION,Travaux à Saillancourt,2026-11-03 09:00,2026-12-31 23:00
+2026-11-13 04:40:01,9f15bce8-6530-4e92-9926-5a591df44284,C00142,1131,bus,perturbé,PERTURBATION,Travaux à Saillancourt,2026-11-03 09:00,2026-12-31 23:00
+2026-11-13 04:40:01,9f15bce8-6530-4e92-9926-5a591df44284,C01790,1135,bus,perturbé,PERTURBATION,Travaux à Saillancourt,2026-11-03 09:00,2026-12-31 23:00
+2026-11-13 04:40:01,b1c931b5-7dfd-4fde-b757-c4d8e1871917,C01790,1135,bus,perturbé,PERTURBATION,Travaux à Us,2026-09-01 00:00,2026-12-31 23:00
+2026-11-13 04:40:01,317fad40-5f39-4cd8-a376-fb4ac7587cc4,C01433,TàD,bus,perturbé,PERTURBATION,"⚠️🚍Ligne 1627, TàD - Du mardi 27 octobre 2026 jusqu’à la fin des travaux de 21h00 à 05h00",2026-10-27 15:42,2027-01-31 23:59
+2026-11-13 04:40:01,317fad40-5f39-4cd8-a376-fb4ac7587cc4,C02059,1627,bus,perturbé,PERTURBATION,"⚠️🚍Ligne 1627, TàD - Du mardi 27 octobre 2026 jusqu’à la fin des travaux de 21h00 à 05h00",2026-10-27 15:42,2027-01-31 23:59
+2026-11-13 04:40:01,29816313-a262-4a19-95d6-0dcf1e063fca,C01731,R,train,perturbé,TRAVAUX,Ligne R : modification des horaires des trains novembre.,2026-11-13 03:00,2026-11-14 03:00
+2026-11-13 04:40:01,eb23b58c-2305-40fb-90cc-109fd830d84a,C00145,6309,bus,perturbé,PERTURBATION,Travaux - lignes 6309 et 6311 - le 23/11/26,2026-11-12 07:00,2026-11-23 20:00
+2026-11-13 04:40:01,eb23b58c-2305-40fb-90cc-109fd830d84a,C02615,6311,bus,perturbé,PERTURBATION,Travaux - lignes 6309 et 6311 - le 23/11/26,2026-11-12 07:00,2026-11-23 20:00
+2026-11-13 04:40:01,e95d2df3-f2d1-46cb-b121-aa6587a3e251,C00656,2128,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 2128 - À partir du 26 octobre 2026,2026-10-29 16:29,2027-01-31 23:59
+2026-11-13 04:40:01,31ee6823-e479-40f2-8816-1fa785f14606,C00577,4119,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131, 4154, 4155 - Du lundi 21 septembre au vendredi 20 novembre 2026 (Prolongation)",2026-09-21 06:00,2026-11-20 23:59
+2026-11-13 04:40:01,31ee6823-e479-40f2-8816-1fa785f14606,C00586,4131,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131, 4154, 4155 - Du lundi 21 septembre au vendredi 20 novembre 2026 (Prolongation)",2026-09-21 06:00,2026-11-20 23:59
+2026-11-13 04:40:01,31ee6823-e479-40f2-8816-1fa785f14606,C00589,4154,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131, 4154, 4155 - Du lundi 21 septembre au vendredi 20 novembre 2026 (Prolongation)",2026-09-21 06:00,2026-11-20 23:59
+2026-11-13 04:40:01,31ee6823-e479-40f2-8816-1fa785f14606,C02103,4155,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131, 4154, 4155 - Du lundi 21 septembre au vendredi 20 novembre 2026 (Prolongation)",2026-09-21 06:00,2026-11-20 23:59
+2026-11-13 04:40:01,56ae264a-9b9b-482e-88a1-ec063be24e56,C00838,3755,bus,perturbé,PERTURBATION,Réau-Travaux RD57,2026-09-14 03:00,2027-02-28 17:00
+2026-11-13 04:40:01,56ae264a-9b9b-482e-88a1-ec063be24e56,C00839,3754,bus,perturbé,PERTURBATION,Réau-Travaux RD57,2026-09-14 03:00,2027-02-28 17:00
+2026-11-13 04:40:01,0aee01d4-694b-42f6-987d-8434abdd3014,C00145,6309,bus,perturbé,PERTURBATION,Travaux - lignes 6309 et 6311 - du 12/11 au 13/11,2026-11-12 07:00,2026-11-13 20:00
+2026-11-13 04:40:01,0aee01d4-694b-42f6-987d-8434abdd3014,C02615,6311,bus,perturbé,PERTURBATION,Travaux - lignes 6309 et 6311 - du 12/11 au 13/11,2026-11-12 07:00,2026-11-13 20:00
+2026-11-13 04:40:01,989cb7cb-193e-44e2-9688-3289dd10ad44,C02681,3752,bus,perturbé,PERTURBATION,Réau-Travaux RD57,2026-09-14 03:00,2027-02-28 17:00
+2026-11-13 04:40:01,04603782-fcf6-4e56-b0ac-0bd8a956e0b6,C01806,3702,bus,perturbé,PERTURBATION,Terminus ligne 3702 rue Gaillardon,2026-06-09 15:00,2027-12-31 17:00
+2026-11-13 04:40:01,4e75af81-49ee-419f-aed8-73e30a3f459c,C00156,6305,bus,perturbé,PERTURBATION,Du changement sur la ligne 6305-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,eba9f764-4479-4b7b-933c-cec9e3736989,C00356,4118,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic- Lignes 4112, 4118 - Vendredi 12 novembre 2026",2026-11-12 18:13,2026-11-13 23:59
+2026-11-13 04:40:01,eba9f764-4479-4b7b-933c-cec9e3736989,C01886,4112,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic- Lignes 4112, 4118 - Vendredi 12 novembre 2026",2026-11-12 18:13,2026-11-13 23:59
+2026-11-13 04:40:01,ee9cde69-1106-4fa3-88a4-bd0247fba1b5,C00394,1102,bus,perturbé,PERTURBATION,Travaux à Pontoise,2026-11-10 04:00,2026-11-29 23:00
+2026-11-13 04:40:01,53e46903-5bff-419f-b161-dfae0811f667,C00007,282,bus,perturbé,PERTURBATION,⚠🚍Ligne 282 - 24 septembre 2026 au 29 janvier 2027 : 8 Mai 1945 reporté.,2026-09-24 09:17,2027-01-30 02:00
+2026-11-13 04:40:01,8eef7306-f5cb-11ef-96bd-0a58a9feac02,C02750,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-02-26 19:25,2027-07-31 23:59
+2026-11-13 04:40:01,ac8bc51e-2e76-4a5f-a183-c6f05dc1e356,C01712,TàD,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 27, Filéo - Du lundi 17 août 2026 jusqu’à la fin des travaux",2026-08-15 09:00,2027-01-31 20:00
+2026-11-13 04:40:01,ac8bc51e-2e76-4a5f-a183-c6f05dc1e356,C02059,1627,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 27, Filéo - Du lundi 17 août 2026 jusqu’à la fin des travaux",2026-08-15 09:00,2027-01-31 20:00
+2026-11-13 04:40:01,76a13cce-8496-4693-baaf-57bfad427e9f,C01553,1111,bus,perturbé,PERTURBATION,Travaux à Mantes-La-Jolie,2026-08-31 15:00,2026-12-31 23:00
+2026-11-13 04:40:01,76a13cce-8496-4693-baaf-57bfad427e9f,C02829,1104,bus,perturbé,PERTURBATION,Travaux à Mantes-La-Jolie,2026-08-31 15:00,2026-12-31 23:00
+2026-11-13 04:40:01,76a13cce-8496-4693-baaf-57bfad427e9f,C02852,1119,bus,perturbé,PERTURBATION,Travaux à Mantes-La-Jolie,2026-08-31 15:00,2026-12-31 23:00
+2026-11-13 04:40:01,aaa523e7-e386-4185-8917-8605c81f2c71,C00216,45,bus,perturbé,PERTURBATION,Terres d'Envol - Oparinor non desservi le 12/11,2026-11-12 20:00,2026-11-13 06:00
+2026-11-13 04:40:01,aaa523e7-e386-4185-8917-8605c81f2c71,C01579,609,bus,perturbé,PERTURBATION,Terres d'Envol - Oparinor non desservi le 12/11,2026-11-12 20:00,2026-11-13 06:00
+2026-11-13 04:40:01,aaa523e7-e386-4185-8917-8605c81f2c71,C01584,616,bus,perturbé,PERTURBATION,Terres d'Envol - Oparinor non desservi le 12/11,2026-11-12 20:00,2026-11-13 06:00
+2026-11-13 04:40:01,59a051ed-ae61-46d5-822f-53a39eadefb6,C01785,1110,bus,perturbé,PERTURBATION,Travaux à Génicourt,2026-11-02 00:00,2026-12-31 23:00
+2026-11-13 04:40:01,59a051ed-ae61-46d5-822f-53a39eadefb6,C01786,1112,bus,perturbé,PERTURBATION,Travaux à Génicourt,2026-11-02 00:00,2026-12-31 23:00
+2026-11-13 04:40:01,59a051ed-ae61-46d5-822f-53a39eadefb6,C01789,1134,bus,perturbé,PERTURBATION,Travaux à Génicourt,2026-11-02 00:00,2026-12-31 23:00
+2026-11-13 04:40:01,950f4189-1ba8-4071-a291-6ff8ccba48a1,C02059,1627,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 27 - Du lundi 13 juillet jusqu'à fin des travaux,2026-07-13 18:40,2026-12-31 23:59
+2026-11-13 04:40:01,91a5359e-43f8-4c85-b8ee-fceba3117095,C00157,6307,bus,perturbé,PERTURBATION,Du changement sur la ligne 6307-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,51f9908a-0426-11f0-8747-0a58a9feac02,C02491,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-03-18 19:20,2030-07-31 23:00
+2026-11-13 04:40:01,06048c9a-f9dd-43f0-a81a-3abaf87f84e6,C01549,702,bus,perturbé,PERTURBATION,Terres d'Envol - Ligne 702 - Travaux,2026-08-28 12:00,2027-03-01 01:00
+2026-11-13 04:40:01,9029c6b6-dfd1-4419-a013-ad3c309e2385,C00577,4119,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131 - Du mercredi 30 septembre 2026 au dimanche 28 février 2027",2026-09-30 06:00,2026-12-28 23:59
+2026-11-13 04:40:01,9029c6b6-dfd1-4419-a013-ad3c309e2385,C00586,4131,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4119, 4131 - Du mercredi 30 septembre 2026 au dimanche 28 février 2027",2026-09-30 06:00,2026-12-28 23:59
+2026-11-13 04:40:01,7e537f06-e1f3-483a-ac2d-ac445d90cf2f,C00358,4114,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic- Lignes 4114, 4151 et 4161 - Mardi 10 novembre 2026 jusqu'à nouvel ordre",2026-11-10 09:15,2027-01-31 23:59
+2026-11-13 04:40:01,7e537f06-e1f3-483a-ac2d-ac445d90cf2f,C00366,4161,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic- Lignes 4114, 4151 et 4161 - Mardi 10 novembre 2026 jusqu'à nouvel ordre",2026-11-10 09:15,2027-01-31 23:59
+2026-11-13 04:40:01,7e537f06-e1f3-483a-ac2d-ac445d90cf2f,C00374,4151,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic- Lignes 4114, 4151 et 4161 - Mardi 10 novembre 2026 jusqu'à nouvel ordre",2026-11-10 09:15,2027-01-31 23:59
+2026-11-13 04:40:01,848bd032-9ee5-4267-9965-677eb18d4290,C01585,617,bus,perturbé,PERTURBATION,Terres d'Envol - Ligne 617 - Travaux,2026-09-28 00:00,2027-12-31 00:00
+2026-11-13 04:40:01,30b49123-5550-4abe-9d71-7853af14c04a,C00191,1611,bus,perturbé,PERTURBATION,"⚠🚍#InfoTrafic - Ligne 1611 - Les samedis 24 octobre, 7 novembre, 28 novembre et 5 décembre 2026",2026-10-23 12:21,2026-12-05 23:59
+2026-11-13 04:40:01,378d830e-e6ac-410b-98d8-87f3ddd5ca0b,C00837,3751,bus,perturbé,PERTURBATION,Réau-Travaux RD57,2026-09-14 03:00,2027-02-28 17:00
+2026-11-13 04:40:01,10fed3ce-031e-41b6-809d-776452378571,C00261,1621,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne VITAVIL -  Du mardi 11 août 2026 jusqu'à la fin des travaux,2026-08-11 11:38,2026-11-30 23:59
+2026-11-13 04:40:01,e8b4f7c8-433a-4e8c-8a83-65386c1f8366,C00213,39,bus,perturbé,PERTURBATION,Terres d'Envol - Ligne 39 - Travaux,2026-11-11 20:00,2026-11-14 06:00
+2026-11-13 04:40:01,49616540-a087-42b9-bbcf-593062bbfe0e,C00819,3503,bus,perturbé,PERTURBATION,"Arrêt ""Eglise"" Moncourt-Fromonville 9/11/2026",2026-11-09 13:26,2027-01-04 23:00
+2026-11-13 04:40:01,49616540-a087-42b9-bbcf-593062bbfe0e,C00830,3536,bus,perturbé,PERTURBATION,"Arrêt ""Eglise"" Moncourt-Fromonville 9/11/2026",2026-11-09 13:26,2027-01-04 23:00
+2026-11-13 04:40:01,b79815fa-81be-4738-ac65-cba1b449cf95,C02032,3547,bus,perturbé,PERTURBATION,"Arrêt ""Général de Gaulle"" - Nemours",2026-11-10 09:18,2026-11-20 23:00
+2026-11-13 04:40:01,5107a54a-2103-40f8-a255-f7cba5a2c01f,C00832,3501,bus,perturbé,PERTURBATION,TRAVAUX - 3501,2026-09-16 15:54,2026-12-04 23:00
+2026-11-13 04:40:01,2d5c5236-7c89-41d2-9c4e-f88ff6af8998,C00007,282,bus,perturbé,PERTURBATION,Ligne 282 - Travaux du jeudi 27 août 2026 au vendredi 29 janvier 2027,2026-08-27 03:00,2027-01-29 00:00
+2026-11-13 04:40:01,6be3b05e-a227-4ccb-890c-25c6fa38b519,C00158,6302,bus,perturbé,PERTURBATION,Du changement sur la ligne 6302-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,6be3b05e-a227-4ccb-890c-25c6fa38b519,C00160,6301,bus,perturbé,PERTURBATION,Du changement sur la ligne 6302-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,049ee506-5a80-48f4-8249-5c749db9a5fd,C01422,N153,bus,perturbé,PERTURBATION,Travaux - ligne N153 - du 13/07 au 16/11/26,2026-11-05 04:00,2026-11-17 23:00
+2026-11-13 04:40:01,d59c8c0d-3400-4140-b3a0-560f0f58ea82,C00158,6302,bus,perturbé,PERTURBATION,Du changement sur la ligne 6301-Dès le 02/11/2026,2026-10-26 10:00,2026-11-22 23:00
+2026-11-13 04:40:01,d59c8c0d-3400-4140-b3a0-560f0f58ea82,C00160,6301,bus,perturbé,PERTURBATION,Du changement sur la ligne 6301-Dès le 02/11/2026,2026-10-26 10:00,2026-11-22 23:00
+2026-11-13 04:40:01,16e905d1-9989-436f-949c-092980a4ba40,C01422,N153,bus,perturbé,PERTURBATION,Travaux - ligne N153 - à partir du 13/07/2026,2026-11-05 04:00,2026-11-17 23:00
+2026-11-13 04:40:01,adbed453-9c8e-4f8b-ac77-f07bb361e9f8,C00199,2117,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 2117  - Du 18 octobre 2026 au 28 février 2027,2026-10-18 06:00,2027-02-28 23:59
+2026-11-13 04:40:01,a567d4a3-1be1-44ec-b61c-9a20557a3600,C01804,1515,bus,perturbé,PERTURBATION,Vallée de Montmorency - 1515,2026-11-12 15:00,2027-01-31 23:59
+2026-11-13 04:40:01,59f47976-0de1-4b78-aa10-c7b6b600ec32,C01669,3705,bus,perturbé,PERTURBATION,Cesson -Travaux rue de la Maison Blanche,2026-11-10 16:00,2026-12-31 17:00
+2026-11-13 04:40:01,787fca9f-eb46-4ad3-aca6-f2712aefa454,C00245,2101,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 2101, 2109 - Du mardi 11 août 2026 jusqu’à la fin des travaux",2026-08-09 09:00,2027-01-31 20:00
+2026-11-13 04:40:01,787fca9f-eb46-4ad3-aca6-f2712aefa454,C00252,2109,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes 2101, 2109 - Du mardi 11 août 2026 jusqu’à la fin des travaux",2026-08-09 09:00,2027-01-31 20:00
+2026-11-13 04:40:01,0494973e-9ac2-4e0b-83bc-aa9c81279067,C02194,3776,bus,perturbé,PERTURBATION,"Melun- ARRET PROVISOIRE ""TRIBUNAL ADMINISTRATIF""",2026-11-03 15:15,2026-11-27 17:00
+2026-11-13 04:40:01,0494973e-9ac2-4e0b-83bc-aa9c81279067,C02726,3771,bus,perturbé,PERTURBATION,"Melun- ARRET PROVISOIRE ""TRIBUNAL ADMINISTRATIF""",2026-11-03 15:15,2026-11-27 17:00
+2026-11-13 04:40:01,1a1c5fae-c9dc-4a56-a1c3-abc62d44f8f9,C01958,3531,bus,perturbé,PERTURBATION,"Modification arrêt ""Place de l'Etape"" - 02/11/2026",2026-11-02 00:00,2026-12-01 23:00
+2026-11-13 04:40:01,b22efa36-a034-4a81-9169-64253a0726f8,C01641,N152,bus,perturbé,PERTURBATION,Travaux à Maisons-Laffitte,2026-07-07 08:00,2027-07-31 23:00
+2026-11-13 04:40:01,88537d31-f520-45ae-a5f7-1ad4f8f1d171,C00485,1520,bus,perturbé,PERTURBATION,Ligne 1520 & TàD,2026-10-12 05:00,2026-12-19 23:00
+2026-11-13 04:40:01,88537d31-f520-45ae-a5f7-1ad4f8f1d171,C02422,TàD,bus,perturbé,PERTURBATION,Ligne 1520 & TàD,2026-10-12 05:00,2026-12-19 23:00
+2026-11-13 04:40:01,955b8a07-5a25-4bfb-9b6a-fe7362713643,C00201,2119,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 2119, 2121 - Du 28 septembre 2026 au 27 février 2027",2026-09-26 06:00,2027-02-27 23:59
+2026-11-13 04:40:01,955b8a07-5a25-4bfb-9b6a-fe7362713643,C00202,2121,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 2119, 2121 - Du 28 septembre 2026 au 27 février 2027",2026-09-26 06:00,2027-02-27 23:59
+2026-11-13 04:40:01,a36e5e76-62e4-46d2-b10d-87ec826ecef5,C00003,Licorne,bus,perturbé,PERTURBATION,⚠🚍 Ligne Licorne - Travaux - du lundi 22 juin 2026 au lundi 15 mars 2027,2026-06-22 04:00,2027-03-15 23:59
+2026-11-13 04:40:01,8935ca16-39f8-4ac3-b05e-bb6558c3728a,C02703,2162,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 2162 - Du 1er septembre 2026 jusqu’à la fin des travaux,2026-09-02 10:56,2026-12-31 20:00
+2026-11-13 04:40:01,c078e0bd-ba36-4ca5-bdc4-17ad7c1252d1,C01422,N153,bus,perturbé,PERTURBATION,Travaux - ligne N153 - à partir du 13/07/2026,2026-11-02 10:00,2026-11-16 23:00
+2026-11-13 04:40:01,c8bd356b-5ad7-4323-9f9a-88f530f289bf,C00191,1611,bus,perturbé,TRAVAUX,⚠️🚍 #InfoTrafic - Ligne 11 - À partir du lundi 21 septembre 2026,2026-09-23 19:49,2027-01-29 23:59
+2026-11-13 04:40:01,baa812f8-2789-4230-ac19-6eff9da44641,C00149,6304,bus,perturbé,PERTURBATION,Du changement sur la ligne 6304-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,c253ca1f-1251-40e7-a8be-0bf99366e236,C00144,6308,bus,perturbé,PERTURBATION,Du changement sur la ligne 6308-Dès le 02/11/2026,2026-10-26 11:00,2026-11-22 00:00
+2026-11-13 04:40:01,5fc70b5e-f077-4d5e-bea7-b1fce1978957,C02702,2161,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 2161 - Du 1er septembre 2026 jusqu’à la fin des travaux,2026-09-02 11:29,2026-12-31 23:59
+2026-11-13 04:40:01,fae441f6-88a9-11f0-afea-0a58a9feac02,C00502,5359,bus,perturbé,PERTURBATION,Erratum ligne 5359,2025-09-03 06:00,2028-12-31 23:00
+2026-11-13 04:40:01,60881944-1ea8-494b-b0e1-f1db013a3dee,C01476,6428,bus,perturbé,PERTURBATION,⚠🚍#InfoTrafic - Ligne 6428 - À partir du 28 septembre 2026 jusqu’à fin des travaux,2026-09-26 09:00,2026-12-31 23:59
+2026-11-13 04:40:01,c28f4d66-b598-11f0-8053-0a58a9feac02,C00178,5225,bus,perturbé,PERTURBATION,Modification ligne 5225,2025-11-03 06:00,2028-12-31 23:00
+2026-11-13 04:40:01,d93b436e-6196-429c-96df-d7fbec4f78de,C00875,3604,bus,perturbé,PERTURBATION,Melun- travaux rue du Général de Gaulle,2026-10-19 08:00,2026-11-21 23:00
+2026-11-13 04:40:01,d93b436e-6196-429c-96df-d7fbec4f78de,C00891,3611,bus,perturbé,PERTURBATION,Melun- travaux rue du Général de Gaulle,2026-10-19 08:00,2026-11-21 23:00
+2026-11-13 04:40:01,9c730080-fc3a-11f0-bc3b-0a58a9feac02,C00425,6241,bus,perturbé,PERTURBATION,Bus 6241_du 2 fev au 27 nov 2026,2026-02-02 05:00,2026-11-27 23:59
+2026-11-13 04:40:01,07b91fb0-30c8-49c2-a68c-38e300a311a6,C01571,5154,bus,perturbé,TRAVAUX,Travaux : L'arrêt Rond-point Châteaufort est déplacé temporairement à l'arrêt La perruche uniquement en direction de la gare de Saint-Quentin-en-Yvelines.,2026-10-19 05:00,2027-07-31 23:59
+2026-11-13 04:40:01,07b91fb0-30c8-49c2-a68c-38e300a311a6,C02201,9111,bus,perturbé,TRAVAUX,Travaux : L'arrêt Rond-point Châteaufort est déplacé temporairement à l'arrêt La perruche uniquement en direction de la gare de Saint-Quentin-en-Yvelines.,2026-10-19 05:00,2027-07-31 23:59
+2026-11-13 04:40:01,668df462-18ee-4f51-9adc-972c94626169,C00669,4280,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4280 - A partir du mercredi 1er juillet 2026.  Jusqu’à la fin des travaux (trajet S55),2026-07-01 13:23,2026-12-31 20:00
+2026-11-13 04:40:01,775dacfb-f67e-413a-932b-e9bb83f080cb,C00793,3401,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 10:00
+2026-11-13 04:40:01,b65ac0f6-8584-4db2-a443-a1cdffc7c046,C01063,7717,bus,perturbé,PERTURBATION,RD1004 Travaux en route barrée,2026-09-24 15:00,2026-11-13 23:00
+2026-11-13 04:40:01,72e5d24c-0d88-11f1-b327-0a58a9feac02,C02641,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-03-03 06:00,2028-12-31 23:00
+2026-11-13 04:40:01,5f494889-8113-426b-a997-72d755c84861,C01957,5216,bus,perturbé,PERTURBATION,Ligne 5216 - Nouveaux Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,0a7ada96-2921-4785-a5f6-d2cdb0d32d67,C01491,6451,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6451 - du jeudi 5 novembre au lundi 30 août 2027,2026-11-05 12:32,2027-08-31 02:00
+2026-11-13 04:40:01,bb5c594e-aab4-4151-b73c-96da101ca958,C00311,6466,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6466 - Du 28 Septembre au 06 Décembre 2026,2026-09-26 09:00,2026-12-06 23:59
+2026-11-13 04:40:01,e8b841b1-660c-42aa-bb0c-3b4c1661f669,C01721,5307,bus,perturbé,PERTURBATION,TRAVAUX LIMOURS -5307,2026-09-15 03:00,2026-12-18 22:00
+2026-11-13 04:40:01,8e73732e-1d77-4981-a7ad-2e52dd1f9a28,C00436,1353,bus,perturbé,INFORMATION,"⚠️🚍 Lignes 1302, 1304 et 1353 - Modification des horaires",2026-10-31 12:20,2026-11-30 23:59
+2026-11-13 04:40:01,8e73732e-1d77-4981-a7ad-2e52dd1f9a28,C00603,1304,bus,perturbé,INFORMATION,"⚠️🚍 Lignes 1302, 1304 et 1353 - Modification des horaires",2026-10-31 12:20,2026-11-30 23:59
+2026-11-13 04:40:01,8e73732e-1d77-4981-a7ad-2e52dd1f9a28,C01660,1302,bus,perturbé,INFORMATION,"⚠️🚍 Lignes 1302, 1304 et 1353 - Modification des horaires",2026-10-31 12:20,2026-11-30 23:59
+2026-11-13 04:40:01,24bd2fa0-62f4-11f0-a39e-0a58a9feac02,C02239,6246,bus,perturbé,PERTURBATION,Bus 6246 et 6287_du 28-7/2025  au 30/6/2027,2025-07-28 05:00,2027-06-30 23:59
+2026-11-13 04:40:01,b88fef5a-8853-420d-9896-7dae4443c9f9,C01630,4219,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4219 - Du lundi 26 octobre 2026 au samedi 27 février 2027,2026-10-24 09:00,2027-02-27 23:59
+2026-11-13 04:40:01,c968577f-4ed0-4cda-b6c7-45c303a66402,C00882,3605,bus,perturbé,PERTURBATION,Mise en service de l'arrêt Place de l'Ermitage,2026-08-04 04:00,2027-07-31 23:00
+2026-11-13 04:40:01,ded11f85-2925-49d0-bc1b-a8207f6ae8e6,C00691,4503,bus,perturbé,PERTURBATION,Travaux Ballainvilliers,2026-10-19 09:00,2026-11-20 16:00
+2026-11-13 04:40:01,6d73d3a8-37ab-4efb-b684-67436ee7e4c6,C00799,3439,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 21:00
+2026-11-13 04:40:01,014ab9a0-8961-11f0-bc5d-0a58a9feac02,C00489,5313,bus,perturbé,PERTURBATION,Modification ligne 5313,2025-09-04 12:00,2028-12-31 23:00
+2026-11-13 04:40:01,b3d59d62-fbd4-46f9-a9e8-e785956c63ef,C01645,N139,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes N139, 9112 - Du lundi 17 août jusqu'à la fin des travaux",2026-08-15 09:00,2026-11-30 23:59
+2026-11-13 04:40:01,b3d59d62-fbd4-46f9-a9e8-e785956c63ef,C02725,9112,bus,perturbé,TRAVAUX,"⚠️🚍#Infotrafic - Lignes N139, 9112 - Du lundi 17 août jusqu'à la fin des travaux",2026-08-15 09:00,2026-11-30 23:59
+2026-11-13 04:40:01,ea99d612-0612-4f08-a0e4-482838639a68,C00181,5230,bus,perturbé,PERTURBATION,INFORMATION VOYAGEURS LIGNE 5230,2026-10-12 08:30,2026-12-31 16:30
+2026-11-13 04:40:01,37927b91-a35c-43d0-9c3e-560dfa765132,C00799,3439,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 09:00
+2026-11-13 04:40:01,e984b45c-8c21-417a-96fe-6630970a1eae,C01616,4201,bus,perturbé,TRAVAUX,"⚠️🚍 #InfoTrafic - Lignes 4201, 4242 – A partir du 25 septembre 2026, jusqu’à la fin des travaux",2026-10-15 17:11,2026-12-31 23:59
+2026-11-13 04:40:01,e984b45c-8c21-417a-96fe-6630970a1eae,C02724,4242,bus,perturbé,TRAVAUX,"⚠️🚍 #InfoTrafic - Lignes 4201, 4242 – A partir du 25 septembre 2026, jusqu’à la fin des travaux",2026-10-15 17:11,2026-12-31 23:59
+2026-11-13 04:40:01,16d1ad18-4f6b-4cab-af6d-c6f8f2d4215d,C00137,5211,bus,perturbé,PERTURBATION,travaux Saint-Germain en laye - 5211,2026-11-03 05:00,2026-11-27 22:00
+2026-11-13 04:40:01,fd06cfc4-f86e-4437-abb1-2a2936a7d013,C00875,3604,bus,perturbé,PERTURBATION,Ligne 3604 et 3601 : changement d'horaires,2026-10-26 04:00,2026-12-31 23:55
+2026-11-13 04:40:01,fd06cfc4-f86e-4437-abb1-2a2936a7d013,C00881,3601,bus,perturbé,PERTURBATION,Ligne 3604 et 3601 : changement d'horaires,2026-10-26 04:00,2026-12-31 23:55
+2026-11-13 04:40:01,eb57258e-b970-451c-bb01-c59486c60ff3,C00408,6211,bus,perturbé,PERTURBATION,Bus 6211_Modification au 2/11/2026,2026-10-27 06:00,2026-11-30 13:00
+2026-11-13 04:40:01,e9127461-3f0e-48bf-80b5-f57bac3372d4,C01629,4218,bus,perturbé,TRAVAUX,"⚠️🚍 #InfoTrafic - Lignes 4218, 4219 – Du lundi 7 septembre au lundi 7 décembre 2026",2026-09-05 09:00,2026-12-08 23:59
+2026-11-13 04:40:01,e9127461-3f0e-48bf-80b5-f57bac3372d4,C01630,4219,bus,perturbé,TRAVAUX,"⚠️🚍 #InfoTrafic - Lignes 4218, 4219 – Du lundi 7 septembre au lundi 7 décembre 2026",2026-09-05 09:00,2026-12-08 23:59
+2026-11-13 04:40:01,31c1743c-ca8b-494a-9837-78279f04ce07,C00891,3611,bus,perturbé,PERTURBATION,Melun - Travaux route de voisenon sens unique,2026-11-02 04:00,2026-12-11 17:00
+2026-11-13 04:40:01,bdf98544-59ce-40fc-b193-636bae1347b6,C01956,4220,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4220 - A partir du mardi 1er septembre 2026 Jusqu’à la fin des travaux,2026-08-30 09:00,2026-12-31 23:59
+2026-11-13 04:40:01,fa76d06b-12ef-4bbd-a35c-281ffcfea4e9,C00126,5299,bus,perturbé,PERTURBATION,Ligne 5299 - Nouveaux Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,9659361c-ab6f-45a8-8a24-97fac24acca8,C01250,6419,bus,perturbé,TRAVAUX,"⚠🚍Lignes 6412, 6419, 6428, 6432 - Du 8 juillet 2026 jusqu'à la fin des travaux",2026-07-06 06:00,2027-12-31 23:59
+2026-11-13 04:40:01,9659361c-ab6f-45a8-8a24-97fac24acca8,C01473,6412,bus,perturbé,TRAVAUX,"⚠🚍Lignes 6412, 6419, 6428, 6432 - Du 8 juillet 2026 jusqu'à la fin des travaux",2026-07-06 06:00,2027-12-31 23:59
+2026-11-13 04:40:01,9659361c-ab6f-45a8-8a24-97fac24acca8,C01476,6428,bus,perturbé,TRAVAUX,"⚠🚍Lignes 6412, 6419, 6428, 6432 - Du 8 juillet 2026 jusqu'à la fin des travaux",2026-07-06 06:00,2027-12-31 23:59
+2026-11-13 04:40:01,9659361c-ab6f-45a8-8a24-97fac24acca8,C01478,6432,bus,perturbé,TRAVAUX,"⚠🚍Lignes 6412, 6419, 6428, 6432 - Du 8 juillet 2026 jusqu'à la fin des travaux",2026-07-06 06:00,2027-12-31 23:59
+2026-11-13 04:40:01,617c286a-e402-42e7-b430-e2512bafeef6,C00969,4438,bus,perturbé,PERTURBATION,Ligne 4438 - Torfou,2026-11-04 14:30,2026-11-15 23:59
+2026-11-13 04:40:01,535e7643-1db7-466a-82ad-f3b70da3b924,C00876,3609,bus,perturbé,PERTURBATION,Melun - Travaux route de voisenon sens unique,2026-11-02 04:00,2026-12-11 17:00
+2026-11-13 04:40:01,ae497765-a938-4644-a1b2-4ada76c0e477,C00171,7811,bus,perturbé,PERTURBATION,Nouvel arrêt : 7811,2026-11-02 03:00,2028-03-31 22:00
+2026-11-13 04:40:01,258ed543-1fae-4af9-9d95-c734f119045b,C00181,5230,bus,perturbé,PERTURBATION,Travaux Emancé 5230 changement de tracé,2026-11-02 03:00,2027-12-31 22:00
+2026-11-13 04:40:01,8cdc2f44-7de7-49fb-a9fe-43092d32c5c7,C01214,194,bus,perturbé,PERTURBATION,Bus 194 - travaux sur la chaussée : service perturbé du 27/10 au 01/01,2026-10-27 04:00,2027-01-01 02:00
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00292,6411,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00295,6414,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00297,6403,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00298,6401,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00306,6424,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00308,6416,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00312,6402,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00317,6423,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C00337,6429,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,9c4b79b6-6412-432d-80b8-69e0b7676c0e,C01681,6413,bus,perturbé,PERTURBATION,⚠️🚍Argenteuil Boucles de Seine - À partir du 1er septembre 2026,2026-09-01 07:42,2027-07-31 23:59
+2026-11-13 04:40:01,75f205c8-b3ae-43c4-9c2d-84849385b88d,C02360,6456,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 6456 - À partir du lundi 2 novembre 2026,2026-10-31 09:00,2027-01-31 23:59
+2026-11-13 04:40:01,d60ac248-11b8-4744-91fa-6e78996fa5a4,C00781,1226,bus,perturbé,PERTURBATION,"Réseau Cergy Pontoise Confluence : A compter du lundi 19 octobre 2026 - Report arrêt ""La Chapelle"" ligne 1226 vers Cergy préfecture et jusqu'à nouvel ordre en raison des travaux en cours",2026-10-19 15:45,2026-12-31 23:59
+2026-11-13 04:40:01,84a0058d-d154-4f89-8096-22470965f062,C01482,6227,bus,perturbé,PERTURBATION,Bus 6227_Tx Rueil_du 13 oct au 18 déc 2026,2026-10-13 05:30,2026-12-18 23:00
+2026-11-13 04:40:01,4435b5b2-de67-4ecb-9e7d-d06bbde5e1de,C00818,3431,bus,perturbé,PERTURBATION,Travaux sur votre ligne,2026-11-11 07:00,2026-12-19 23:00
+2026-11-13 04:40:01,f3cc5578-daa8-47b3-acd8-c4a976417d53,C00181,5230,bus,perturbé,PERTURBATION,5230 - Nouveau Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,02ba49f5-e07c-404d-803d-befa19f31220,C00456,1351,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 1351 - Du 14 septembre 2026 jusqu’à la fin du tournage,2026-09-15 13:20,2026-12-31 23:59
+2026-11-13 04:40:01,3113c729-bf7b-49ef-bdbc-253f274fb265,C00298,6401,bus,perturbé,PERTURBATION,"⚠🚍 Lignes 6401, 6413 - Du lundi 19 octobre au dimanche 22 novembre 2026",2026-10-19 03:00,2026-11-23 02:00
+2026-11-13 04:40:01,3113c729-bf7b-49ef-bdbc-253f274fb265,C01681,6413,bus,perturbé,PERTURBATION,"⚠🚍 Lignes 6401, 6413 - Du lundi 19 octobre au dimanche 22 novembre 2026",2026-10-19 03:00,2026-11-23 02:00
+2026-11-13 04:40:01,a0b9a1a2-0425-11f0-9201-0a58a9feac02,C02595,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-03-18 19:20,2032-07-31 23:00
+2026-11-13 04:40:01,a0b9a1a2-0425-11f0-9201-0a58a9feac02,C02596,Soir,bus,perturbé,PERTURBATION,Fonctionnement du bus de soirée,2025-03-18 19:20,2032-07-31 23:00
+2026-11-13 04:40:01,7db4f5a7-0b38-4ee7-b501-4da84faa2073,C01660,1302,bus,perturbé,PERTURBATION,⚠🚍 Ligne 1302 - du jeudi 10 septembre au jeudi 10 décembre 2026,2026-09-10 03:00,2026-12-11 02:00
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00113,6217,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00122,6283,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00327,6281,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00328,6282,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00408,6211,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00420,6287,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00425,6241,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00692,6201,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00693,6202,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00694,6203,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00695,6204,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00696,6205,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00697,6206,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00698,6207,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00699,6208,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00700,6209,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00701,6210,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00704,6213,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00709,6285,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C00710,6286,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01482,6227,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01484,6231,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01489,6216,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01493,6280,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01772,6230,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01868,6240,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01872,6243,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01873,6251,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C01934,6284,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02076,6276,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02183,6253,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02184,6254,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02219,6252,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02239,6246,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02286,6214,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,7ccbd541-57ba-4144-aece-3dbab6ba53e8,C02482,6288,bus,perturbé,PERTURBATION,Fermeture Tunnel St-Cloud du 16/11/26 au 31/8/27,2026-11-06 06:00,2027-08-31 23:59
+2026-11-13 04:40:01,022ed871-ad40-4fb0-8ec3-9ed7f9fe3123,C02073,2461,bus,perturbé,PERTURBATION,MOUROUX Arrêt Villeperdue déplacé,2026-11-09 04:00,2026-11-30 22:00
+2026-11-13 04:40:01,022ed871-ad40-4fb0-8ec3-9ed7f9fe3123,C02074,2462,bus,perturbé,PERTURBATION,MOUROUX Arrêt Villeperdue déplacé,2026-11-09 04:00,2026-11-30 22:00
+2026-11-13 04:40:01,77589433-76a3-42e8-a409-15b4931c8412,C01765,4322,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4322 - Du lundi 12 octobre au vendredi 27 novembre 2026,2026-10-12 00:00,2026-11-27 23:59
+2026-11-13 04:40:01,d3998807-3cf0-4336-a4e7-c02025aa1a75,C00731,5409,bus,perturbé,TRAVAUX,"Mantois : BUS 5402, 5409, 5414 et 5458 - Arrêt Edouard Vaillant non desservi",2026-04-13 04:00,2026-12-31 22:02
+2026-11-13 04:40:01,d3998807-3cf0-4336-a4e7-c02025aa1a75,C00761,5458,bus,perturbé,TRAVAUX,"Mantois : BUS 5402, 5409, 5414 et 5458 - Arrêt Edouard Vaillant non desservi",2026-04-13 04:00,2026-12-31 22:02
+2026-11-13 04:40:01,d3998807-3cf0-4336-a4e7-c02025aa1a75,C01600,5402,bus,perturbé,TRAVAUX,"Mantois : BUS 5402, 5409, 5414 et 5458 - Arrêt Edouard Vaillant non desservi",2026-04-13 04:00,2026-12-31 22:02
+2026-11-13 04:40:01,d3998807-3cf0-4336-a4e7-c02025aa1a75,C01604,5414,bus,perturbé,TRAVAUX,"Mantois : BUS 5402, 5409, 5414 et 5458 - Arrêt Edouard Vaillant non desservi",2026-04-13 04:00,2026-12-31 22:02
+2026-11-13 04:40:01,288c1845-0b9b-418e-b43d-003030d1f67d,C01984,5338,bus,perturbé,PERTURBATION,Ligne 5338 - Nouveaux Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,6517e43c-ea11-4e5c-abe9-c473a5d6e1b2,C01659,1301,bus,perturbé,PERTURBATION,"⚠️🚍 Lignes 1301, 1302 - Modification des horaires",2026-10-01 19:25,2027-01-03 23:59
+2026-11-13 04:40:01,6517e43c-ea11-4e5c-abe9-c473a5d6e1b2,C01660,1302,bus,perturbé,PERTURBATION,"⚠️🚍 Lignes 1301, 1302 - Modification des horaires",2026-10-01 19:25,2027-01-03 23:59
+2026-11-13 04:40:01,5844e62a-0aea-4190-bf5f-31474d2ae70d,C00669,4280,bus,perturbé,TRAVAUX,⚠️🚍#InfoTrafic - Ligne 4280 - A partir du mercredi 1er juillet 2026.  Jusqu’à la fin des travaux (trajet S6 du matin et de l’après-midi),2026-07-01 13:15,2026-12-31 20:00
+2026-11-13 04:40:01,43f4646b-5f7f-452b-8628-6444dda588ca,C01983,5235,bus,perturbé,PERTURBATION,ligne 5235/5240 et TàD Travaux,2026-07-20 01:00,2027-01-29 23:00
+2026-11-13 04:40:01,43f4646b-5f7f-452b-8628-6444dda588ca,C01985,5240,bus,perturbé,PERTURBATION,ligne 5235/5240 et TàD Travaux,2026-07-20 01:00,2027-01-29 23:00
+2026-11-13 04:40:01,9da13989-effa-4993-b3cf-9a44bf1ee1d8,C00498,5363,bus,perturbé,PERTURBATION,Ligne 5363 Nouveaux horaires,2026-10-13 18:00,2026-11-13 22:00
+2026-11-13 04:40:01,dcf90628-7ea7-4569-808d-b52e4cd7516f,C00787,3405,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 09:00
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00113,6217,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00122,6283,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00327,6281,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00328,6282,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00408,6211,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00420,6287,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00425,6241,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00692,6201,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00693,6202,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00694,6203,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00695,6204,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00696,6205,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00697,6206,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00698,6207,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00699,6208,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00700,6209,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00701,6210,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00704,6213,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00709,6285,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C00710,6286,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01482,6227,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01484,6231,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01489,6216,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01493,6280,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01772,6230,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01868,6240,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01872,6243,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01873,6251,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C01934,6284,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02076,6276,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02183,6253,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02184,6254,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02219,6252,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02239,6246,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02286,6214,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,a2781fd5-d537-4eba-b3db-b922478ee218,C02482,6288,bus,perturbé,PERTURBATION,Mouvement social à partir du mardi 10/11/2026,2026-11-06 06:00,2027-08-11 23:59
+2026-11-13 04:40:01,8971c810-96c3-4a58-acfb-b09b07e69e43,C00787,3405,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 21:00
+2026-11-13 04:40:01,6e64ed72-bef1-4963-ae94-74b977b4df7a,C02467,TàD 4592,bus,perturbé,PERTURBATION,Travaux - TAD4592,2026-10-12 08:00,2026-12-31 18:00
+2026-11-13 04:40:01,02b1de26-d7af-11f0-b89c-0a58a9feac02,C02730,6426,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6426 - Du lundi 15 décembre 2025 au vendredi 31 décembre 2027,2025-12-15 00:00,2027-12-31 23:59
+2026-11-13 04:40:01,7af9039b-8623-45b8-b30f-849872fe18ff,C00061,5116,bus,perturbé,TRAVAUX,Travaux : L'arrêt Calmette est reporté à l'arrêt Mantes Station dans les deux directions jusqu'à la fin des travaux.,2026-08-05 05:05,2026-11-15 23:59
+2026-11-13 04:40:01,7af9039b-8623-45b8-b30f-849872fe18ff,C00652,7808,bus,perturbé,TRAVAUX,Travaux : L'arrêt Calmette est reporté à l'arrêt Mantes Station dans les deux directions jusqu'à la fin des travaux.,2026-08-05 05:05,2026-11-15 23:59
+2026-11-13 04:40:01,25d0464c-fee2-4801-911d-88dd8989b2dc,C00923,2421,bus,perturbé,PERTURBATION,BUSSIERES Rue de la Mairie fermée à la circulation,2025-09-15 13:00,2026-11-30 23:00
+2026-11-13 04:40:01,25d0464c-fee2-4801-911d-88dd8989b2dc,C02160,2482,bus,perturbé,PERTURBATION,BUSSIERES Rue de la Mairie fermée à la circulation,2025-09-15 13:00,2026-11-30 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C00187,5333,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C00498,5363,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C00516,5242,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C01719,5267,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C01720,5277,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,7d5f38f0-ca00-48ac-8dc8-d273c750f7af,C01721,5307,bus,perturbé,PERTURBATION,Nouveaux horaires à partir du 1er septembre 2026,2026-06-26 12:00,2026-12-31 23:00
+2026-11-13 04:40:01,dbf175ce-5ecb-401c-91b1-43968e6b3cba,C00413,5117,bus,perturbé,TRAVAUX,"5117 : Arrêt Métro Pont de Sèvres est temporairement déplacé de 25 mètres, en face du parking à vélos.",2026-10-08 11:05,2027-05-31 23:59
+2026-11-13 04:40:01,5414d540-6a8d-4a2a-8576-a8e6149c012b,C00886,3656,bus,perturbé,PERTURBATION,Melun - Travaux route de voisenon sens unique,2026-11-02 04:00,2026-12-11 17:00
+2026-11-13 04:40:01,5414d540-6a8d-4a2a-8576-a8e6149c012b,C00890,3654,bus,perturbé,PERTURBATION,Melun - Travaux route de voisenon sens unique,2026-11-02 04:00,2026-12-11 17:00
+2026-11-13 04:40:01,5414d540-6a8d-4a2a-8576-a8e6149c012b,C02273,3662,bus,perturbé,PERTURBATION,Melun - Travaux route de voisenon sens unique,2026-11-02 04:00,2026-12-11 17:00
+2026-11-13 04:40:01,877c4b90-7a65-4549-9c04-b356b98cc630,C01214,194,bus,perturbé,PERTURBATION,Ligne 194 : information en temps réel indisponible à certains arrêts,2026-10-26 04:00,2027-01-01 02:00
+2026-11-13 04:40:01,b690145d-2e84-451a-a980-a0e6f02a4423,C01482,6227,bus,perturbé,PERTURBATION,Bus 6227_Tx Casanova R.Malmaison_21 oct_18 dec 26,2026-10-21 05:00,2026-12-18 23:59
+2026-11-13 04:40:01,0ef681b8-6f4b-47b5-a5fe-221350a5c8a9,C00669,4280,bus,perturbé,TRAVAUX,"⚠️🚍 #InfoTrafic - Ligne 4280 – Du mardi 22 septembre 2026, jusqu’à la fin des travaux",2026-09-22 15:22,2026-12-31 23:59
+2026-11-13 04:40:01,102a497f-b0da-4d77-ba38-900f708553a1,C02725,9112,bus,perturbé,PERTURBATION,⚠️🚍#InfoTrafic - Ligne 9112 - Du 24 avril 2026 jusqu’à la fin des travaux,2026-04-24 16:48,2027-01-01 20:00
+2026-11-13 04:40:01,7430371a-c3b7-4e56-bb9b-bcea1897f3cc,C00989,4275,bus,perturbé,TRAVAUX,⚠️🚍#Infotrafic- Ligne 4275 - A partir du 1er septembre 2026,2026-08-30 00:00,2026-12-31 23:59
+2026-11-13 04:40:01,c39db90a-87df-11ef-8d26-0a58a9feac02,C02239,6246,bus,perturbé,PERTURBATION,Bus 6246_4 mars 2024 au 31 mars 2027_Tx St Cloud,2024-03-04 05:00,2027-03-31 23:59
+2026-11-13 04:40:01,3d5713d8-aa72-4a8f-9d10-5fecb7ac4445,C00426,7818,bus,perturbé,TRAVAUX,Travaux :L'arrêt Lavoir est déplacé 100mètres vers Allée du Château et l'arrêt Haut Village est reporté vers la Route de Marcq jusqu'au 30 novembre 2026.,2026-08-05 16:24,2026-11-30 23:59
+2026-11-13 04:40:01,3d5713d8-aa72-4a8f-9d10-5fecb7ac4445,C02637,5234,bus,perturbé,TRAVAUX,Travaux :L'arrêt Lavoir est déplacé 100mètres vers Allée du Château et l'arrêt Haut Village est reporté vers la Route de Marcq jusqu'au 30 novembre 2026.,2026-08-05 16:24,2026-11-30 23:59
+2026-11-13 04:40:01,88ed0f9d-3c90-4d25-b5b5-839f6682383c,C00062,7806,bus,perturbé,PERTURBATION,Travaux à Boissière  école Ligne 7806,2026-10-05 03:00,2026-12-18 23:00
+2026-11-13 04:40:01,a5f5523a-4b40-421d-9f66-003fbe43e9e7,C02730,6426,bus,perturbé,TRAVAUX,"⚠🚍#InfoTrafic - Lignes 25, 26 - Du 08 Juin au 18 Décembre 2026",2026-06-06 09:00,2026-12-19 20:00
+2026-11-13 04:40:01,a5f5523a-4b40-421d-9f66-003fbe43e9e7,C02731,6425,bus,perturbé,TRAVAUX,"⚠🚍#InfoTrafic - Lignes 25, 26 - Du 08 Juin au 18 Décembre 2026",2026-06-06 09:00,2026-12-19 20:00
+2026-11-13 04:40:01,5cfa6fca-1803-43ac-8d26-f662eaa8d4f7,C01482,6227,bus,perturbé,PERTURBATION,Bus 6227_Tx Aménagement T1_27 oct au 18 déc 2026,2026-10-27 05:00,2026-12-18 23:59
+2026-11-13 04:40:01,0d129169-5e72-4b45-870c-a836ba5c91fa,C00875,3604,bus,perturbé,PERTURBATION,Melun_arrêt Thiers Pouillot Supprimé,2026-09-22 04:00,2026-12-31 23:00
+2026-11-13 04:40:01,0d129169-5e72-4b45-870c-a836ba5c91fa,C00881,3601,bus,perturbé,PERTURBATION,Melun_arrêt Thiers Pouillot Supprimé,2026-09-22 04:00,2026-12-31 23:00
+2026-11-13 04:40:01,24f4053a-64c0-4f6a-90f9-8877f5cb910b,C01952,5349,bus,perturbé,PERTURBATION,Ligne 5349 - Nouveaux Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,8533946a-4846-4c7c-8493-9fadaf04a124,C00217,1346,bus,perturbé,PERTURBATION,⚠️🚍 Ligne 1346 - Modification des horaires,2026-10-05 06:09,2027-01-31 23:59
+2026-11-13 04:40:01,8a131a1b-43d0-41f9-9cec-3c587ee81d98,C01210,189,bus,perturbé,PERTURBATION,"Bus N62, 189, 394 - travaux aux abords des points d'arrêts : arrêt reporté du 26/08 au 01/12",2026-08-26 04:00,2026-12-01 02:00
+2026-11-13 04:40:01,8a131a1b-43d0-41f9-9cec-3c587ee81d98,C01319,394,bus,perturbé,PERTURBATION,"Bus N62, 189, 394 - travaux aux abords des points d'arrêts : arrêt reporté du 26/08 au 01/12",2026-08-26 04:00,2026-12-01 02:00
+2026-11-13 04:40:01,8a131a1b-43d0-41f9-9cec-3c587ee81d98,C01403,N62,bus,perturbé,PERTURBATION,"Bus N62, 189, 394 - travaux aux abords des points d'arrêts : arrêt reporté du 26/08 au 01/12",2026-08-26 04:00,2026-12-01 02:00
+2026-11-13 04:40:01,c001d2da-2e04-46b9-9285-06f3c0d18c84,C00982,4403,bus,perturbé,PERTURBATION,Travaux Rue Reverseleux à Etampes,2026-08-01 04:00,2027-01-19 23:00
+2026-11-13 04:40:01,c001d2da-2e04-46b9-9285-06f3c0d18c84,C00983,4405,bus,perturbé,PERTURBATION,Travaux Rue Reverseleux à Etampes,2026-08-01 04:00,2027-01-19 23:00
+2026-11-13 04:40:01,c001d2da-2e04-46b9-9285-06f3c0d18c84,C02057,4406,bus,perturbé,PERTURBATION,Travaux Rue Reverseleux à Etampes,2026-08-01 04:00,2027-01-19 23:00
+2026-11-13 04:40:01,3652a8c0-44d8-4335-b5b8-7e6940c51579,C02070,2411,bus,perturbé,PERTURBATION,BOULEURS-Travaux Pont RD33,2026-10-26 01:00,2026-12-18 23:00
+2026-11-13 04:40:01,4aff5211-ae0e-4ece-ace5-dab20214da4f,C00606,1303,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 1303 - Du lundi 14 septembre jusqu'à la fin des travaux,2026-09-14 06:00,2026-12-31 23:59
+2026-11-13 04:40:01,eeb8774c-685d-11f0-a869-0a58a9feac02,C00701,6210,bus,perturbé,PERTURBATION,Bus 6210 et 6284_du 28/7/2025  au 30/6/2027,2025-07-28 05:00,2027-06-30 23:59
+2026-11-13 04:40:01,e98db5fe-c3db-4462-8db6-b185dd836ffc,C00297,6403,bus,perturbé,PERTURBATION,⚠🚍 Ligne 6403 - du samedi 29 août au vendredi 18 décembre 2026,2026-08-29 06:00,2026-12-18 23:59
+2026-11-13 04:40:01,94bb8673-c06a-48dd-9541-fa79c271535f,C00875,3604,bus,perturbé,PERTURBATION,Accès PMR temporairement indisponible,2026-09-25 04:00,2026-12-31 23:00
+2026-11-13 04:40:01,94bb8673-c06a-48dd-9541-fa79c271535f,C00881,3601,bus,perturbé,PERTURBATION,Accès PMR temporairement indisponible,2026-09-25 04:00,2026-12-31 23:00
+2026-11-13 04:40:01,7c67f2cc-4426-41f0-a8cd-ac3d75c5eba4,C01490,7803,bus,perturbé,TRAVAUX,Travaux : l’arrêt Rueil-Ville en direction de Nanterre Préfecture est temporairement déplacé à l’arrêt Danielle Casanova.,2026-10-22 04:40,2026-12-06 23:59
+2026-11-13 04:40:01,3697a65c-d286-4509-92b1-da3a8b25b0f2,C00789,3441,bus,perturbé,PERTURBATION,Perturbations sur votre ligne,2026-11-02 17:00,2026-12-31 23:00
+2026-11-13 04:40:01,e79f7fff-2c35-4afa-82a8-fdc03b6e85c4,,,,perturbé,PERTURBATION,Travaux,2026-06-29 16:16,2028-12-31 20:00
+2026-11-13 04:40:01,c49d4325-764d-489f-bb04-ae62f8ffb4bf,C00175,5320,bus,perturbé,PERTURBATION,Travaux à Nogent-le-Roi - Ligne 5320,2026-08-20 12:00,2027-09-06 23:00
+2026-11-13 04:40:01,db0638c3-628b-435b-928d-115eac89801c,C01721,5307,bus,perturbé,PERTURBATION,ERRATUM - 5307,2026-11-12 13:00,2027-01-04 07:00
+2026-11-13 04:40:01,4423a734-ac6c-4cc9-bd83-c4f158912e4e,C00682,4550,bus,perturbé,PERTURBATION,Fermeture passage à niveau Gare d'Egly,2026-11-09 05:00,2026-11-13 18:00
+2026-11-13 04:40:01,4423a734-ac6c-4cc9-bd83-c4f158912e4e,C02039,4580,bus,perturbé,PERTURBATION,Fermeture passage à niveau Gare d'Egly,2026-11-09 05:00,2026-11-13 18:00
+2026-11-13 04:40:01,e9accee0-d90a-4475-b318-91bc1fbce13a,C01492,6452,bus,perturbé,TRAVAUX,🚍#InfoTrafic - Ligne 6452 - Du 07 septembre au 18 décembre 2026,2026-09-07 10:29,2026-12-18 23:59
+2026-11-13 04:40:01,52d34ee3-d717-4fff-8592-f504a1d9f48e,C01721,5307,bus,perturbé,PERTURBATION,Ligne 5307 - Nouveaux Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,be9f5c8c-27e8-4c66-953e-9452787cf894,C00172,5215,bus,perturbé,PERTURBATION,Travaux Grosrouvre RD 172 ligne 5215 et 5216,2026-11-09 06:00,2026-11-13 19:00
+2026-11-13 04:40:01,be9f5c8c-27e8-4c66-953e-9452787cf894,C01957,5216,bus,perturbé,PERTURBATION,Travaux Grosrouvre RD 172 ligne 5215 et 5216,2026-11-09 06:00,2026-11-13 19:00
+2026-11-13 04:40:01,63b83c84-a0d7-4e46-8f25-2567bf3b59a1,C00421,5201,bus,perturbé,PERTURBATION,5201 - Nouveau Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,4bb3d409-4221-4159-9bdd-873c1310e7c5,C00887,3612,bus,perturbé,PERTURBATION,Melun - Fermeture Eugène Gonon,2026-10-26 04:00,2027-03-31 23:55
+2026-11-13 04:40:01,18f13b9a-b3cf-4a76-8f0b-d82a4b376ff6,C01420,N12,bus,perturbé,PERTURBATION,Bus N12 - travaux sur la chaussée : service perturbé du 29/06 au 31/12,2026-06-29 04:00,2027-01-01 02:00
+2026-11-13 04:40:01,00984a7d-4949-4275-974e-70c1f034d03e,C00324,6431,bus,perturbé,PERTURBATION,"⚠🚍#InfoTrafic - Lignes 6412, 6431 -Du 04 au 20 novembre 2026",2026-11-03 07:58,2026-11-20 23:59
+2026-11-13 04:40:01,00984a7d-4949-4275-974e-70c1f034d03e,C01473,6412,bus,perturbé,PERTURBATION,"⚠🚍#InfoTrafic - Lignes 6412, 6431 -Du 04 au 20 novembre 2026",2026-11-03 07:58,2026-11-20 23:59
+2026-11-13 04:40:01,d6d803ed-dca6-48b5-a1a3-f880abdf77b8,C01708,4436,bus,perturbé,PERTURBATION,Travaux rue de la roche qui tourne à Lardy,2026-11-09 05:00,2026-12-06 20:00
+2026-11-13 04:40:01,d6d803ed-dca6-48b5-a1a3-f880abdf77b8,C01976,4431,bus,perturbé,PERTURBATION,Travaux rue de la roche qui tourne à Lardy,2026-11-09 05:00,2026-12-06 20:00
+2026-11-13 04:40:01,c16f3346-7f4d-44ae-bcbb-64b7424ef7a1,C02835,9517,bus,perturbé,PERTURBATION,Transdev Express Roissy Ligne 9517,2026-07-02 17:00,2026-12-31 23:00
+2026-11-13 04:40:01,12631641-3d34-40ee-aecb-84998aa6b0d2,C02884,3650,bus,perturbé,PERTURBATION,Arrêt Rue de l'Industrie déplacé,2026-10-02 16:00,2028-10-05 20:00
+2026-11-13 04:40:01,17279158-aaea-4366-b9d3-2979b279b52b,C00669,4280,bus,perturbé,TRAVAUX,⚠️🚍 #InfoTrafic - Ligne 4280 – A partir du mercredi 30 septembre 2026 jusqu’à la fin des travaux,2026-09-30 17:23,2026-12-31 23:59
+2026-11-13 04:40:01,6abf3fe8-9306-47da-aaaf-c20a0526862e,C00124,5270,bus,perturbé,PERTURBATION,5270-5271 - Nouveau Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,6abf3fe8-9306-47da-aaaf-c20a0526862e,C00125,5271,bus,perturbé,PERTURBATION,5270-5271 - Nouveau Horaires du 02/11,2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,e80e43b4-1c97-4948-9a80-3d054fcfd8f2,C00295,6414,bus,perturbé,TRAVAUX,⚠🚍#InfoTrafic - Ligne 6414 - Du jeudi 12 au vendredi 13 novembre 2026 de 09h00 à 16h00,2026-11-12 10:45,2026-11-13 23:59
+2026-11-13 04:40:01,1a085b39-b536-453a-a8c2-7cf2571fbc60,C01062,7701,bus,perturbé,PERTURBATION,MELUN Travaux Rue Saint Louis,2026-08-28 11:00,2026-11-30 23:00
+2026-11-13 04:40:01,ffbba46a-9db2-42d1-8d0e-69159eb001fe,C00960,7708,bus,perturbé,PERTURBATION,ROISSYPÔLE-7708,2026-11-09 01:00,2026-11-15 23:00
+2026-11-13 04:40:01,21b701e0-f665-4fdd-84da-29be4bdef786,C01450,3433,bus,perturbé,PERTURBATION,Perturbation de la ligne,2026-11-12 21:00,2026-11-13 09:00
+2026-11-13 04:40:01,0f766853-75df-4a1f-9314-3362ac4daad6,C00392,4233,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4204, 4233 - Du vendredi 30 octobre au mercredi 18 novembre 2026",2026-10-28 10:03,2026-11-18 23:59
+2026-11-13 04:40:01,0f766853-75df-4a1f-9314-3362ac4daad6,C01619,4204,bus,perturbé,TRAVAUX,"⚠️🚍#InfoTrafic - Lignes 4204, 4233 - Du vendredi 30 octobre au mercredi 18 novembre 2026",2026-10-28 10:03,2026-11-18 23:59
+2026-11-13 04:40:01,d42543b5-a6d0-43ee-bd4c-957d740eec91,C02636,Tzen4,bus,perturbé,PERTURBATION,⚠️🚍 Ligne TZEN 4,2026-10-26 06:48,2027-01-31 23:59
+2026-11-13 04:40:01,6275274d-6ba8-49f5-aab6-cc12a780abc7,C00182,5301,bus,perturbé,PERTURBATION,"5301,5302,5303 et 5304-Nouveaux Horaires du 02/11",2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,6275274d-6ba8-49f5-aab6-cc12a780abc7,C00183,5302,bus,perturbé,PERTURBATION,"5301,5302,5303 et 5304-Nouveaux Horaires du 02/11",2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,6275274d-6ba8-49f5-aab6-cc12a780abc7,C00184,5303,bus,perturbé,PERTURBATION,"5301,5302,5303 et 5304-Nouveaux Horaires du 02/11",2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,6275274d-6ba8-49f5-aab6-cc12a780abc7,C02638,5304,bus,perturbé,PERTURBATION,"5301,5302,5303 et 5304-Nouveaux Horaires du 02/11",2026-10-27 07:00,2026-12-01 07:00
+2026-11-13 04:40:01,4436f06a-7e96-11f0-8aee-0a58a9feac02,C00495,4611,bus,info,INFORMATION,9 (4609) S9 (4659) 11 (4611) 9106 (4606) - Travaux 'Plaine des Sports' non desservi (094),2025-08-21 15:49,2026-12-31 17:49
+2026-11-13 04:40:01,4436f06a-7e96-11f0-8aee-0a58a9feac02,C01561,4609,bus,info,INFORMATION,9 (4609) S9 (4659) 11 (4611) 9106 (4606) - Travaux 'Plaine des Sports' non desservi (094),2025-08-21 15:49,2026-12-31 17:49
+2026-11-13 04:40:01,4436f06a-7e96-11f0-8aee-0a58a9feac02,C01567,4606,bus,info,INFORMATION,9 (4609) S9 (4659) 11 (4611) 9106 (4606) - Travaux 'Plaine des Sports' non desservi (094),2025-08-21 15:49,2026-12-31 17:49
+2026-11-13 04:40:01,4436f06a-7e96-11f0-8aee-0a58a9feac02,C02224,4659,bus,info,INFORMATION,9 (4609) S9 (4659) 11 (4611) 9106 (4606) - Travaux 'Plaine des Sports' non desservi (094),2025-08-21 15:49,2026-12-31 17:49
+2026-11-13 04:40:01,9d9e1dbe-37a7-4c42-a278-2bdedfe34f27,C01226,212,bus,info,INFORMATION,⚠️🚍#Infotrafic Changement d'offre - Ligne 212 - A partir du lundi 13 juillet 2026,2026-07-13 09:07,2026-12-31 23:59
+2026-11-13 04:40:01,02bc0e78-cdc9-11ef-b1c7-0a58a9feac02,C02735,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-06 09:30,2031-12-18 23:59
+2026-11-13 04:40:01,ee05b48d-2c55-4ea8-b67e-17f75b131f73,C00011,3105,bus,info,INFORMATION,⚠️🚍#Infotrafic Changement d'offre - Ligne 3105 - A partir du 7 avril 2026,2026-03-27 10:12,2026-12-31 23:59
+2026-11-13 04:40:01,2d4fbd71-fba4-4fc6-868d-7fae787d79e3,C00490,4610,bus,info,INFORMATION,4610  - arrêt 'Le Thuit' sur RD938 à nouveau desservi (dès le 02/11/26),2026-10-02 15:46,2026-11-29 23:59
+2026-11-13 04:40:01,9ba67ae6-c4c5-11ee-aa36-0a58a9feac02,C02587,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-06 08:10,2031-12-19 23:59
+2026-11-13 04:40:01,9ba67ae6-c4c5-11ee-aa36-0a58a9feac02,C02588,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-06 08:10,2031-12-19 23:59
+2026-11-13 04:40:01,1d4cc819-3a25-40d2-a827-3c3e0af4fb03,C02811,4666,bus,info,INFORMATION,4666 - arrêt 'Fontaine de Jouvence' (dès le 02/11/26),2026-10-15 11:15,2027-01-03 23:59
+2026-11-13 04:40:01,eea4ce6e-c4ca-11ee-8d5c-0a58a9feac02,C02521,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-06 09:30,2031-12-18 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01043,3204,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01452,3240,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01453,3241,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01454,3243,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01455,3244,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01456,3201,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01457,3242,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01459,3256,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01461,3250,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01462,3257,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01463,3258,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01464,3202,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01467,3252,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01468,3253,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01469,3260,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01499,7704,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01500,7705,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01501,3251,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01502,3262,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01503,3215,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01504,3261,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01505,7707,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01506,3218,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01507,3211,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01508,3212,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01509,3213,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01510,3214,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01512,3249,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01513,3246,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01517,3208,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01518,3207,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01519,3209,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01520,TàD 3209,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01664,3203,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01724,3210,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01725,3217,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C01726,3259,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02056,3245,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02294,3216,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02295,TàD,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02366,3219,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02432,3254,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02433,3255,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02435,3247,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02436,3248,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02581,TàD,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02584,Soir,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,065ca5c7-153c-4de3-be85-34e1be72bfe5,C02585,Soir,bus,info,INFORMATION,Indisponibilité des prochains passages en temps réel,2026-10-09 08:17,2027-07-31 23:59
+2026-11-13 04:40:01,ead9d0e7-39f8-4901-bace-2578764d6506,C01513,3246,bus,info,INFORMATION,Arrêt RAMPILLON Grand Maître non desservi,2026-08-26 16:18,2027-06-30 23:59
+2026-11-13 04:40:01,ead9d0e7-39f8-4901-bace-2578764d6506,C02436,3248,bus,info,INFORMATION,Arrêt RAMPILLON Grand Maître non desservi,2026-08-26 16:18,2027-06-30 23:59
+2026-11-13 04:40:01,a04fbfb8-90d1-11ed-bcd6-0a58a9feac02,C02522,Soir,bus,info,INFORMATION,Bus de soirée,2023-01-10 11:20,2031-12-18 23:59
+2026-11-13 04:40:01,a04fbfb8-90d1-11ed-bcd6-0a58a9feac02,C02523,Soir,bus,info,INFORMATION,Bus de soirée,2023-01-10 11:20,2031-12-18 23:59
+2026-11-13 04:40:01,85d7f130-c5bb-11ee-81db-0a58a9feac02,C01520,TàD 3209,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-07 14:10,2031-12-31 16:10
+2026-11-13 04:40:01,85d7f130-c5bb-11ee-81db-0a58a9feac02,C02295,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-07 14:10,2031-12-31 16:10
+2026-11-13 04:40:01,85d7f130-c5bb-11ee-81db-0a58a9feac02,C02581,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-07 14:10,2031-12-31 16:10
+2026-11-13 04:40:01,bca4ff25-d5e2-4e93-aa95-66a2a55e7928,C00073,4608,bus,info,INFORMATION,4608 - arrêt 'Curie' supprimé (dès le 02/11/26),2026-10-22 17:25,2027-01-31 23:59
+2026-11-13 04:40:01,9b72bb16-c4c5-11ee-aa36-0a58a9feac02,C02589,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 08:10,2030-12-06 23:59
+2026-11-13 04:40:01,9b72bb16-c4c5-11ee-aa36-0a58a9feac02,C02626,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 08:10,2030-12-06 23:59
+2026-11-13 04:40:01,9b72bb16-c4c5-11ee-aa36-0a58a9feac02,C02627,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 08:10,2030-12-06 23:59
+2026-11-13 04:40:01,9b72bb16-c4c5-11ee-aa36-0a58a9feac02,C02628,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 08:10,2030-12-06 23:59
+2026-11-13 04:40:01,26853e9c-c9ba-11ee-9121-0a58a9feac02,C02580,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-12 16:10,2028-12-31 18:10
+2026-11-13 04:40:01,697a3a52-e0b4-45c6-b577-48049711ccc4,C00078,4616,bus,info,INFORMATION,Du nouveau sur votre ligne 4616 à compter du 2 novembre 2026,2026-10-30 16:42,2026-11-30 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00108,5444,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00109,5445,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00118,5484,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00120,5442,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00121,5443,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00288,5437,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00725,5421,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00727,5465,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00728,5424,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00730,5467,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00731,5409,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00733,5455,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00734,5476,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00735,5447,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00736,5478,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00737,5479,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00738,5480,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00740,5422,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00741,5486,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00744,5482,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00747,5457,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00748,5451,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00749,5452,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00751,5469,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00752,5470,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00755,5438,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00756,5490,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00757,5448,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00758,5489,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00760,5491,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C00761,5458,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01033,5435,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01034,5433,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01035,5474,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01036,5432,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01428,5410,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01600,5402,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01601,5403,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01602,5420,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01603,5405,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01604,5414,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01605,5406,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01606,5407,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01607,5425,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01612,5408,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01613,5427,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01635,N151,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01796,5413,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01797,5412,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01798,5462,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01949,5401,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C01979,5426,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02161,5431,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02162,5436,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02248,7823,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02249,7820,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02479,5441,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02480,5411,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02665,Soir,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02667,Soir,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02715,5477,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02716,7825,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02806,5404,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,3971ec6b-70d9-4a77-a91a-5a9aa95863ff,C02807,5463,bus,info,INFORMATION,Territoire Mantois - QR codes aux points d'arrêts,2026-11-06 13:58,2026-12-31 23:59
+2026-11-13 04:40:01,7dd0b3ec-c5ba-11ee-bd2f-0a58a9feac02,C02584,Soir,bus,info,INFORMATION,Fonctionnement du Bus de Soirée,2024-02-07 14:00,2031-12-31 16:00
+2026-11-13 04:40:01,7dd0b3ec-c5ba-11ee-bd2f-0a58a9feac02,C02585,Soir,bus,info,INFORMATION,Fonctionnement du Bus de Soirée,2024-02-07 14:00,2031-12-31 16:00
+2026-11-13 04:40:01,966e9a10-c4c8-11ee-967d-0a58a9feac02,C02476,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:10,2031-12-18 23:59
+2026-11-13 04:40:01,966e9a10-c4c8-11ee-967d-0a58a9feac02,C02591,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:10,2031-12-18 23:59
+2026-11-13 04:40:01,2dde753e-c4d6-11ee-bc69-0a58a9feac02,C02644,Soir,bus,info,INFORMATION,🚌🌙 Bus de soirée - Plaisir-Grignon,2024-02-06 10:50,2031-12-18 23:59
+2026-11-13 04:40:01,72cda9ca-8f8e-11ef-8d26-0a58a9feac02,C02422,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-10-21 11:23,2029-12-31 20:23
+2026-11-13 04:40:01,ffca112a-90ca-11ed-bcd6-0a58a9feac02,C02260,Soir,bus,info,INFORMATION,Bus de soirée,2023-01-10 10:30,2028-07-31 23:59
+2026-11-13 04:40:01,ffca112a-90ca-11ed-bcd6-0a58a9feac02,C02508,Soir,bus,info,INFORMATION,Bus de soirée,2023-01-10 10:30,2028-07-31 23:59
+2026-11-13 04:40:01,44ab868a-c4c7-11ee-8d5c-0a58a9feac02,C02030,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:00,2031-12-18 23:59
+2026-11-13 04:40:01,44ab868a-c4c7-11ee-8d5c-0a58a9feac02,C02255,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:00,2031-12-18 23:59
+2026-11-13 04:40:01,44ab868a-c4c7-11ee-8d5c-0a58a9feac02,C02602,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:00,2031-12-18 23:59
+2026-11-13 04:40:01,44ab868a-c4c7-11ee-8d5c-0a58a9feac02,C02603,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:00,2031-12-18 23:59
+2026-11-13 04:40:01,44ab868a-c4c7-11ee-8d5c-0a58a9feac02,C02605,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-06 09:00,2031-12-18 23:59
+2026-11-13 04:40:01,a841a4c5-036e-446b-88f0-507828e727be,C01776,2129,bus,info,INFORMATION,⚠️🚍 Ligne 2129 - À partir du 12 octobre 2026,2026-10-12 05:00,2026-11-15 23:59
+2026-11-13 04:40:01,1a2af43a-8f8e-11ef-b4de-0a58a9feac02,C02464,Soir,bus,info,INFORMATION,Bus de Soirée,2024-10-21 11:21,2029-12-31 20:16
+2026-11-13 04:40:01,1a2af43a-8f8e-11ef-b4de-0a58a9feac02,C02465,Soir,bus,info,INFORMATION,Bus de Soirée,2024-10-21 11:21,2029-12-31 20:16
+2026-11-13 04:40:01,6fb8467a-cfda-11ed-8e97-0a58a9feac02,C02503,TàD,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2023-03-31 17:40,2031-12-18 19:40
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01429,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01431,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01432,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01433,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01712,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C01823,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,6b3d4450-ef95-4122-8729-06f472849c7f,C02060,TàD,bus,info,INFORMATION,"Filéo, un service avec réservation",2016-11-03 00:00,2030-11-03 23:59
+2026-11-13 04:40:01,249df058-90ca-11ed-83d1-0a58a9feac02,C02485,TàD 6131,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2023-01-10 10:20,2029-07-31 23:59
+2026-11-13 04:40:01,904fac0c-90ce-11ed-b015-0a58a9feac02,C02513,Soir,bus,info,INFORMATION,Bus de soirée,2023-01-10 10:50,2029-07-31 23:59
+2026-11-13 04:40:01,376e400a-5014-4d25-be62-b99b6f4305fb,C01843,T4,tram,info,INFORMATION,Tramway T4 - Ecrans d'information voyageurs hors service en gare de Bondy.,2026-10-19 17:20,2027-01-31 23:59
+2026-11-13 04:40:01,6902685e-e564-11eb-b0fa-005056a44da2,C01543,7805,bus,info,INFORMATION,"Réseau Saint-Quentin-en-Yvelines : Ligne 7805, seules les montées sont autorisés entre ""Paris – Porte d’Orléans"" et ""Rond-Point du Petit Clamart"" en direction de Elancourt.",2021-07-15 14:00,2030-01-01 16:00
+2026-11-13 04:40:01,dbedc9f8-8ea8-41f1-9188-2df40459dcff,C02723,A04 VIL,bus,info,INFORMATION,Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation,2026-02-04 10:29,2027-02-25 12:29
+2026-11-13 04:40:01,edbbf8b5-fbcc-4170-9d41-b14701b05ceb,C00413,5117,bus,info,INFORMATION,ℹ️⏱️ Adaptation de votre ligne 5117 à partir du 16 novembre 2026 suite à la fermeture de l'A13.,2026-11-10 14:26,2026-11-29 23:59
+2026-11-13 04:40:01,e6fffafc-aae5-4c4a-8ffe-46f3dbf56c40,C00436,1353,bus,info,INFORMATION,⚠️🚍#InfoTrafic - Ligne 1353 - A partir du 07 Mai 2026,2026-05-07 18:16,2027-01-01 23:59
+2026-11-13 04:40:01,9267835b-f855-435c-bcf2-7be7bf224a14,C01476,6428,bus,info,INFORMATION,Ligne 6428 - À compter du 2 novembre 2026,2026-11-02 06:00,2027-01-31 23:59
+2026-11-13 04:40:01,08e9d9e1-3096-4129-9cca-3234e57b014c,C02179,A01 PPM,bus,info,INFORMATION,Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation,2026-02-04 11:02,2027-02-27 13:02
+2026-11-13 04:40:01,d3a35952-cfd7-11ed-8e97-0a58a9feac02,C02495,TàD 4305,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2023-03-31 17:10,2031-12-18 19:10
+2026-11-13 04:40:01,8f5ec8d4-39db-11ef-85e1-0a58a9feac02,C02291,TàD 2429,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2024-02-06 09:30,2031-12-18 23:59
+2026-11-13 04:40:01,816970ae-cffe-11ee-b14f-0a58a9feac02,C02474,Soir,bus,info,INFORMATION,Bus de soirée,2024-02-20 15:36,2026-12-31 17:36
+2026-11-13 04:40:01,3f8750f0-cfd9-11ed-8e97-0a58a9feac02,C02496,TàD 4301,bus,info,INFORMATION,Transport à la Demande - Réservation obligatoire,2023-03-31 17:20,2031-12-18 19:20
+2026-11-13 04:40:01,87b7b126-4c5b-4d38-b571-e3a5a494eb1b,C00411,7815,bus,info,INFORMATION,ℹ️⏱️ Adaptation de votre ligne 7815 à partir du 16 novembre 2026 suite à la fermeture de l'A13.,2026-11-10 14:13,2026-11-29 23:59
+2026-11-13 04:40:01,9e5497e8-00fc-40c4-8574-e0bdbbaeeb7c,C01473,6412,bus,info,INFORMATION,⚠🚍#InfoTrafic - Ligne 6412 - Lundi 2 novembre 2026,2026-10-29 12:16,2026-11-30 23:59
+2026-11-13 04:40:01,e46b1308-f653-11ee-bdfc-0a58a9feac02,C00652,7808,bus,info,INFORMATION,"Réseau Ile-de-France Ouest : Ligne 7808, montées et descentes autorisées entre ""Mantes-la-Ville"" et ""Cergy"" dans les deux sens.",2024-04-09 11:25,2027-04-30 13:25
