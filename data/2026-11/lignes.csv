@@ -4201,3 +4201,21 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-14 23:46:58,samedi,23,C01774,T7,tram,RATP,6,11,0,,,,14.39,,normal,0,83,20,14,,0
 2026-11-14 23:46:58,samedi,23,C01795,T8,tram,RATP,9,22,0,,,,16.33,,normal,0,3663,42,407,,0
 2026-11-14 23:46:58,samedi,23,C02317,T9,tram,Keolis Grand Paris Seine Orly,4,12,0,0.0,0.0,0.0,15.0,,normal,0,4,10,1,,0
+2026-11-15 03:12:28,dimanche,3,C02666,C1,cable,Transdev Côteaux de la Marne,,,,,,,,,interrompu,1,,,,,
+2026-11-15 03:12:28,dimanche,3,C01382,12,metro,RATP,,,,,,,,,interrompu,1,21,0,,,
+2026-11-15 03:12:28,dimanche,3,C01374,4,metro,RATP,,,,,,,,,interrompu,1,225,1,,,
+2026-11-15 03:12:28,dimanche,3,C01378,8,metro,RATP,,,,,,,,,interrompu,1,53,1,,,
+2026-11-15 03:12:28,dimanche,3,C01742,A,rer,SNCF,0,0,0,,,,,,normal,0,42,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,1,41,1,,,0
+2026-11-15 03:12:28,dimanche,3,C01727,C,rer,SNCF,0,2,0,0.0,0.0,0.0,,,perturbé,1,25,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01728,D,rer,SNCF,0,1,0,0.0,0.0,0.0,,,perturbé,1,45,1,,,0
+2026-11-15 03:12:28,dimanche,3,C01729,E,rer,SNCF,0,0,0,,,,,,perturbé,1,51,1,,,0
+2026-11-15 03:12:28,dimanche,3,C01737,H,train,SNCF,0,0,0,,,,,,normal,0,2,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01739,J,train,SNCF,0,0,0,,,,,,normal,0,10,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01740,L,train,SNCF,0,0,0,,,,,,normal,0,15,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01736,N,train,SNCF,0,0,0,,,,,,normal,0,34,1,,,0
+2026-11-15 03:12:28,dimanche,3,C01730,P,train,SNCF,0,0,0,,,,,,normal,0,35,1,,,0
+2026-11-15 03:12:28,dimanche,3,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,1,13,1,,,0
+2026-11-15 03:12:28,dimanche,3,C02711,V,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-15 03:12:28,dimanche,3,C02344,T13,tram,RATP Cap Arc Sud et Ouest,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-15 03:12:28,dimanche,3,C01843,T4,tram,STRETTO,,,,,,,,,info,1,0,0,,,
