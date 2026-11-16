@@ -4389,3 +4389,24 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-15 22:16:38,dimanche,22,C01774,T7,tram,RATP,6,9,0,,,,14.9,,normal,0,75,22,12,,0
 2026-11-15 22:16:38,dimanche,22,C01795,T8,tram,RATP,6,18,0,,,,17.98,,normal,0,4886,49,814,,0
 2026-11-15 22:16:38,dimanche,22,C02317,T9,tram,Keolis Grand Paris Seine Orly,6,14,0,0.42,0.0,0.0,15.0,,normal,0,5,19,1,,0
+2026-11-16 02:09:10,semaine,2,C02666,C1,cable,Transdev Côteaux de la Marne,,,,,,,,,interrompu,1,,,,,
+2026-11-16 02:09:10,semaine,2,C01382,12,metro,RATP,,,,,,,,,interrompu,1,5,0,,,
+2026-11-16 02:09:10,semaine,2,C01374,4,metro,RATP,,,,,,,,,interrompu,1,10,0,,,
+2026-11-16 02:09:10,semaine,2,C01376,6,metro,RATP,0,2,0,,,,16.33,,normal,0,7,0,,,0
+2026-11-16 02:09:10,semaine,2,C01377,7,metro,RATP,1,1,0,,,,,,normal,0,8,0,8,,0
+2026-11-16 02:09:10,semaine,2,C01378,8,metro,RATP,,,,,,,,,interrompu,1,8,0,,,
+2026-11-16 02:09:10,semaine,2,C01742,A,rer,SNCF,0,0,0,,,,,,normal,0,3,0,,,0
+2026-11-16 02:09:10,semaine,2,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,2,3,0,,,0
+2026-11-16 02:09:10,semaine,2,C01727,C,rer,SNCF,,,,,,,,,perturbé,2,2,0,,,
+2026-11-16 02:09:10,semaine,2,C01728,D,rer,SNCF,2,2,0,69.09,69.09,100.0,6.07,,perturbé,2,1,0,0,,0
+2026-11-16 02:09:10,semaine,2,C01729,E,rer,SNCF,,,,,,,,,perturbé,1,2,0,,,
+2026-11-16 02:09:10,semaine,2,C01737,H,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-16 02:09:10,semaine,2,C01739,J,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-16 02:09:10,semaine,2,C01740,L,train,SNCF,0,0,0,,,,,,normal,0,1,0,,,0
+2026-11-16 02:09:10,semaine,2,C01736,N,train,SNCF,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-16 02:09:10,semaine,2,C01730,P,train,SNCF,0,0,0,,,,,,normal,0,2,0,,,0
+2026-11-16 02:09:10,semaine,2,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,1,1,0,,,0
+2026-11-16 02:09:10,semaine,2,C02375,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-16 02:09:10,semaine,2,C01741,U,train,SNCF,,,,,,,,,perturbé,1,0,0,,,
+2026-11-16 02:09:10,semaine,2,C01391,T3a,tram,RATP,0,0,0,,,,,,normal,0,1,0,,,0
+2026-11-16 02:09:10,semaine,2,C01843,T4,tram,STRETTO,,,,,,,,,info,1,0,0,,,
