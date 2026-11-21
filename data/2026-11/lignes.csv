@@ -5151,3 +5151,34 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-20 22:19:45,semaine,22,C01774,T7,tram,RATP,11,16,0,,,,11.13,,normal,0,81,8,7,,0
 2026-11-20 22:19:45,semaine,22,C01795,T8,tram,RATP,11,27,0,,,,17.98,,normal,0,5467,30,497,,0
 2026-11-20 22:19:45,semaine,22,C02317,T9,tram,Keolis Grand Paris Seine Orly,9,24,1,17.02,0.0,26.3,8.93,,normal,0,3,2,0,,0
+2026-11-21 03:37:07,samedi,3,C01380,10,metro,RATP,1,2,0,,,,22.0,,normal,0,0,0,0,,0
+2026-11-21 03:37:07,samedi,3,C01383,13,metro,RATP,,,,,,,,,perturbé,1,2,0,,,
+2026-11-21 03:37:07,samedi,3,C01372,2,metro,RATP,0,2,0,,,,1.0,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01386,3B,metro,RATP,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C01374,4,metro,RATP,0,1,0,,,,,,interrompu,1,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01378,8,metro,RATP,0,1,0,,,,,,interrompu,1,4,0,,,0
+2026-11-21 03:37:07,samedi,3,C01379,9,metro,RATP,1,1,0,,,,,,normal,0,1,0,1,,0
+2026-11-21 03:37:07,samedi,3,C01742,A,rer,SNCF,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,1,1,0,,,0
+2026-11-21 03:37:07,samedi,3,C01727,C,rer,SNCF,0,0,0,,,,,,perturbé,2,8,0,,,0
+2026-11-21 03:37:07,samedi,3,C01728,D,rer,SNCF,0,2,0,0.0,0.0,0.0,,,normal,0,8,0,,,0
+2026-11-21 03:37:07,samedi,3,C01729,E,rer,SNCF,0,0,0,,,,,,perturbé,2,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01737,H,train,SNCF,0,2,0,0.0,0.0,0.0,,,perturbé,1,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01739,J,train,SNCF,0,0,0,,,,,,perturbé,3,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01738,K,train,SNCF,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C01740,L,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01736,N,train,SNCF,0,0,0,,,,,,perturbé,2,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01730,P,train,SNCF,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,2,2,0,,,0
+2026-11-21 03:37:07,samedi,3,C02372,TER,train,SNCF,0,0,0,,,,,,normal,0,,,,,0
+2026-11-21 03:37:07,samedi,3,C01744,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01745,TER,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C01741,U,train,SNCF,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C02711,V,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C02528,T10,tram,RD Bièvre,0,0,0,,,,,,normal,0,,,,,0
+2026-11-21 03:37:07,samedi,3,C02529,T12,tram,RATP Cap Arc Sud et Ouest,0,1,0,0.0,0.0,0.0,,,normal,0,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C02344,T13,tram,RATP Cap Arc Sud et Ouest,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-21 03:37:07,samedi,3,C02732,T14,tram,STRETTO,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C01391,T3a,tram,RATP,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C01679,T3b,tram,RATP,,,,,,,,,perturbé,1,0,0,,,
+2026-11-21 03:37:07,samedi,3,C01843,T4,tram,STRETTO,,,,,,,,,interrompu,2,0,0,,,
