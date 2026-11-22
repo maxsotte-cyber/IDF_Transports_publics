@@ -5340,3 +5340,27 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-21 23:25:10,samedi,23,C01774,T7,tram,RATP,5,13,0,,,,15.0,,normal,0,83,20,17,,0
 2026-11-21 23:25:10,samedi,23,C01795,T8,tram,RATP,9,24,0,,,,17.87,,normal,0,3663,42,407,,0
 2026-11-21 23:25:10,samedi,23,C02317,T9,tram,Keolis Grand Paris Seine Orly,6,16,4,0.09,0.0,0.0,11.6,,normal,0,4,10,1,,0
+2026-11-22 03:32:17,dimanche,3,C01380,10,metro,RATP,0,2,0,,,,22.0,,normal,0,2,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01374,4,metro,RATP,,,,,,,,,interrompu,1,224,1,,,
+2026-11-22 03:32:17,dimanche,3,C01377,7,metro,RATP,0,2,0,,,,,,normal,0,143,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01378,8,metro,RATP,,,,,,,,,interrompu,1,53,1,,,
+2026-11-22 03:32:17,dimanche,3,C01379,9,metro,RATP,0,1,0,,,,,,normal,0,49,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01742,A,rer,SNCF,0,0,0,,,,,,normal,0,42,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01743,B,rer,SNCF,0,0,0,,,,,,perturbé,2,40,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01727,C,rer,SNCF,0,1,0,0.0,0.0,0.0,,,perturbé,2,25,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01728,D,rer,SNCF,0,1,0,0.0,0.0,0.0,,,normal,0,43,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01729,E,rer,SNCF,0,0,0,,,,,,perturbé,2,41,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01737,H,train,SNCF,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01739,J,train,SNCF,0,0,0,,,,,,perturbé,2,14,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01738,K,train,SNCF,,,,,,,,,perturbé,1,0,0,,,
+2026-11-22 03:32:17,dimanche,3,C01740,L,train,SNCF,0,0,0,,,,,,normal,0,19,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01736,N,train,SNCF,0,0,0,,,,,,perturbé,2,1,0,,,0
+2026-11-22 03:32:17,dimanche,3,C01730,P,train,SNCF,0,0,0,,,,,,perturbé,1,34,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01731,R,train,SNCF,0,0,0,,,,,,perturbé,3,13,1,,,0
+2026-11-22 03:32:17,dimanche,3,C01741,U,train,SNCF,,,,,,,,,perturbé,1,3,0,,,
+2026-11-22 03:32:17,dimanche,3,C02711,V,train,SNCF,0,0,0,,,,,,normal,0,0,0,,,0
+2026-11-22 03:32:17,dimanche,3,C02528,T10,tram,RD Bièvre,0,0,0,,,,,,normal,0,,,,,0
+2026-11-22 03:32:17,dimanche,3,C02529,T12,tram,RATP Cap Arc Sud et Ouest,0,2,0,0.0,0.0,0.0,2.5,,normal,0,0,0,,,0
+2026-11-22 03:32:17,dimanche,3,C02344,T13,tram,RATP Cap Arc Sud et Ouest,0,0,0,,,,,,perturbé,1,0,0,,,0
+2026-11-22 03:32:17,dimanche,3,C02732,T14,tram,STRETTO,,,,,,,,,perturbé,1,0,0,,,
+2026-11-22 03:32:17,dimanche,3,C01843,T4,tram,STRETTO,,,,,,,,,info,1,0,0,,,
