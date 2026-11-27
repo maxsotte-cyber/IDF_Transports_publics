@@ -6029,3 +6029,43 @@ ts,type_jour,heure,id_ligne,ligne,famille,exploitant,rames,courses,supprimees,re
 2026-11-26 16:40:06,semaine,16,C01774,T7,tram,RATP,9,14,0,,,,7.54,,normal,0,547,56,61,,0
 2026-11-26 16:40:06,semaine,16,C01795,T8,tram,RATP,18,26,0,,,,7.97,,normal,0,13720,74,762,,0
 2026-11-26 16:40:06,semaine,16,C02317,T9,tram,Keolis Grand Paris Seine Orly,18,50,4,7.83,4.0,32.6,3.83,,normal,0,56,39,3,,0
+2026-11-27 01:02:35,semaine,1,C01371,1,metro,RATP,11,23,0,,,,4.21,,normal,0,409,1,37,,0
+2026-11-27 01:02:35,semaine,1,C01380,10,metro,RATP,9,17,0,,,,10.67,,perturbé,1,94,2,10,,0
+2026-11-27 01:02:35,semaine,1,C01381,11,metro,RATP,9,14,0,,,,8.29,,normal,0,419,3,47,,0
+2026-11-27 01:02:35,semaine,1,C01382,12,metro,RATP,10,24,0,,,,3.96,,normal,0,178,1,18,,0
+2026-11-27 01:02:35,semaine,1,C01383,13,metro,RATP,10,19,0,,,,2.58,,interrompu,1,245,1,24,,0
+2026-11-27 01:02:35,semaine,1,C01384,14,metro,RATP,6,6,0,,,,4.3,,normal,0,263,1,44,,0
+2026-11-27 01:02:35,semaine,1,C01372,2,metro,RATP,6,13,0,,,,7.5,,normal,0,472,3,79,,0
+2026-11-27 01:02:35,semaine,1,C01373,3,metro,RATP,5,8,0,,,,7.77,,normal,0,234,1,47,,0
+2026-11-27 01:02:35,semaine,1,C01386,3B,metro,RATP,6,6,0,,,,2.17,,normal,0,25,1,4,,0
+2026-11-27 01:02:35,semaine,1,C01374,4,metro,RATP,16,22,0,,,,5.07,,interrompu,1,519,2,32,,0
+2026-11-27 01:02:35,semaine,1,C01375,5,metro,RATP,4,8,0,,,,10.06,,normal,0,308,2,77,,0
+2026-11-27 01:02:35,semaine,1,C01376,6,metro,RATP,8,16,0,,,,6.83,,normal,0,328,1,41,,0
+2026-11-27 01:02:35,semaine,1,C01377,7,metro,RATP,13,34,0,,,,7.92,,normal,0,454,2,35,,0
+2026-11-27 01:02:35,semaine,1,C01387,7B,metro,RATP,6,9,0,,,,7.0,,normal,0,42,2,7,,0
+2026-11-27 01:02:35,semaine,1,C01378,8,metro,RATP,11,22,0,,,,4.17,,interrompu,1,329,2,30,,0
+2026-11-27 01:02:35,semaine,1,C01379,9,metro,RATP,14,29,0,,,,3.84,,normal,0,346,1,25,,0
+2026-11-27 01:02:35,semaine,1,C01742,A,rer,SNCF,7,7,0,0.52,0.0,0.0,8.22,,perturbé,1,124,0,18,,0
+2026-11-27 01:02:35,semaine,1,C01743,B,rer,SNCF,3,3,0,0.73,0.58,0.0,9.75,,perturbé,2,79,0,26,,0
+2026-11-27 01:02:35,semaine,1,C01727,C,rer,SNCF,,,,,,,,,perturbé,7,115,0,,,
+2026-11-27 01:02:35,semaine,1,C01728,D,rer,SNCF,,,,,,,,,perturbé,2,93,0,,,
+2026-11-27 01:02:35,semaine,1,C01729,E,rer,SNCF,,,,,,,,,perturbé,3,62,0,,,
+2026-11-27 01:02:35,semaine,1,C01737,H,train,SNCF,4,4,0,0.43,0.33,0.0,30.0,,perturbé,1,19,0,5,,0
+2026-11-27 01:02:35,semaine,1,C01739,J,train,SNCF,2,2,0,0.0,0.0,0.0,8.83,,perturbé,4,26,0,13,,0
+2026-11-27 01:02:35,semaine,1,C01738,K,train,SNCF,,,,,,,,,perturbé,1,16,1,,,
+2026-11-27 01:02:35,semaine,1,C01740,L,train,SNCF,2,2,0,1.0,1.0,0.0,,,perturbé,3,38,0,19,,0
+2026-11-27 01:02:35,semaine,1,C01736,N,train,SNCF,1,1,0,0.0,0.0,0.0,,,perturbé,3,3,0,3,,0
+2026-11-27 01:02:35,semaine,1,C01730,P,train,SNCF,,,,,,,,,perturbé,4,15,0,,,
+2026-11-27 01:02:35,semaine,1,C01731,R,train,SNCF,,,,,,,,,perturbé,3,32,1,,,
+2026-11-27 01:02:35,semaine,1,C01741,U,train,SNCF,,,,,,,,,perturbé,1,16,0,,,
+2026-11-27 01:02:35,semaine,1,C01389,T1,tram,RATP,8,18,0,,,,15.47,,normal,0,28,0,4,,0
+2026-11-27 01:02:35,semaine,1,C02528,T10,tram,RD Bièvre,1,1,0,0.0,0.0,0.0,,,normal,0,,,,,0
+2026-11-27 01:02:35,semaine,1,C01999,T11,tram,STRETTO,3,4,0,0.0,0.0,0.0,15.0,,normal,0,2,1,1,,0
+2026-11-27 01:02:35,semaine,1,C02529,T12,tram,RATP Cap Arc Sud et Ouest,1,3,0,0.77,1.12,0.0,,,normal,0,0,0,0,,0
+2026-11-27 01:02:35,semaine,1,C01390,T2,tram,RATP,7,20,0,,,,15.1,,normal,0,12,0,2,,0
+2026-11-27 01:02:35,semaine,1,C01391,T3a,tram,RATP,10,23,0,,,,19.72,,normal,0,23,1,2,,0
+2026-11-27 01:02:35,semaine,1,C01679,T3b,tram,RATP,15,26,0,,,,13.8,,normal,0,17,0,1,,0
+2026-11-27 01:02:35,semaine,1,C01843,T4,tram,STRETTO,,,,,,,,,interrompu,2,,,,,
+2026-11-27 01:02:35,semaine,1,C01794,T6,tram,RATP,4,8,0,,,,,,normal,0,,,,,0
+2026-11-27 01:02:35,semaine,1,C01774,T7,tram,RATP,2,2,0,,,,,,normal,0,3,0,2,,0
+2026-11-27 01:02:35,semaine,1,C02317,T9,tram,Keolis Grand Paris Seine Orly,4,9,3,0.0,0.0,0.0,7.08,,normal,0,0,0,0,,0
